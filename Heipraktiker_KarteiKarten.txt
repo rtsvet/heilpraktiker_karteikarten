@@ -17,7 +17,7 @@
 # Curtenly the fields are: 
 # Front	Back	Picture	Tag
 #
-#	
+#
 
 #######  Alergien #####
 Allergie Typen	Typ I - Anaphilaktisch<br>Typ II - Zytotoxisch<br>Typ II - Immunkomplex<br>Typ IV - Spättyp<br>		Immunusystem, Allergie
@@ -33,9 +33,9 @@ Allergie Typ III Reaktionszeit	6-8 Std. Tage		Immunusystem, Allergie
 Allergie Typ II Reaktionszeit	6-12 Std. bis Tage		Immunusystem, Allergie
 
 ####### Nieren ##### 
-Pyelonephritis Zeichen  Fieber <br>Flankenschmerz (einseitig) klopfempfindlich <br>Trias: Pyurie, Bakteriurie, BSG↑ <br>Entzündung↑, Leukozyten↑, Proteinurie (Albumin)    Nieren, Urologie
-Pyelonephritis Therapie  Arztüberweisung, Urologe, vieltrinken    Nieren, Urologie
-Glomerulonephritis Zeichen  Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br> RR↑, Nephrotisches Syndrom: Ödeme (auch Augen), Hämaturie (Makro!), Proteinurie (Albumin), Blut Lypiden↑ (Hyperlipoproteinämie)     Nieren, Nephrologie
+Pyelonephritis Zeichen: 	Fieber <br>Flankenschmerz (einseitig) klopfempfindlich <br>Trias: Pyurie, Bakteriurie, BSG↑ <br>Entzündung↑, Leukozyten↑, Proteinurie (Albumin)		Nieren, Urologie
+Pyelonephritis Therapie 	Arztüberweisung, Urologe, vieltrinken		Nieren, Urologie
+Glomerulonephritis Zeichen 	Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br> RR↑, Nephrotisches Syndrom: Ödeme (auch Augen), Hämaturie (Makro!), Proteinurie (Albumin), Blut Lypiden↑ (Hyperlipoproteinämie)		Nieren, Nephrolo
 Glomerulonephritis Therapie 	Arztüberweisung, Nephrologe, Wenig trinken um die Nieren zu entlasten     Nieren, Nephrologie
-Def.: Akute Niereninsufizienz, ANV, Akutes Nierenversagen		Funktionsaufal der Niere bei vorher gesunder Zustand mit versiegen der Harnausscheidung		Nieren, Nephrologie
-Def.: Chronische Niereninsufizienz, CNI, Akutchronisches Nierenversagen		langasam zunehmende Funktionsstärung aufgrung andere Erk. mit terminale Urämie (Harnvergiftung)		Nieren, Nephrologie
+Def.: Akute Niereninsufizienz, ANV, Akutes Nierenversagen	Funktionsaufal der Niere bei vorher gesunder Zustand mit versiegen der Harnausscheidung		Nieren, Nephrologie
+Def.: Chronische Niereninsufizienz, CNI, Akutchronisches Nierenversagen 	langasam zunehmende Funktionsstörung aufgrung andere Erk. mit terminale Urämie (Harnvergiftung)		Nieren, Nephrologie
