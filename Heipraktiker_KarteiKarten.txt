@@ -39,3 +39,4 @@ Glomerulonephritis Zeichen 	Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br>
 Glomerulonephritis Therapie 	Arztüberweisung, Nephrologe, Wenig trinken um die Nieren zu entlasten     Nieren, Nephrologie
 Def.: Akute Niereninsufizienz, ANV, Akutes Nierenversagen	Funktionsaufal der Niere bei vorher gesunder Zustand mit versiegen der Harnausscheidung		Nieren, Nephrologie
 Def.: Chronische Niereninsufizienz, CNI, Akutchronisches Nierenversagen 	langasam zunehmende Funktionsstörung aufgrung andere Erk. mit terminale Urämie (Harnvergiftung)		Nieren, Nephrologie
+Ursachen der ANS prerenal	Durchbluttungstörungen, Shock oder Dehydration (Schockniere), Septischen Schock, Volumenmangel mit Blutdruckabfall		Nieren, Nephrologie
