@@ -13,8 +13,8 @@
 #    https://creativecommons.org/licenses/by-nc/4.0/legalcode
 #    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
 #
-# Use <Tab> as filed separator
-# Curtenly the fields are: 
+# Use <Tab> as field separator
+# Currently the fields are: 
 # Front	Back	Picture	Tag
 #
 #
@@ -36,7 +36,7 @@ Allergie Typ II Reaktionszeit	6-12 Std. bis Tage		Immunusystem, Allergie
 Pyelonephritis Zeichen: 	Fieber <br>Flankenschmerz (einseitig) klopfempfindlich <br>Trias: Pyurie, Bakteriurie, BSG↑ <br>Entzündung↑, Leukozyten↑, Proteinurie (Albumin)		Nieren, Urologie
 Pyelonephritis Therapie 	Arztüberweisung, Urologe, vieltrinken		Nieren, Urologie
 Glomerulonephritis Zeichen 	Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br> RR↑, Nephrotisches Syndrom: Ödeme (auch Augen), Hämaturie (Makro!), Proteinurie (Albumin), Blut Lypiden↑ (Hyperlipoproteinämie)		Nieren, Nephrolo
-Glomerulonephritis Therapie 	Arztüberweisung, Nephrologe, Wenig trinken um die Nieren zu entlasten     Nieren, Nephrologie
+Glomerulonephritis Therapie 	Arztüberweisung, Nephrologe, Wenig trinken um die Nieren zu entlasten		Nieren, Nephrologie
 Def.: Akute Niereninsufizienz, ANV, Akutes Nierenversagen	Funktionsaufal der Niere bei vorher gesunder Zustand mit versiegen der Harnausscheidung		Nieren, Nephrologie
 Def.: Chronische Niereninsufizienz, CNI, Akutchronisches Nierenversagen 	langasam zunehmende Funktionsstörung aufgrung andere Erk. mit terminale Urämie (Harnvergiftung)		Nieren, Nephrologie
 Ursachen der ANS prerenal	Durchbluttungstörungen, Shock oder Dehydration (Schockniere), Septischen Schock, Volumenmangel mit Blutdruckabfall		Nieren, Nephrologie

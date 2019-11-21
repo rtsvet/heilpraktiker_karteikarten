@@ -11,14 +11,18 @@ Jede  kann die Datei  nach den simple Regeln erweitern. (Nutze <TAB>-Taste zwisc
 Meine Bitte ist die Datei danach hier zurück zu posten (hier in einen Post hochzuladen). Gut wäre es die  Versionsnummer in der Name höher zu setzen. 
 
 ## Details: 
+
+ Use <Tab> as field separator
+ Currently the fields are: 
+ Front <Tab> Back  <Tab> Picture  <Tab> Tag,Tag
+
 Anki Info:  https://apps.ankiweb.net 
 ## Download 
-iPhone: https://apps.apple.com/us/app/ankimobile-flashcards/id373493387
-Android: https://play.google.com/store/apps/details?id=com.ichi2.anki
+ iPhone: https://apps.apple.com/us/app/ankimobile-flashcards/id373493387
+ Android: https://play.google.com/store/apps/details?id=com.ichi2.anki
 
 Wie Deck Importieren und Fileformat: https://apps.ankiweb.net/docs/manual.html#importing
 
 Den aktuelle File wird auch in github  hochgeladen. Natürlich bestens ist wenn man sein Branch in github submitted.
 
 Ich möchte den File unter Creative Commons NC v.4.0 Lizenzierung veröffentlichen - Jede darf ändern und frei benutzen aber darf nicht ganz oder teilweise verkaufen oder oder damit  gewinn erziehen.     
-
