@@ -1,10 +1,7 @@
-# heilpraktiker_karteikarten
-
 ### Heilpraktiker Karteikarten Frei
 
-Hallo zusammen,
 
-Ich möchte vorschlagen zusammen Heilpraktiker Karteikarten schreiben/ergänzen. Diese Karteikarten kann jeder in der freie App (Anki), am PC oder im Web nutzen. 
+Zusammen Heilpraktiker Karteikarten schreiben/ergänzen. Diese Karteikarten kann jeder in der freie App (Anki), am PC oder im Web nutzen. 
 
 Wie wird genau Funktionieren?
 Jede darf die angehängte Datei in sein Karteikarten(Anki)  App importieren.  Anki ist eine freie Karteikarten App, die nach ein ausgeklügelte Verfahren nur die schwierige Karten Zeigt. 
