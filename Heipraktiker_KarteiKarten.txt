@@ -1,0 +1,24 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the GNU General Public License version 2 as published by
+#    the Free Software Foundation; 
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#    http://www.gnu.de/documents/gpl.de.html
+#
+# Use <Tab> as filed separator
+# Curtenly the fields are: 
+# Front	Back	Picture	Tag
+#
+#	
+Allergie Typen	Typ I - Anaphilaktisch<br>Typ II - Zytotoxisch<br>Typ II - Immunkomplex<br>Typ IV - Spättyp<br>		Allergie
+Krankheiten mit Type II allergische Reaktion	Transfusionzwischenfall, Transplatazionabst., allergischhämolytische Anämie		Allergie
+Krankheiten mit Type I allergische Reaktion	Anaphylaktische Reaktion a. Schock, Urikaria, allergische Rhinitis und Asthma, Quicke Ödem		Allergie
+Krankheiten mit Type III allergische Reaktion	Akute Glomeluronephritis, Polyarthritis, allergische Alveolitis, Serumkrankheit		Allergie
+Krankheiten mit Type IV allergische Reaktion	Kontakt Dermatitis, Thyreoiditis, einige Granulome		Allergie
+Allergie Typ I Mechanismus	Histamin und Mastzellen		Allergie
