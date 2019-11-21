@@ -21,5 +21,5 @@ Wie Deck Importieren und Fileformat: https://apps.ankiweb.net/docs/manual.html#i
 
 Den aktuelle File wird auch in github  hochgeladen. Natürlich bestens ist wenn man sein Branch in github submitted. (für die IT-Herde)
 
-Ich möchte den File unter Creative Commons NC v 2.0 Lizenzierung veröffentlichen - Jede darf ändern und frei benutzen aber darf nicht ganz oder teilweise verkaufen oder oder damit  gewinn erziehen.     
+Ich möchte den File unter Creative Commons NC v.4.0 Lizenzierung veröffentlichen - Jede darf ändern und frei benutzen aber darf nicht ganz oder teilweise verkaufen oder oder damit  gewinn erziehen.     
 
