@@ -12,14 +12,17 @@ Meine Bitte ist die Datei danach hier zurück zu posten (hier in einen Post hoch
 
 ## Details: 
 
- Use <Tab> as field separator
+ Use `<Tab>` as field separator.
  Currently the fields are: 
- Front <Tab> Back  <Tab> Picture  <Tab> Tag,Tag
+ 
+ Front `<Tab>` Back  `<Tab>` Picture  `<Tab>` Tag,Tag
+
 
 Anki Info:  https://apps.ankiweb.net 
 ## Download 
- iPhone: https://apps.apple.com/us/app/ankimobile-flashcards/id373493387
- Android: https://play.google.com/store/apps/details?id=com.ichi2.anki
+> iPhone: https://apps.apple.com/us/app/ankimobile-flashcards/id373493387
+
+> Android: https://play.google.com/store/apps/details?id=com.ichi2.anki
 
 Wie Deck Importieren und Fileformat: https://apps.ankiweb.net/docs/manual.html#importing
 
