@@ -15,7 +15,7 @@ Meine Bitte ist die Datei danach hier zurück zu posten (hier in einen Post hoch
  Use `<Tab>` as field separator.
  Currently the fields are: 
  
- Front `<Tab>` Back  `<Tab>` Picture  `<Tab>` Tag,Tag
+ Front `<Tab>` Back  `<Tab>` Picture  `<Tab>` Tag Tag
 
 
 Anki Info:  https://apps.ankiweb.net 
