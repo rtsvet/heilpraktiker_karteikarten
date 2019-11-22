@@ -49,9 +49,21 @@ Symptome der ANS	Oligurie, Anurie (bei 15% anfangs normal), Übelkeit, Somnolenz
 Komplikationen der ANS	Fehlender Salz und Wasser Ausscheidung -><br>Lungenödem/Luftnot,<br>Hirnödem/Krampfanfälle,<br>Hypertonie<br>, Hyperkaliämie<br>, Herzkreislauf überbelastung		Nieren Nephrologie
 Chronische Niereninsuffizienz (CNI) Ursachen	chron. GN, diabetische Nephropathie, chron. PN, Analgetika, Hypertonie, Zysternnieren		Nieren Nephrologie
 CNI Stadien und Sympt.	"I - normal Nierenfunktion evtl. Hypertonie<br> II - voll Kompensierte CNI<br> Krea-Clearance↓, Krea norm., evtl. Hypertonie<br> II - kompensierte CNI: Serum Krea und Harnstoff↑<br> III - dekompensierte: Hypertonie, Überwässerung, Perikarditis, Herzraststörungen, Lungenödem, Pleuritis, Mundgeruch, II⟺  III<br> IV - terminales: irreversibel, Serum Krea. > 10 mg/dl, Dialyse, Nierentransplantation"		Nieren Nephrologie
-Glomerulopathie Def	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>	<img src="Glomerular_Membran.png">	Nieren Nephrologie
-Nephrotisches Syndrom <br>Def. Sympt.	verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
-Glomerulonephritis Def Sympt.	beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula)<br><b>Sympt.</b> hämauturia, Proteinuria, < 3.5g/dl, Entz, Oliguria, RR↑, Azotämie (Serum Urea↑)		Nieren Nephrologie
-Zystitis und Utretritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
+Glomerulopathie Def	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>		Nieren Nephrologie
+Nephrotisches Syndrom <br>Def. Sympt.	Verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
+Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula) meist Allergische Typ III Reaktion gegen Antigen-Antikörperkomplex<br>Akut Postinfektiös GN, Rasch progrdierende GN, Chronish<br><b>Sympt.</b> Hämauturie, Proteinuria, < 3.5g/,T Entz, Oliguria, RR↑, Azotämie (Serum Urea↑), Ödeme	<img src="Glomerular_Membran.png">	Nieren Nephrologie
+Zystitis und Urethritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
 Nephrolithiasis, Urolithiasis	Nierenkolik, Ana: Familiengeschichte [Hausarzt, Kliniküberweisung!], 		Nieren Nephrologie
+Glomerulonepfritis Sympt	RR↑, Ödeme, Hämatourie (dismorphysch), Proteinurie <3,5g/Tag, Oligurie bis Anurie, Azotämie	<img src="Glomerular_Membran.png"	>
+Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (🗲 GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (🗲 GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (🗲 GN)		
+
+######## Urologie Urin ##############
+Leukos in Urintest	Bakterielle Entz., CNI		Urologie Urintest
+Erys in Urinitest	Tumor, Steine, CNI		Urologie Urintest
+
+Wie bestimmt man GFR?	GFR ≈ Kreatinin Clearance<br> (Kreatininkonz. in Urin)/(Kreatitinin In Plasma) x (ml Urinvolumen)/min		Urologie Nieren
+
+########################################################
+########    Elektrolytstörungen    #####################
+########################################################
 
