@@ -21,10 +21,10 @@
 
 #######  Alergien #####
 Allergie Typen	Typ I - Anaphilaktisch<br>Typ II - Zytotoxisch<br>Typ II - Immunkomplex<br>Typ IV - Spättyp<br>		Immunusystem Allergie
-Krankheiten mit Type II allergische Reaktion	Transfusionzwischenfall, Transplatazionabst., allergischhämolytische Anämie		Immunusystem Allergie
-Krankheiten mit Type I allergische Reaktion	Anaphylaktische Reaktion a. Schock, Urikaria, allergische Rhinitis und Asthma, Quicke Ödem		Immunusystem Allergie
-Krankheiten mit Type III allergische Reaktion	Akute Glomeluronephritis, Polyarthritis, allergische Alveolitis, Serumkrankheit		Immunusystem Allergie
-Krankheiten mit Type IV allergische Reaktion	Kontakt Dermatitis, Thyreoiditis, einige Granulome		Immunusystem Allergie
+Krankheiten mit Typ II allergische Reaktion	Transfusionzwischenfall, Transplatazionabst., allergischhämolytische Anämie		Immunusystem Allergie
+Krankheiten mit Typ I allergische Reaktion	Anaphylaktische Reaktion a. Schock, Urikaria, allergische Rhinitis und Asthma,  Angioödem (Quincke Ödem)	<img src="Angioedema.jpeg">	Immunusystem Allergie
+Krankheiten mit Typ III allergische Reaktion	Akute Glomeluronephritis, Polyarthritis, allergische Alveolitis, Serumkrankheit		Immunusystem Allergie
+Krankheiten mit Typ IV allergische Reaktion	Kontakt Dermatitis, Thyreoiditis, einige Granulome		Immunusystem Allergie
 Allergie Typ I Mechanismus	Histamin und Mastzellen		Immunusystem Allergie
 Allergie Typ II Mechanismus	Lyse durch Zytotoxysche T-Lymphozyten oder Kompl.		Immunusystem Allergie
 Allergie Typ III Mechanismus	Lagern der Immunkomplexen, Entzündung		Immunusystem Allergie
