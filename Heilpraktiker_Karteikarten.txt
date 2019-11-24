@@ -21,10 +21,10 @@
 
 #######  Alergien #####
 Allergie Typen	Typ I - Anaphilaktisch<br>Typ II - Zytotoxisch<br>Typ II - Immunkomplex<br>Typ IV - Spättyp<br>		Immunusystem Allergie
-Krankheiten mit Type II allergische Reaktion	Transfusionzwischenfall, Transplatazionabst., allergischhämolytische Anämie		Immunusystem Allergie
-Krankheiten mit Type I allergische Reaktion	Anaphylaktische Reaktion a. Schock, Urikaria, allergische Rhinitis und Asthma, Quicke Ödem		Immunusystem Allergie
-Krankheiten mit Type III allergische Reaktion	Akute Glomeluronephritis, Polyarthritis, allergische Alveolitis, Serumkrankheit		Immunusystem Allergie
-Krankheiten mit Type IV allergische Reaktion	Kontakt Dermatitis, Thyreoiditis, einige Granulome		Immunusystem Allergie
+Krankheiten mit Typ II allergische Reaktion	Transfusionzwischenfall, Transplatazionabst., allergischhämolytische Anämie		Immunusystem Allergie
+Krankheiten mit Typ I allergische Reaktion	Anaphylaktische Reaktion a. Schock, Urikaria, allergische Rhinitis und Asthma,  Angioödem (Quincke Ödem)	<img src="Angioedema.jpeg">	Immunusystem Allergie
+Krankheiten mit Typ III allergische Reaktion	Akute Glomeluronephritis, Polyarthritis, allergische Alveolitis, Serumkrankheit		Immunusystem Allergie
+Krankheiten mit Typ IV allergische Reaktion	Kontakt Dermatitis, Thyreoiditis, einige Granulome		Immunusystem Allergie
 Allergie Typ I Mechanismus	Histamin und Mastzellen		Immunusystem Allergie
 Allergie Typ II Mechanismus	Lyse durch Zytotoxysche T-Lymphozyten oder Kompl.		Immunusystem Allergie
 Allergie Typ III Mechanismus	Lagern der Immunkomplexen, Entzündung		Immunusystem Allergie
@@ -49,9 +49,48 @@ Symptome der ANS	Oligurie, Anurie (bei 15% anfangs normal), Übelkeit, Somnolenz
 Komplikationen der ANS	Fehlender Salz und Wasser Ausscheidung -><br>Lungenödem/Luftnot,<br>Hirnödem/Krampfanfälle,<br>Hypertonie<br>, Hyperkaliämie<br>, Herzkreislauf überbelastung		Nieren Nephrologie
 Chronische Niereninsuffizienz (CNI) Ursachen	chron. GN, diabetische Nephropathie, chron. PN, Analgetika, Hypertonie, Zysternnieren		Nieren Nephrologie
 CNI Stadien und Sympt.	"I - normal Nierenfunktion evtl. Hypertonie<br> II - voll Kompensierte CNI<br> Krea-Clearance↓, Krea norm., evtl. Hypertonie<br> II - kompensierte CNI: Serum Krea und Harnstoff↑<br> III - dekompensierte: Hypertonie, Überwässerung, Perikarditis, Herzraststörungen, Lungenödem, Pleuritis, Mundgeruch, II⟺  III<br> IV - terminales: irreversibel, Serum Krea. > 10 mg/dl, Dialyse, Nierentransplantation"		Nieren Nephrologie
-Glomerulopathie Def	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>	<img src="Glomerular_Membran.png">	Nieren Nephrologie
-Nephrotisches Syndrom <br>Def. Sympt.	verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
-Glomerulonephritis Def Sympt.	beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula)<br><b>Sympt.</b> hämauturia, Proteinuria, < 3.5g/dl, Entz, Oliguria, RR↑, Azotämie (Serum Urea↑)		Nieren Nephrologie
-Zystitis und Utretritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
+Glomerulopathie Def	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>		Nieren Nephrologie
+Nephrotisches Syndrom <br>Def. Sympt.	Verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
+Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula) meist Allergische Typ III Reaktion gegen Antigen-Antikörperkomplex<br>Akut Postinfektiös GN, Rasch progrdierende GN, Chronish<br><b>Sympt.</b> Hämauturie, Proteinuria, < 3.5g/,T Entz, Oliguria, RR↑, Azotämie (Serum Urea↑), Ödeme	<img src="Glomerular_Membran.png">	Nieren Nephrologie
+Zystitis und Urethritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
 Nephrolithiasis, Urolithiasis	Nierenkolik, Ana: Familiengeschichte [Hausarzt, Kliniküberweisung!], 		Nieren Nephrologie
+Glomerulonepfritis Sympt	RR↑, Ödeme, Hämatourie (dismorphysch), Proteinurie <3,5g/Tag, Oligurie bis Anurie, Azotämie	<img src="Glomerular_Membran.png"	>
+Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (🗲 GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (🗲 GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (🗲 GN)		
+
+######## Urologie Urin ##############
+Leukos in Urintest	Bakterielle Entz., CNI		Urologie Urintest
+Erys in Urinitest	Tumor, Steine, CNI		Urologie Urintest
+
+Wie bestimmt man GFR?	GFR ≈ Kreatinin Clearance<br> (Kreatininkonz. in Urin)/(Kreatitinin In Plasma) x (ml Urinvolumen)/min		Urologie Nieren
+Wie groß ist Nieren Filtrazion Rate?	80 ml/min <br>50 ml/min <br> 120 ml/min <br>180 l/St		Urologie Nieren
+
+Wie viel ist Glomerulare Firtationsdruk am <b>Ende</b> der Glomerulusschlinge?	50 mmHg <br>0 mmHg <br> 20 mmHg		Urologie Nieren
+Wie viel ist Glomerulare Firtationsdruk am <b>Anfang</b> der Glomerulusschlinge?	50 mmHg <br>0 mmHg <br> 18 mmHg		Urologie Nieren
+Komponente der Glomerulare Firtationsdruk und Formula:	Blutdruck ≈ 50mmHg <br>Koloidosmotischedruck Anf≈20 - Ende≈36mmHg <br>Hydrostatischedruck der Kapsel ≈ 12 mmHg <br> Am angang 50 - 20 - 12 = 18 mmHg		Urologie Nieren
+
+Mechanismen der Nirendurchblutung und Filtrazion (4):	Autoregulazion durch das glatte Muskulatur, Baylisefffekt <br>tubuloglomerulale Rückkoplung für Kochsalz<br> RAAS <br> ANP atriale natriuretische Peptid Filtrazionrate 🠙, Natriumausscheidung 🠙		Urologie Nieren
+
+########################################################
+########    Elektrolytstörungen    #####################
+########################################################
+
+Hyponatriämie bei Dehydratation Sympt	Durst, Oligurie, Schwäche, trokene Schleimhäute, Puls🠙, RR🠛, kollabierte Halsvenen, Bewusstseinsübung 		Elektrolytstörungen
+Hyponatriämie bei Dehydratation Ther	Zufuhr von salzigeflussigkeiten, Infusion 		Elektrolytstörungen
+Hyponatriämie bei Hyperhydratation Sympt Ther	Gewichtzunahme, Ödeme, Leistungsminderung,  Symptome der Herzinsuffizienz, ZNS Symptome <b>Ther</b> Diuretika, Behandlung der Grunderkr., Flussigkeitseinschränkung		Elektrolytstörungen
+
+
+Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmusstörungen (Kammerflimmern), Bewusstseinsstörungen		Elektrolytstörungen
+Hyperkaliämie Sympt	kein zuverlässiges Symptom, Kribbelgefühl der Haut, Muskelzuckungen, Herzrhythmusstörungen bis zum Herzstillstand, EKG-Veränderungen		Elektrolytstörungen
+Hypomagnesiämie Symt	unspezifische Symptome, da gleichzeitig Hypokaliämie und/oder Hypokalzämie vorliegen 		Elektrolytstörungen
+Hypokalzämie Sympt	Tetanie: Krampfanfälle bei erhaltenem Bewusstsein, <br>Bei chronischer Kalziummangel: <br>trophische Hautstörungen (trockene, rissige Haut und Nägeln), Knochenveränderungen: beim Erwachsenen Osteomalazie, beim Kind - Rachitis		Elektrolytstörungen
+Hypokalzämie Ther	 Vit D, Kalziumsreiche Diät, <b>Achtung</b> niemals i. v.-Gabe von Kalzium bei digitalisierten Pt 🠚 Herzrhythmusstörungen		Elektrolytstörungen
+Hyperkalzämie Sympt	(Muskel-)Schwäche, Magen-Darm-Beschwerden, Herzrhythmusstörungen, hyperkalzämische Krise (lebensbedrohlich): massive Polyurie und Polydipsie, Erbrechen, Exsikkose, Fieber, psychotischen Erscheinungen, Bewusstseinsstörungen bis hin zum Koma		Elektrolytstörungen
+Makrohämaturie Def	 bei der das Blut bereits mit bloßem Auge sichtbar ist (> ca. 1 ml Blut/l Urin) 		Urologie Urintest
+Erkr mit Makrohämaturie 	• Nierensteine, Tumoren der Nieren oder Harnwege, Urogenitaltuberkulose (Leukozyturie bei sterilem Harn), Zystennieren, Blasenentzündung, erhöhte Blutungsneigung (hämorrhagische Diathese, Trauma (z. B. nach Katheterisierung), Endometriose der Harnwege		Urologie Urintest
+Mikrohämaturie Def	das Blut nur mit speziellen Tests (z. B. Urin-StreifenSchnelltest oder mikroskopische Beurteilung des Urins) nachweisbar ist.		Urologie lutungenUrintest
+Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis (Leukozyturie, Bakteriurie), interstitieller Nephritis,mechanischer Belastung (Marathonlauf), Vaskulitis, GN		Urologie Urintest 
+Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
+Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
+
+
 
