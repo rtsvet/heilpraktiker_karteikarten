@@ -69,7 +69,28 @@ Wie viel ist Glomerulare Firtationsdruk am <b>Anfang</b> der Glomerulusschlinge?
 Komponente der Glomerulare Firtationsdruk und Formula:	Blutdruck ≈ 50mmHg <br>Koloidosmotischedruck Anf≈20 - Ende≈36mmHg <br>Hydrostatischedruck der Kapsel ≈ 12 mmHg <br> Am angang 50 - 20 - 12 = 18 mmHg		Urologie Nieren
 
 Mechanismen der Nirendurchblutung und Filtrazion (4):	Autoregulazion durch das glatte Muskulatur, Baylisefffekt <br>tubuloglomerulale Rückkoplung für Kochsalz<br> RAAS <br> ANP atriale natriuretische Peptid Filtrazionrate 🠙, Natriumausscheidung 🠙		Urologie Nieren
+
 ########################################################
 ########    Elektrolytstörungen    #####################
 ########################################################
+
+Hyponatriämie bei Dehydratation Sympt	Durst, Oligurie, Schwäche, trokene Schleimhäute, Puls🠙, RR🠛, kollabierte Halsvenen, Bewusstseinsübung 		Elektrolytstörungen
+Hyponatriämie bei Dehydratation Ther	Zufuhr von salzigeflussigkeiten, Infusion 		Elektrolytstörungen
+Hyponatriämie bei Hyperhydratation Sympt Ther	Gewichtzunahme, Ödeme, Leistungsminderung,  Symptome der Herzinsuffizienz, ZNS Symptome <b>Ther</b> Diuretika, Behandlung der Grunderkr., Flussigkeitseinschränkung		Elektrolytstörungen
+
+
+Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmusstörungen (Kammerflimmern), Bewusstseinsstörungen		Elektrolytstörungen
+Hyperkaliämie Sympt	kein zuverlässiges Symptom, Kribbelgefühl der Haut, Muskelzuckungen, Herzrhythmusstörungen bis zum Herzstillstand, EKG-Veränderungen		Elektrolytstörungen
+Hypomagnesiämie Symt	unspezifische Symptome, da gleichzeitig Hypokaliämie und/oder Hypokalzämie vorliegen 		Elektrolytstörungen
+Hypokalzämie Sympt	Tetanie: Krampfanfälle bei erhaltenem Bewusstsein, <br>Bei chronischer Kalziummangel: <br>trophische Hautstörungen (trockene, rissige Haut und Nägeln), Knochenveränderungen: beim Erwachsenen Osteomalazie, beim Kind - Rachitis		Elektrolytstörungen
+Hypokalzämie Ther	 Vit D, Kalziumsreiche Diät, <b>Achtung</b> niemals i. v.-Gabe von Kalzium bei digitalisierten Pt 🠚 Herzrhythmusstörungen		Elektrolytstörungen
+Hyperkalzämie Sympt	(Muskel-)Schwäche, Magen-Darm-Beschwerden, Herzrhythmusstörungen, hyperkalzämische Krise (lebensbedrohlich): massive Polyurie und Polydipsie, Erbrechen, Exsikkose, Fieber, psychotischen Erscheinungen, Bewusstseinsstörungen bis hin zum Koma		Elektrolytstörungen
+Makrohämaturie Def	 bei der das Blut bereits mit bloßem Auge sichtbar ist (> ca. 1 ml Blut/l Urin) 		Urologie Urintest
+Erkr mit Makrohämaturie 	• Nierensteine, Tumoren der Nieren oder Harnwege, Urogenitaltuberkulose (Leukozyturie bei sterilem Harn), Zystennieren, Blasenentzündung, erhöhte Blutungsneigung (hämorrhagische Diathese, Trauma (z. B. nach Katheterisierung), Endometriose der Harnwege		Urologie Urintest
+Mikrohämaturie Def	das Blut nur mit speziellen Tests (z. B. Urin-StreifenSchnelltest oder mikroskopische Beurteilung des Urins) nachweisbar ist.		Urologie lutungenUrintest
+Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis (Leukozyturie, Bakteriurie), interstitieller Nephritis,mechanischer Belastung (Marathonlauf), Vaskulitis, GN		Urologie Urintest 
+Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
+Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
+
+
 
