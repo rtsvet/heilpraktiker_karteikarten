@@ -1,3 +1,4 @@
 ANV	Akute nierenversagen
 CNI	Chronische Niereninsuffizienz
 Entz	Entündung
+HWI	Harnwegsinfekt
