@@ -81,7 +81,6 @@ Hyponatriämie bei Dehydratation Sympt	Durst, Oligurie, Schwäche, trokene Schle
 Hyponatriämie bei Dehydratation Ther	Zufuhr von salzigeflussigkeiten, Infusion 		Elektrolytstörungen
 Hyponatriämie bei Hyperhydratation Sympt Ther	Gewichtzunahme, Ödeme, Leistungsminderung,  Symptome der Herzinsuffizienz, ZNS Symptome <b>Ther</b> Diuretika, Behandlung der Grunderkr., Flussigkeitseinschränkung		Elektrolytstörungen
 
-
 Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmusstörungen (Kammerflimmern), Bewusstseinsstörungen		Elektrolytstörungen
 Hyperkaliämie Sympt	kein zuverlässiges Symptom, Kribbelgefühl der Haut, Muskelzuckungen, Herzrhythmusstörungen bis zum Herzstillstand, EKG-Veränderungen		Elektrolytstörungen
 Hypomagnesiämie Symt	unspezifische Symptome, da gleichzeitig Hypokaliämie und/oder Hypokalzämie vorliegen 		Elektrolytstörungen
@@ -94,6 +93,14 @@ Mikrohämaturie Def	das Blut nur mit speziellen Tests (z. B. Urin-StreifenSchnel
 Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis (Leukozyturie, Bakteriurie), interstitieller Nephritis,mechanischer Belastung (Marathonlauf), Vaskulitis, GN		Urologie Urintest 
 Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
 Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
+Was wird in Urintest gemessen?<br> Urobilinogen oder Urobilin?<br> 	Urobilin	<img src="Urobilin-Urobilinogen.pngUrobilin-Urobilinogen.png"	Urologie Urintest
+
+##########################################################
+####              Cardiology                        ######
+##########################################################
+
+Arterie Schichten?	Intima (Tunica interna), Tunica media, Advenititia (Tunica Externa)	<img src="Artery.jpg"	Cardiologie
+Herzwand Schichten?	Epicard, Myocard, Pericard <br> Seröse Höhle<br>Pericardschicht 	<img src="Herzschichten.jpg"	Cardiologie
 
 
 
