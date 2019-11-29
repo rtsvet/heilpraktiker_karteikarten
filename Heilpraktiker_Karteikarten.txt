@@ -93,7 +93,7 @@ Mikrohämaturie Def	das Blut nur mit speziellen Tests (z. B. Urin-StreifenSchnel
 Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis (Leukozyturie, Bakteriurie), interstitieller Nephritis,mechanischer Belastung (Marathonlauf), Vaskulitis, GN		Urologie Urintest 
 Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
 Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
-Was wird in Urintest gemessen?<br> Urobilinogen oder Urobilin?<br> 	Urobilin	<img src="Urobilin-Urobilinogen.pngUrobilin-Urobilinogen.png"	Urologie Urintest
+Was wird in Urintest gemessen?<br> Urobilinogen oder Urobilin?<br> 	Urobilin	<img src="heme-catabolism.jpg"	Urologie Urintest
 
 ##########################################################
 ####              Cardiology                        ######
