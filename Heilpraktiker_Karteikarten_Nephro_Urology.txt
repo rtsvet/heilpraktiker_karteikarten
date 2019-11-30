@@ -53,7 +53,7 @@ Glomerulopathie Def	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glom
 Nephrotisches Syndrom <br>Def. Sympt.	Verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
 Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula) meist Allergische Typ III Reaktion gegen Antigen-Antikörperkomplex<br>Akut Postinfektiös GN, Rasch progrdierende GN, Chronish<br><b>Sympt.</b> Hämauturie, Proteinuria, < 3.5g/,T Entz, Oliguria, RR↑, Azotämie (Serum Urea↑), Ödeme	<img src="Glomerular_Membran.png">	Nieren Nephrologie
 Zystitis und Urethritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
-Nephrolithiasis, Urolithiasis	Nierenkolik, Ana: Familiengeschichte [Hausarzt, Kliniküberweisung!], 		Nieren Nephrologie
+Nephrolithiasis, Urolithiasis	Nierenleiden, Steinleiden. Konkrementbildung in der ableitenden Harnwegen, oft mit Nierenkolik. Ana: Familiengeschichte<br><b>Nierenkolik</b> - akuter Krapmpfanfall: starke , einseitige Schmerzen, die immer wellenförmig wiederkehren. Schmezausstrallung. Disurie, Makrohämaturie, Übelkeit, Subileus! <div style="background-color:silver"> (!) Urosepsis Gefahr [Hausarzt, Kliniküberweisung!]</div> 		Nieren Nephrologie
 Glomerulonepfritis Sympt	RR↑, Ödeme, Hämatourie (dismorphysch), Proteinurie <3,5g/Tag, Oligurie bis Anurie, Azotämie	<img src="Glomerular_Membran.png"	>
 Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (🗲 GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (🗲 GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (🗲 GN)		
 
@@ -94,13 +94,4 @@ Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis
 Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
 Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
 Was wird in Urintest gemessen?<br> Urobilinogen oder Urobilin?<br> 	Urobilin	<img src="heme-catabolism.jpg"	Urologie Urintest
-
-##########################################################
-####              Cardiology                        ######
-##########################################################
-
-Arterie Schichten?	Intima (Tunica interna), Tunica media, Advenititia (Tunica Externa)	<img src="Artery.jpg"	Cardiologie
-Herzwand Schichten?	Epicard, Myocard, Pericard <br> Seröse Höhle<br>Pericardschicht 	<img src="Herzschichten.jpg"	Cardiologie
-
-
 

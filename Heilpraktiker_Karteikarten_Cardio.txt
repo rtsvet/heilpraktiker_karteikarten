@@ -33,4 +33,4 @@ Pulsdefizit Def.	 Entsteht wenn eine Herzaktion nicht kreislaufwirskam ist, oder
 Pulsdefizit Vorkommen	"<b>Nicht kreislaufwirksame Herzaktionen</b><br><ul><li>Extrasystolen</li><li>Vorhofflimmern</li><li>Hypotonie</li></ul>
     <b>Periphere Störung</b><br><ul><li>pAVK</li><li>Arterielle Embolie</li><li>Aortendissektion</li></ul>"		Cardiologie
 Extrasystolen Def	Eine Herzaktion (vorzeitiger Schlag), die außerhalb des normalen Sinusrhythmus auftritt 		Cardiologie
-Zwillingspuls(Bigeminus) Def	Bei der über längere Zeit regelmäßig auf jeden Herzschlag eine Extrasystole folgt. 		Cardiologie
+Zwillingspuls(Bigeminus) Def	Bei der über längere Zeit regelmäßig auf <em>jeden</em> Herzschlag eine Extrasystole folgt. 		Cardiologie
