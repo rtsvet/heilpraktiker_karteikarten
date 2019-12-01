@@ -26,7 +26,7 @@
 Arterie Schichten?	Intima (Tunica interna), Tunica media, Advenititia (Tunica Externa)	<img src="Artery.jpg"	Cardiologie
 Herzwand Schichten?	Epicard, Myocard, Pericard <br> Seröse Höhle<br>Pericardschicht 	<img src="Herzschichten.jpg"	Cardiologie
 
-## Palpation
+## Palpation, Auskultation
 Wo wird Herzspitzenstos palpiert?	5 ICR Medioclavicular		Cardiologie
 Pulsarten (abweichend)	Tachycardie > 100/min (OK bei Sport)<br>Bradykardie < 50/min (OK beim Schlaf)<br>Pulsdefizit, <br>Arrhytmie,<br>Extrasystole,<br>Zwillingspuls		Cardiologie
 Pulsdefizit Def.	 Entsteht wenn eine Herzaktion nicht kreislaufwirskam ist, oder oder der Blutstrom am Tastareal unbeeinflusst bleibt.		Cardiologie
@@ -34,3 +34,7 @@ Pulsdefizit Vorkommen	"<b>Nicht kreislaufwirksame Herzaktionen</b><br><ul><li>Ex
     <b>Periphere Störung</b><br><ul><li>pAVK</li><li>Arterielle Embolie</li><li>Aortendissektion</li></ul>"		Cardiologie
 Extrasystolen Def	Eine Herzaktion (vorzeitiger Schlag), die außerhalb des normalen Sinusrhythmus auftritt 		Cardiologie
 Zwillingspuls(Bigeminus) Def	Bei der über längere Zeit regelmäßig auf <em>jeden</em> Herzschlag eine Extrasystole folgt. 		Cardiologie
+Erb Punkt  Def	An dieser Punkt können die gesamt Herzgeräusche am wahrgenommen werden; 3 IRC links parasternal;		Cardiologie
+
+## Pathologie
+KHK Koronare Herzkrankheit Def	chronische Erkrankung des Herzens, die durch atherosklerotische Veränderungen der Koronararterien (Herzkranzgefäße) ausgelöst wird. Die Koronarstenose zieht wiederum Durchblutungsstörungen des Herzmuskels nach sich		Cardiologie
