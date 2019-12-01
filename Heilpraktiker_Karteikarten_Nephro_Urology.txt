@@ -39,7 +39,7 @@ Allergie Typ II Reaktionszeit	6-12 Std. bis Tage		Immunusystem Allergie
 
 Pyelonephritis Zeichen: 	Fieber <br>Flankenschmerz (einseitig) klopfempfindlich <br><b>Trias:</b> Pyurie, Bakteriurie, BSG↑ <br>Entzündung↑, Leukozyten↑, Proteinurie (Albumin)		Nieren Urologie
 Pyelonephritis Therapie 	Arztüberweisung, Urologe, viel trinken		Nieren Urologie
-Glomerulonephritis Zeichen 	Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br> RR↑,<br> evtl ⬀ :<b>Nephrotisches Syndrom:</b> Ödeme (auch Augen), Hämaturie (Makro!), Proteinurie (Albumin), Blut Lypiden↓, Urin Lypide↑)		Nieren Nephrolo
+Glomerulonephritis Zeichen 	Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br> RR↑,<br> Ödeme (auch Augen), Hämaturie, Proteinurie (Albumin) <3.5g/T, Oliguria, Azotämie (Serum Urea↑),		Nieren Nephrolo
 Glomerulonephritis Therapie 	Arztüberweisung, Nephrologe, Wenig trinken um die Nieren zu entlasten		Nieren Nephrologie
 Def.: Akute Niereninsufizienz, ANV, Akutes Nierenversagen	Funktionsabfall der Niere bei vorher gesunder Zustand mit versiegen der Harnausscheidung		Nieren Nephrologie
 Def.: Chronische Niereninsufizienz, CNI, chron. Nierenversagen 	langsam zunehmende Funktionsstörung aufgrung andere Erk. mit terminale Urämie (Harnvergiftung)		Nieren Nephrologie
@@ -49,11 +49,11 @@ Symptome der ANS	Oligurie, Anurie (bei 15% anfangs normal), Übelkeit, Somnolenz
 Komplikationen der ANS	Fehlender Salz und Wasser Ausscheidung -><br>Lungenödem/Luftnot,<br>Hirnödem/Krampfanfälle,<br>Hypertonie<br>, Hyperkaliämie<br>, Herzkreislauf überbelastung		Nieren Nephrologie
 Chronische Niereninsuffizienz (CNI) Ursachen	chron. GN, diabetische Nephropathie, chron. PN, Analgetika, Hypertonie, Zysternnieren		Nieren Nephrologie
 CNI Stadien und Sympt.	"I - normal Nierenfunktion evtl. Hypertonie<br> II - voll Kompensierte CNI<br> Krea-Clearance↓, Krea norm., evtl. Hypertonie<br> II - kompensierte CNI: Serum Krea und Harnstoff↑<br> III - dekompensierte: Hypertonie, Überwässerung, Perikarditis, Herzraststörungen, Lungenödem, Pleuritis, Mundgeruch, II⟺  III<br> IV - terminales: irreversibel, Serum Krea. > 10 mg/dl, Dialyse, Nierentransplantation"		Nieren Nephrologie
-Glomerulopathie Def	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>		Nieren Nephrologie
+Glomerulopathie Def und Typen	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>		Nieren Nephrologie
 Nephrotisches Syndrom <br>Def. Sympt.	Verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
-Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula) meist Allergische Typ III Reaktion gegen Antigen-Antikörperkomplex<br>Akut Postinfektiös GN, Rasch progrdierende GN, Chronish<br><b>Sympt.</b> Hämauturie, Proteinuria, < 3.5g/,T Entz, Oliguria, RR↑, Azotämie (Serum Urea↑), Ödeme	<img src="Glomerular_Membran.png">	Nieren Nephrologie
+Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula) meist Allergische Typ III Reaktion gegen Antigen-Antikörperkomplex<br>Akut Postinfektiös GN, Rasch progrdierende GN, Chronish<br><b>Sympt.</b> Hämauturie, Proteinuria<3.5g/T, Entz, Oliguria, RR↑, Azotämie (Serum Urea↑), Ödeme	<img src="Glomerular_Membran.png">	Nieren Nephrologie
 Zystitis und Urethritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
-Nephrolithiasis, Urolithiasis	Nierenkolik, Ana: Familiengeschichte [Hausarzt, Kliniküberweisung!], 		Nieren Nephrologie
+Nephrolithiasis, Urolithiasis	Nierenleiden, Steinleiden. Konkrementbildung in der ableitenden Harnwegen, oft mit Nierenkolik. Ana: Familiengeschichte<br><b>Nierenkolik</b> - akuter Krapmpfanfall: starke , einseitige Schmerzen, die immer wellenförmig wiederkehren. Schmezausstrallung. Disurie, Makrohämaturie, Übelkeit, Subileus! <div style="background-color:silver"> (!) Urosepsis Gefahr [Hausarzt, Kliniküberweisung!]</div> 		Nieren Nephrologie
 Glomerulonepfritis Sympt	RR↑, Ödeme, Hämatourie (dismorphysch), Proteinurie <3,5g/Tag, Oligurie bis Anurie, Azotämie	<img src="Glomerular_Membran.png"	>
 Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (🗲 GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (🗲 GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (🗲 GN)		
 
@@ -81,7 +81,6 @@ Hyponatriämie bei Dehydratation Sympt	Durst, Oligurie, Schwäche, trokene Schle
 Hyponatriämie bei Dehydratation Ther	Zufuhr von salzigeflussigkeiten, Infusion 		Elektrolytstörungen
 Hyponatriämie bei Hyperhydratation Sympt Ther	Gewichtzunahme, Ödeme, Leistungsminderung,  Symptome der Herzinsuffizienz, ZNS Symptome <b>Ther</b> Diuretika, Behandlung der Grunderkr., Flussigkeitseinschränkung		Elektrolytstörungen
 
-
 Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmusstörungen (Kammerflimmern), Bewusstseinsstörungen		Elektrolytstörungen
 Hyperkaliämie Sympt	kein zuverlässiges Symptom, Kribbelgefühl der Haut, Muskelzuckungen, Herzrhythmusstörungen bis zum Herzstillstand, EKG-Veränderungen		Elektrolytstörungen
 Hypomagnesiämie Symt	unspezifische Symptome, da gleichzeitig Hypokaliämie und/oder Hypokalzämie vorliegen 		Elektrolytstörungen
@@ -94,6 +93,5 @@ Mikrohämaturie Def	das Blut nur mit speziellen Tests (z. B. Urin-StreifenSchnel
 Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis (Leukozyturie, Bakteriurie), interstitieller Nephritis,mechanischer Belastung (Marathonlauf), Vaskulitis, GN		Urologie Urintest 
 Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
 Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
-
-
+Was wird in Urintest gemessen?<br> Urobilinogen oder Urobilin?<br> 	Urobilin	<img src="heme-catabolism.jpg"	Urologie Urintest
 

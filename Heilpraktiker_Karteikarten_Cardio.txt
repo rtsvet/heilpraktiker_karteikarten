@@ -1,0 +1,36 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+##########################################################
+####              Cardiology                        ######
+##########################################################
+
+Arterie Schichten?	Intima (Tunica interna), Tunica media, Advenititia (Tunica Externa)	<img src="Artery.jpg"	Cardiologie
+Herzwand Schichten?	Epicard, Myocard, Pericard <br> Seröse Höhle<br>Pericardschicht 	<img src="Herzschichten.jpg"	Cardiologie
+
+## Palpation
+Wo wird Herzspitzenstos palpiert?	5 ICR Medioclavicular		Cardiologie
+Pulsarten (abweichend)	Tachycardie > 100/min (OK bei Sport)<br>Bradykardie < 50/min (OK beim Schlaf)<br>Pulsdefizit, <br>Arrhytmie,<br>Extrasystole,<br>Zwillingspuls		Cardiologie
+Pulsdefizit Def.	 Entsteht wenn eine Herzaktion nicht kreislaufwirskam ist, oder oder der Blutstrom am Tastareal unbeeinflusst bleibt.		Cardiologie
+Pulsdefizit Vorkommen	"<b>Nicht kreislaufwirksame Herzaktionen</b><br><ul><li>Extrasystolen</li><li>Vorhofflimmern</li><li>Hypotonie</li></ul>
+    <b>Periphere Störung</b><br><ul><li>pAVK</li><li>Arterielle Embolie</li><li>Aortendissektion</li></ul>"		Cardiologie
+Extrasystolen Def	Eine Herzaktion (vorzeitiger Schlag), die außerhalb des normalen Sinusrhythmus auftritt 		Cardiologie
+Zwillingspuls(Bigeminus) Def	Bei der über längere Zeit regelmäßig auf <em>jeden</em> Herzschlag eine Extrasystole folgt. 		Cardiologie
