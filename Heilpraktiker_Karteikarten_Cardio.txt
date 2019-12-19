@@ -46,7 +46,7 @@ Nicht-kardiogene Ursachen von ein Longenödem	"* Infektiös: erhöhte Permeabili
 Veränderten Herztöne Mitralklappenstenose	Paukender erster Herzton		Cardiology Cardiopathology
 Herzgeräusch bei trockene Herzbeutelentzündung (Pericarditis sicca/fibrinosa)	Auskultatorisches „Lederknarren“		Cardiology Cardiopathology
 Chronisch konstriktiven Perikarditis Def	Panzerherz  ist ein möglicher Folgezustand einer akuten Perikarditis mit narbigem Umbau (Fibrose und Kalzifikation) des Perikards.		Cardiology Cardiopathology
-konstriktiven Perikarditis Sympt	"Sympt entstehen insbesondere durch den Rückstau des Blutes vor dem rechten Herzen. Dabei ist die gleichzeitige obere und untere Einflussstauung typisch für die Pericarditis constrictiva		Cardiology Cardiopathology
+konstriktiven Perikarditis Sympt	Sympt entstehen insbesondere durch den Rückstau des Blutes vor dem rechten Herzen. Dabei ist die gleichzeitige obere und untere Einflussstauung typisch für die Pericarditis constrictiva		Cardiology Cardiopathology
 Endokarditis lenta	Subakute bakterielle Endokarditis mit langsamem, schleichendem Verlauf. <br>Sympt: unklares Fieber, Appetitmangel, Gewichtsabnahme, Petechien, Herzinsuffizienz.		Cardiology Cardiopathology
 Nachfolgen Aortenklappeninsuffizienz 	"Müdigkeit, Abgeschlagenheit, Schwindel, Parästhesien, Organunterversorgung, Blässe, Zyanose, Trommelschlägelfinger, Urglasnägel, Dyspnoe, Tachypnoe,Tachykardie, Orthopnoe		Cardiology Cardiopathology
 Angeborene Herzfehler <u>ohne</u> Shunt 	Mitralstenose, Aortenstenose, Mitralinsuffizienz, Aorteninsuffizienz, Aortenisthmusstenose		Cardiology Cardiopathology
@@ -67,3 +67,13 @@ Erstmaßnahmen bei akuter Linksherzinsuffizienz	Notarzt; Oberkörperfrei; BeineT
 Erstmaßnahmen bei akutem Lungenödem	Notarzt; Oberkörperfrei; BeineTeif (labliegen); Beruhigen; Nitrogyzerin; o2-Gabe; Vitalfunktionen kontrolieren		Cardiology Cardiopathology
 Formen der KHK	stabile Angina Pectoris (AP)<br>AKS: instabile AP; akuter Herzinfarkt (STEMI, NSTEMI); Herztod<br>Herzinsuffizienz<br>Herzrhytmusstörungen		Cardiology Cardiopathology
 
+Endokrine Hypertonie	Hyperaldosteronismus, Phäochromozytom(Adrenalin produzierender Tumor im Nebennierenmark), Cushing-Syndrom, Hyperparathyreoidismus, Akromegalie, Renin produzierender Tumor, Hyperthyreose		Cardiology Cardiopathology
+Kardiovaskulär bedingte Hypertonie	Aortenisthmusstenose, Aortensklerose, Hyperkinetisches Herzsyndrom		Cardiology Cardiopathology
+Renale Hypertonie	Nierenarterienstenose, Glomerulopathie		Cardiology Cardiopathology
+
+Kardiovaskulär bedingte Hypotonie	Herzinsuffizienz, Aortenstenose, Myokardinfarkt, Orthostatische Hypotonie		Cardiology Cardiopathology
+Endokrine Hypotonie	Hypophysenvorderlappeninsuffizienz (durch TSH oder ACTH), Nebennierenrindeninsuffizienz, Hypothyreose		Cardiology Cardiopathology
+ 
+
+Akute pAVK Sympt	<b>6 P</b><br>Pain - Schmerzen,<br>Paleness - blässe,<br>Pulselessnes - Pulse distal des Verschlusses sind nicht palpierbar,<br>Prostration - Schock,<br>Paralysis - Lähmung,<br>Parästhesien - Gefühlsstörungen		Cardiology Cardiopathology
+Chronischer pAVK Sympt	<br>Blässe, Zyanotisch ,<br>abgeschwächtes Pulse distal des Verschlusses,<br>Wundheilstörungen,<brPilzerkrankungen,<br>Parästhesien - Gefühlsstörungen, <br>Kälteemphinden		Cardiology Cardiopathology
