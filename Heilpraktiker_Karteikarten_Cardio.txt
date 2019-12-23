@@ -73,7 +73,11 @@ Renale Hypertonie	Nierenarterienstenose, Glomerulopathie		Cardiology Cardiopatho
 
 Kardiovaskulär bedingte Hypotonie	Herzinsuffizienz, Aortenstenose, Myokardinfarkt, Orthostatische Hypotonie		Cardiology Cardiopathology
 Endokrine Hypotonie	Hypophysenvorderlappeninsuffizienz (durch TSH oder ACTH), Nebennierenrindeninsuffizienz, Hypothyreose		Cardiology Cardiopathology
- 
 
-Akute pAVK Sympt	<b>6 P</b><br>Pain - Schmerzen,<br>Paleness - blässe,<br>Pulselessnes - Pulse distal des Verschlusses sind nicht palpierbar,<br>Prostration - Schock,<br>Paralysis - Lähmung,<br>Parästhesien - Gefühlsstörungen		Cardiology Cardiopathology
-Chronischer pAVK Sympt	<br>Blässe, Zyanotisch ,<br>abgeschwächtes Pulse distal des Verschlusses,<br>Wundheilstörungen,<brPilzerkrankungen,<br>Parästhesien - Gefühlsstörungen, <br>Kälteemphinden		Cardiology Cardiopathology
+
+Akute pAVK Sympt	<b>6 P</b><br>Pain - Schmerzen,<br>Paleness - blässe,<br>Pulselessnes - Pulse distal des Verschlusses sind nicht palpierbar,<br>Prostration - Schock,<br>Paralysis - Lähmung,<br>Parästhesien - Gefühlsstörungen		Cardiology Angiology
+Chronischer pAVK Sympt	<br>Blässe, Zyanotisch ,<br>abgeschwächtes Pulse distal des Verschlusses,<br>Wundheilstörungen,<brPilzerkrankungen,<br>Parästhesien - Gefühlsstörungen, <br>Kälteemphinden		Cardiology Angiology
+Aneurysma Arten:	Aneurysma verum, Aneurysma dissecans, Aneurysma spurium 		Cardiology Angiology
+Def Fallot Tetralogy	6–7 % der angeborenen Herzfehler; einer Pulmonalstenose,<br> einem Ventrikelseptumdefekt (Defekt in der Herzscheidewand),<br> einer über der Herzscheidewand reitenden Aorta sowie <br>einer nachfolgenden Rechtsherzhypertrophie	<img src="Tetralogy_of_Fallot.png"	Cardiologie
+
+Myokarinfarkt Diagnose	angine Pectoris oder Ishämische beschwerden >20min, EKG Änderungen, Serum Test: Troponin (T, I) nach 2-3 Std. höchst nach Tag bleiben hoch bis 2 Wochen, CK-MB;<br>Angiographie		Cardiology
