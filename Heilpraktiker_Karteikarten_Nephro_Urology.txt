@@ -81,7 +81,7 @@ Hyponatriämie bei Dehydratation Sympt	Durst, Oligurie, Schwäche, trokene Schle
 Hyponatriämie bei Dehydratation Ther	Zufuhr von salzigeflussigkeiten, Infusion 		Elektrolytstörungen
 Hyponatriämie bei Hyperhydratation Sympt Ther	Gewichtzunahme, Ödeme, Leistungsminderung,  Symptome der Herzinsuffizienz, ZNS Symptome <b>Ther</b> Diuretika, Behandlung der Grunderkr., Flussigkeitseinschränkung		Elektrolytstörungen
 
-Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmusstörungen (Kammerflimmern), Bewusstseinsstörungen		Elektrolytstörungen
+Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmusstörungen (Extrasystolen, Kammerflimmern), Bewusstseinsstörungen		Elektrolytstörungen
 Hyperkaliämie Sympt	kein zuverlässiges Symptom, Kribbelgefühl der Haut, Muskelzuckungen, Herzrhythmusstörungen bis zum Herzstillstand, EKG-Veränderungen		Elektrolytstörungen
 Hypomagnesiämie Symt	unspezifische Symptome, da gleichzeitig Hypokaliämie und/oder Hypokalzämie vorliegen 		Elektrolytstörungen
 Hypokalzämie Sympt	Tetanie: Krampfanfälle bei erhaltenem Bewusstsein, <br>Bei chronischer Kalziummangel: <br>trophische Hautstörungen (trockene, rissige Haut und Nägeln), Knochenveränderungen: beim Erwachsenen Osteomalazie, beim Kind - Rachitis		Elektrolytstörungen

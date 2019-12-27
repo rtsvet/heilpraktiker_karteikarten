@@ -36,5 +36,50 @@ Extrasystolen Def	Eine Herzaktion (vorzeitiger Schlag), die außerhalb des norma
 Zwillingspuls(Bigeminus) Def	Bei der über längere Zeit regelmäßig auf <em>jeden</em> Herzschlag eine Extrasystole folgt. 		Cardiologie
 Erb Punkt  Def	An dieser Punkt können die gesamt Herzgeräusche am wahrgenommen werden; 3 IRC links parasternal;		Cardiologie
 
+Zum Pulsfühlen geeignete Punkte 	"A tibialis posterior – Hinter dem Innenknöchel<br>A dorsalis pedis – Mittlerer Fußrücken<br>Apexpuls – über der Herzspitze als Ausdruck der mechanischen Herzaktionen <br>A temporalis superficialis – Schläfe<br>A facialis – Nase oder Unterkiefer<br>A subclavia – Schlüsselbein<br>A axillaris – Achselhöhle<br>A brachialis – Innenseite des Oberarmes<br>A ulnaris – Handgelenk (Seite des kleinen Fingers)<br>Aorta abdominalis – Bauchaorta"	<img src="Pulse_sites-en.jpg"	Cardiologie
+
 ## Pathologie
 KHK Koronare Herzkrankheit Def	chronische Erkrankung des Herzens, die durch atherosklerotische Veränderungen der Koronararterien (Herzkranzgefäße) ausgelöst wird. Die Koronarstenose zieht wiederum Durchblutungsstörungen des Herzmuskels nach sich		Cardiologie
+Herzerkrankungen die zum einen Lungenödem führen:	"Das Blut staut sich in der Lunge und damit steigt der hydrostatische Druck in der Lungen mit resultierenden Ödem.<br>* Mitralklappenstenose: Wenn die Mitralklappe nicht das Blut von den Lungenkreislauf weitergeleitet. <br>* Linksherzinsuffizienz - Das linke Ventrikel kann nicht das Blut effizient abpumpen. <br>* Kammerflimmern - Die linke Herzkammer kann nicht  effizient das Blut zum linke Ventrikel transportieren."		Cardiologie
+Nicht-kardiogene Ursachen von ein Longenödem	"* Infektiös: erhöhte Permeabilität der lungen Blutgefesse wegen der immunreaktion. Ich würde exsudat Flüssigkeit erwarten in diesem Fall. Auch Sepsis zustand kann Lungenödem auslösen.<br>* Nach Lungenkontusion z.B. nach einem Autounfall <br>* Toxisch - durch Einatmen von Gasen die die Permeabilität erhöhen.<br>* Aspiration - Süßwasser, Salzwasser, Mageninhalt (wird den onkotischen Druck verändern)<br>* Postobstrucktionsödem - nach starkem Inspirationsversuch bei geschlossenen Attemwegen. z.B. nach ein Laryngospasm (vllt auch nach Würgen).<br>* Zerebrales Nach Hirnschäden kann es zu  neurogenen Zentralisation des Blutes mit Anstieg des Lungenvolumens kommen. (ich habe den Mechanismus nicht genau verstanden)"		Cardiology
+
+Veränderten Herztöne Mitralklappenstenose	Paukender erster Herzton		Cardiology Cardiopathology
+Herzgeräusch bei trockene Herzbeutelentzündung (Pericarditis sicca/fibrinosa)	Auskultatorisches „Lederknarren“		Cardiology Cardiopathology
+Chronisch konstriktiven Perikarditis Def	Panzerherz  ist ein möglicher Folgezustand einer akuten Perikarditis mit narbigem Umbau (Fibrose und Kalzifikation) des Perikards.		Cardiology Cardiopathology
+konstriktiven Perikarditis Sympt	Sympt entstehen insbesondere durch den Rückstau des Blutes vor dem rechten Herzen. Dabei ist die gleichzeitige obere und untere Einflussstauung typisch für die Pericarditis constrictiva		Cardiology Cardiopathology
+Endokarditis lenta	Subakute bakterielle Endokarditis mit langsamem, schleichendem Verlauf. <br>Sympt: unklares Fieber, Appetitmangel, Gewichtsabnahme, Petechien, Herzinsuffizienz.		Cardiology Cardiopathology
+Nachfolgen Aortenklappeninsuffizienz 	"Müdigkeit, Abgeschlagenheit, Schwindel, Parästhesien, Organunterversorgung, Blässe, Zyanose, Trommelschlägelfinger, Urglasnägel, Dyspnoe, Tachypnoe,Tachykardie, Orthopnoe		Cardiology Cardiopathology
+Angeborene Herzfehler <u>ohne</u> Shunt 	Mitralstenose, Aortenstenose, Mitralinsuffizienz, Aorteninsuffizienz, Aortenisthmusstenose		Cardiology Cardiopathology
+Sympt der Rechtherzeninsuffizienz	"Hepatomegalie, eventuell mit Aszites<br>erhöhter ZVD (Zentraler Venendruck)<br>Ödeme, ggf. mit Stauungsproteinurie und Hyponatriämie<br>evtl. Hypersplenismus<br>Durch das verminderte Auswurfvolumen tritt eine körperliche Schwäche mit Dyspnoe bei geringer Belastung auf. Nicht selten liegt ein sogenannter <i>Pulsus paradoxus</i> vor.c"		Cardiology Cardiopathology
+Erkr mit Sympt - Kleine Blutdruckamplitude?	Aortenklappen- und Mitralklappenstenose, Hypothyreose, Perikarditis, Schock		Cardiology Cardiopathology Diagnose
+Erkr mit Sympt -Große Blutdruckamplitude	"Aortenklappeninsuffizienz,<br> Hyperthyreose,<br>Ductus botalli ((Verbindung zwischen der Aorta und der Pulmonalarterie),<br> Aortensklerose,<br> Hyperkinetisches Herzsyndrom (=zu starke Sympathikuserregung bei 16-30j., evtl. ZNS oder psychisch bedingt...)"		Cardiology Cardiopathology Diagnose
+
+Akutes Koronarsyndrom (ACS) Def	Alle lebensbedrohlichen KHK-Manifestationen, also instabile Angina pectoris, Herzinfarkt und plötzlicherHerztod. Keine wesentliche Besserung durchRuhe oder Nitratgabe.		Cardiology Cardiopathology
+Komplikationen des Myokardinfarkts	Herzrhythmusstörungen <br>Herzinsuffizienz<br>Kardiogener Schock<br>Herzwandaneurysma<br>Andere<br>Reinfarkt		Cardiology Cardiopathology
+Akute Rechtsherzinsuffizienz Ursachen	Lungenembolie		Cardiology Cardiopathology
+
+Mitralklappenstenose Sympt 	Facies mitralis (Rötung beider Wangen bei gleichzeitiger Lippenzyanose)<br>Atemnot, Husten, evtl. Blutitiges Sputum<br>Vorhofflimmern<br>Später retrosternales Engegefühl<br>Zeichen der Rechtsherzisuffizienz<br><b>Auskultation</b>Diastolisches Geräusch		Cardiology Cardiopathology
+Aortenklappenstenose Sympt	Linksherzinsuffizienz<br> Belastung Dispnoe<br>Syncopen<br>Rhytmusstörungen<br>Angina Pectoris<br> <b>Auskultation</b>Systolischer Geräusch		Cardiology Cardiopathology
+Aortenklappeninsuffizienz Sympt	Linksherzinsuffizienz<br> Schwindel und Syncopen bei Belastung<br>Angina Pectoris<br><b>Auskultation</b>Diastolisches Geräusch		Cardiology Cardiopathology
+Pulmonalstenose Sympt	Sympt der Rechtsherzbelastung, Dyspnoe		Cardiology Cardiopathology
+Aortenisthmusstenose Sympt	Abgeschwächte Fuß- und Femoralispulse, Kpfschmerzen, Sympt der Herzinsuffizienz		Cardiology Cardiopathology
+Erstmaßnahmen bei akuter Linksherzinsuffizienz	Notarzt; Oberkörperfrei; BeineTeif (labliegen); Beruhigen; Vitalfunktionen kontrolieren		Cardiology Cardiopathology
+Erstmaßnahmen bei akutem Lungenödem	Notarzt; Oberkörperfrei; BeineTeif (labliegen); Beruhigen; Nitrogyzerin; o2-Gabe; Vitalfunktionen kontrolieren		Cardiology Cardiopathology
+Formen der KHK	stabile Angina Pectoris (AP)<br>AKS: instabile AP; akuter Herzinfarkt (STEMI, NSTEMI); Herztod<br>Herzinsuffizienz<br>Herzrhytmusstörungen		Cardiology Cardiopathology
+
+Endokrine Hypertonie	Hyperaldosteronismus, Phäochromozytom(Adrenalin produzierender Tumor im Nebennierenmark), Cushing-Syndrom, Hyperparathyreoidismus, Akromegalie, Renin produzierender Tumor, Hyperthyreose		Cardiology Cardiopathology
+Kardiovaskulär bedingte Hypertonie	Aortenisthmusstenose, Aortensklerose, Hyperkinetisches Herzsyndrom		Cardiology Cardiopathology
+Renale Hypertonie	Nierenarterienstenose, Glomerulopathie		Cardiology Cardiopathology
+
+Kardiovaskulär bedingte Hypotonie	Herzinsuffizienz, Aortenstenose, Myokardinfarkt, Orthostatische Hypotonie		Cardiology Cardiopathology
+Endokrine Hypotonie	Hypophysenvorderlappeninsuffizienz (durch TSH oder ACTH), Nebennierenrindeninsuffizienz, Hypothyreose		Cardiology Cardiopathology
+
+
+Akute pAVK Sympt	<b>6 P</b><br>Pain - Schmerzen,<br>Paleness - blässe,<br>Pulselessnes - Pulse distal des Verschlusses sind nicht palpierbar,<br>Prostration - Schock,<br>Paralysis - Lähmung,<br>Parästhesien - Gefühlsstörungen		Cardiology Angiology
+Chronischer pAVK Sympt	<br>Blässe, Zyanotisch ,<br>abgeschwächtes Pulse distal des Verschlusses,<br>Wundheilstörungen,<brPilzerkrankungen,<br>Parästhesien - Gefühlsstörungen, <br>Kälteemphinden		Cardiology Angiology
+Aneurysma Arten:	Aneurysma verum, Aneurysma dissecans, Aneurysma spurium 		Cardiology Angiology
+Def Fallot Tetralogy	6–7 % der angeborenen Herzfehler; einer Pulmonalstenose,<br> einem Ventrikelseptumdefekt (Defekt in der Herzscheidewand),<br> einer über der Herzscheidewand reitenden Aorta sowie <br>einer nachfolgenden Rechtsherzhypertrophie	<img src="Tetralogy_of_Fallot.png"	Cardiologie
+
+Myokarinfarkt Diagnose	angine Pectoris oder Ishämische beschwerden >20min, EKG Änderungen, Serum Test: Troponin (T, I) nach 2-3 Std. höchst nach Tag bleiben hoch bis 2 Wochen, CK-MB;<br>Angiographie		Cardiology
+
+Mechanismen der lokales Durchblutungsregulation 	Myogene(Bayliss-Effekt) besonders Niere, Gehirn,<br> Reg. durch Stoffwechselprodukte O2🠛, CO2🠙, Milchsäure,<br> Hormonel und von Endothel und Thrombozyten vrg. Stoffe: Histamin, Bradikinin, Serotonin, Prostaglandine, Thromboxan, NO, Adenosin, Angiotensin II, Adiuretin, Adrenalin und Noradrenalin,<br> Regulation durhc Nervenimpulse (Sympatikus)		Cardiology Angiology 
