@@ -85,7 +85,7 @@ Hypokaliämie Sympt	Muskelschwäche an Skelettmuskulatur und Darm, Herzrhythmuss
 Hyperkaliämie Sympt	kein zuverlässiges Symptom, Kribbelgefühl der Haut, Muskelzuckungen, Herzrhythmusstörungen bis zum Herzstillstand, EKG-Veränderungen		Elektrolytstörungen
 Hypomagnesiämie Symt	unspezifische Symptome, da gleichzeitig Hypokaliämie und/oder Hypokalzämie vorliegen 		Elektrolytstörungen
 Hypokalzämie Sympt	Tetanie: Krampfanfälle bei erhaltenem Bewusstsein, <br>Bei chronischer Kalziummangel: <br>trophische Hautstörungen (trockene, rissige Haut und Nägeln), Knochenveränderungen: beim Erwachsenen Osteomalazie, beim Kind - Rachitis		Elektrolytstörungen
-Hypokalzämie Ther	 Vit D, Kalziumsreiche Diät, <b>Achtung</b> niemals i. v.-Gabe von Kalzium bei digitalisierten Pt 🠚 Herzrhythmusstörungen		Elektrolytstörungen
+Hypokalzämie Ther	 Vit D, Kalziumsreiche Diät, <b>Achtung</b> niemals i. v.-Gabe von Kalzium bei digitalisierten Pat gefahr von Herzrhythmusstörungen		Elektrolytstörungen
 Hyperkalzämie Sympt	(Muskel-)Schwäche, Magen-Darm-Beschwerden, Herzrhythmusstörungen, hyperkalzämische Krise (lebensbedrohlich): massive Polyurie und Polydipsie, Erbrechen, Exsikkose, Fieber, psychotischen Erscheinungen, Bewusstseinsstörungen bis hin zum Koma		Elektrolytstörungen
 Makrohämaturie Def	 bei der das Blut bereits mit bloßem Auge sichtbar ist (> ca. 1 ml Blut/l Urin) 		Urologie Urintest
 Erkr mit Makrohämaturie 	• Nierensteine, Tumoren der Nieren oder Harnwege, Urogenitaltuberkulose (Leukozyturie bei sterilem Harn), Zystennieren, Blasenentzündung, erhöhte Blutungsneigung (hämorrhagische Diathese, Trauma (z. B. nach Katheterisierung), Endometriose der Harnwege		Urologie Urintest
