@@ -1,0 +1,29 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+#######  Alergien #####
+Schilddrüsenkarzinom Sympt	derbe schnelwachsende Struma<br>regionale Lympfknotenschwellung<br>Fixierung der Haut an der Struma<br>Dyspaghie<br>Hals- ,Ohrenschmerzen<br>Horner-Trias (!Diff. D. - Hodgin, Bronchialkarzinom)		Hormone Schilddrüse
+Subakute Thyreoiditis (de Quervain) Sympt	Lokale stralende Schmerzen die oft die Seite wächseln, druckschmerzhafte Schilddrüse, fieber, abgeschlagenheit, Leistungsschwäche		Hormone Schilddrüse
+Akute Thyreoiditis Sympt	akuter begin mit Fieber und lokalen Schmerzen, Rötung und Schwellung in bereich der Schilddrüse, regionale Lympfknotenschwellung		Hormone Schilddrüse
+Hypothyreose <br>klinsche Sympt 	Energiehaushalt↓, Muskulatur/Reflexe↓, Nervensystem↓,Katecholamin-Emphindlichkeit↓, <br><b>(!)Komplikation</b> Myxödema Notfall(!)		Hormone Schilddrüse
+Basedow, (en. Graves) Sympt	Hyperthyreose, <br>Mersenburge-Trias: Tachikardie, Struma, Exophthalmus<br><b>(!) komplikation: Thyreoxische Krise: Notfall</b> 		Hormone Schilddrüse
+Hyperthyreose Sympt	Energieumsatz↑, diabetogen, Myopathien, Blutzucker↑ -> Polyurie -> Kalziumverlust, Nervensystem: Zyttern, Nervösitet, Libidoverlust, Katecholamin emphindlichkeit: Blutdruck↑, Tachycardie, Arrhytmien, Extrasystolen, Grosseblutdruckampl. 		Hormone Schilddrüse
+Euthyreote Struma Sympt 	am Anfang: keine Beschwerde; später: Dispnoe, dysphagie, Stirdor, Einflussstaung durch Kompression der Blutgefäße -> Belastung für das rechte Herz		Hormone Schilddrüse

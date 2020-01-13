@@ -55,7 +55,7 @@ Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, ers
 Zystitis und Urethritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
 Nephrolithiasis, Urolithiasis	Nierenleiden, Steinleiden. Konkrementbildung in der ableitenden Harnwegen, oft mit Nierenkolik. Ana: Familiengeschichte<br><b>Nierenkolik</b> - akuter Krapmpfanfall: starke , einseitige Schmerzen, die immer wellenförmig wiederkehren. Schmezausstrallung. Disurie, Makrohämaturie, Übelkeit, Subileus! <div style="background-color:silver"> (!) Urosepsis Gefahr [Hausarzt, Kliniküberweisung!]</div> 		Nieren Nephrologie
 Glomerulonepfritis Sympt	RR↑, Ödeme, Hämatourie (dismorphysch), Proteinurie <3,5g/Tag, Oligurie bis Anurie, Azotämie	<img src="Glomerular_Membran.png"	>
-Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (🗲 GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (🗲 GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (🗲 GN)		
+Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (<~> GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (<~> GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (<~> GN)		
 
 ######## Urologie Urin ##############
 Leukos in Urintest	Bakterielle Entz., CNI		Urologie Urintest
