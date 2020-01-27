@@ -27,6 +27,7 @@ Das Blut strömt aus der rechten Kammer direkt in den Körperkreislauf.	Falsch		
 Das Blut strömt vom linkem direkt in den rechten Vorhof.	Falsch		Cardiologie
 Das Blut strömt über den rechten Vorhof und die rechte Kammer in den Lungenkreislauf.	Richtig 		Cardiologie
 
+Ein Diabetes-Patient vom Typ II muss nicht mit einem Koma Diabeticumv rechnen.	Falsch		Hormones Metabolism
 Ein Diabetes-Patient vom Typ II ist normalerweise nicht insulinabhängig.	Richtig		Hormones Metabolism
 Ein absoluter Insulinmangel ist typisch für den Juvenilen Diabetes.	Richtig		Hormones Metabolism
 Typisch für den Typ-I-Diabetes ist das ketoazidotische Koma.	Richtig		Hormones Metabolism
@@ -40,7 +41,7 @@ Bradykardie ist ein typisches Symptom der Hypothyreose. 	 Richtig		Hormones Meta
 
 Bei einer Vitamin B12-Mangel-Anämie kann eine Polyneuropathie entstehen.	Richtig		Hämatologie
 Eine weitere Ursache der Polyneuropathie ist die Alkoholkrankheit.	Richtig		Hämatologie
-Alle Anämien gehen mit einer Polyneuropathie einher.	Richtig		Hämatologie
+Alle Anämien gehen mit einer Polyneuropathie einher.	Falsch		Hämatologie
 Eine B12-Mangel-Symptomatik ist auch ohne gleichzeitige	Richtig		Hämatologie
 Die charakteristische Vitamin B12-Mangel-Trias ist: Anämiesymptome, Gastrointestinale Symptome, Neurologische Symptome. 	Richtig 		Hämatologie
 
@@ -49,7 +50,6 @@ Bei einer akuten Leukämie kommt es immer zu einer erhöhten Leukozytenzahl. 	Fa
 80 % der ALL sind Erwachsene, 80 % der AML sind Kinder	Falsch		Hämatologie Onkologie
 Bei einer akuten Leukämie können die Leukozytenzahlen normal, erhöht oder erniedrigt sein. 	Richtig 		Hämatologie Onkologie
 Die Klinik der akuten Leukämie ist: Allgemeinsymptome wie Fieber und Nachtschweiß, Anfälligkeit für Infekte, Anämie, Blutungen, Lymphknotenschwellungen (ca. 30 %). 	Richtig 		Hämatologie Onkologie
-
 Erythrozyten besitzen keinen Zellkern.	Richtig		Hämatologie
 70 % der Blutzellen sind Erythrozyten.	Falsch		Hämatologie
 Zu den Blutzellen zählen Erythrozyten, Leukozyten und Thrombozyten.	Richtig		Hämatologie
@@ -63,7 +63,7 @@ Die Lymphe entsteht durch Filtration des Blutplasmas aus dem Interstitium (Zwisc
 Von den Blutzellen sind nur die Leukozyten in der Lage, aktiv die Kapillaren zu verlassen.	Richtig		Hämatologie Lymphe
 
 Die segmentkernigen Neutrophile weisen eine unspezifische Abwehr auf.	Richtig 		Immunsystem
-Die unspezifische humorale Abwehr bildet das Komplementsystem.	Falsch		Immunsystem
+Die unspezifische humorale Abwehr bildet das Komplementsystem.	prinzipiel Richtig, wenn man nicht antimikrobielle Peptige betrachted (Lysosym)		Immunsystem
 die spezifische humorale Abwehr bilden die Plasmazellen und die Immunglobuline. 	Richtig		Immunsystem
 Zur unspezifisch zellulären Abwehr zählen die Granulozyten und das Monozyten-Makrophagen-System.	Falsch		Immunsystem
 Bei einer Erhöhung der segmentkernigen Neutrophilen spricht man von einer Linksverschiebung.	Falsch		Immunsystem
@@ -87,4 +87,4 @@ Beim Vollbild einer Hypothyreose sind die Reflexe gesteigert.	Falsch		Hormones M
 Die Haut eines Patienten mit Hypothyreose kann teigig geschwollen sein. 	Richtig 		Hormones Metabolism
 Ein Patient mit primärer Nebenniereninsuffizienz fällt mit einer Hyperpigmentierung von nicht sonnenbeschienener Hautareale auf. 	 Richtig		Hormones Metabolism
 Bei primärer Nebennierenrindeninsuffizienz ist das Hormon ACTH erniedrigt.	 Falsch 		Hormones Metabolismfalsch
-Patienten mit Akromegalie leiden vornehmlich unter einer Vergrößerung der distalen Körperteile. 	Falsch		Hormones Metabolism
+Patienten mit Akromegalie leiden vornehmlich unter einer Vergrößerung der distalen Körperteile. 	Richtig		Hormones Metabolism
