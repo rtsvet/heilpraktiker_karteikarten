@@ -1,0 +1,64 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+#######  Alergien #####
+Schilddrüsenkarzinom Sympt	derbe schnelwachsende Struma<br>regionale Lympfknotenschwellung<br>Fixierung der Haut an der Struma<br>Dyspaghie<br>Hals- ,Ohrenschmerzen<br>Horner-Trias (!Diff. D. - Hodgin, Bronchialkarzinom)		Hormone Schilddrüse
+Subakute Thyreoiditis (de Quervain) Sympt	Lokale stralende Schmerzen die oft die Seite wächseln, druckschmerzhafte Schilddrüse, fieber, abgeschlagenheit, Leistungsschwäche		Hormone Schilddrüse
+Akute Thyreoiditis Sympt	akuter begin mit Fieber und lokalen Schmerzen, Rötung und Schwellung in bereich der Schilddrüse, regionale Lympfknotenschwellung		Hormone Schilddrüse
+Hypothyreose <br>klinsche Sympt 	Energiehaushalt↓, Muskulatur/Reflexe↓, Nervensystem↓,Katecholamin-Emphindlichkeit↓, <br><b>(!)Komplikation</b> Myxödema Notfall(!)		Hormone Schilddrüse
+Basedow, (en. Graves) Sympt	Hyperthyreose, <br>Mersenburge-Trias: Tachikardie, Struma, Exophthalmus<br><b>(!) komplikation: Thyreoxische Krise: Notfall</b> 		Hormone Schilddrüse
+Hyperthyreose Sympt	Energieumsatz↑, diabetogen, Myopathien, Blutzucker↑ -> Polyurie -> Kalziumverlust, Nervensystem: Zyttern, Nervösitet, Libidoverlust, Katecholamin emphindlichkeit: Blutdruck↑, Tachycardie, Arrhytmien, Extrasystolen, Grosseblutdruckampl. 		Hormone Schilddrüse
+Euthyreote Struma Sympt 	am Anfang: keine Beschwerde; später: Dispnoe, dysphagie, Stirdor, Einflussstaung durch Kompression der Blutgefäße -> Belastung für das rechte Herz		Hormone Schilddrüse
+
+Fühe Sympt. der Diab. Mell. 2	"Polyuria: häufiger Harndrang Wenn die Nieren haben schwierigkeiten mit zu hohem Blutzucker sie “erlauben”, das es überläuft. Das bringt häufiges Wasserlassen.   <br>
+Polydipsia: Durst, trockener Mund. Die höhe Blutzucker bindet mehr Wasser. Das zusammen mit Polyuria führt zu größerem Durst. <br>
+Polyphagia: (heiß-)Hungerattacken - aufgrund die grosse Blutzuckerschwankungen<br>
+Kribbelnde gefühl in Finger, Händen, Zehen (vorbote für diabetische Nephropatie)<br>
+Langsame Wundheilung - der Grund ist: Verengung der Arteriolen und Algemeine Schaden der Blutgefäße; Unterdruckte Immunfunktion<br>
+Tendenz zum häufige Infektionskrankheiten <br>
+Unklare Sehen (diabetische retinopathie) - der Grung ist die Sklerosierung der feine Blutgefäße in der Retina.<br>
+acanthosis nigricans - Dunkle, raue Flecken meisten in der Achsel Regionen und Achselregion   (Hyperpigmentierung und Hyperkeratose) <br>
+Häufige Müdigkeit"		Hormone Metabolismus
+
+Cushing-Syndrom Sympt.	"Fettstoffwechselstörungen: Mondgesicht, Stiernacken, Stammfettsucht, Fettleber, Hypercholesterinämie<br> Eiweißstoffwechselstörungen: Muskelschwund(düne Extremitäten), Osteoporose (Kortison hemmt die Aufnahme von Kalzium aus dem Darm, Kortison hemmt die Östrogene), Myopathien<br> Kohlenhydratstoffwechselstörungen: diabetogene Wirkung<br> Pergamenthaut, schlechte Wundheilung, ulcerogene Wirkung,<br>Immunsystem: geschwächte Abwehrlage, Steigerung der Hämatopoese (Erythrozyten, Thrombozyten und Leukozyten erhöht), Hemmung der Antikörperbildung (Lymphozyten: neutrophile Granulozyten erhöht, basophile Granulozyten erniedrigt, eosinophile Granulozyten erniedrigt)" 		Hormone Metabolismus
+Cushing-Syndrom Urs.	exogen: Langzeittherapie mit Glykokortikoiden oder mit ACTH<br> <b>endogen:</b>80 % Adenom des Hypophysenvorderlappens, Paraneoplasie(kleinzelliges Karzinom), Kortisol produzierendes Adenom der Nebennierenrinde		Hormone Metabolismus
+Cushing-Syndrom Diag.	<b>Blutlabor:</b> Cortisol erhöht, Erythrozyten erhöht, Leukozyten erhöht, Thrombozyten erhöht, Lymphozyten erniedrigt, Eosinophile erniedrigt) 		Hormone Metabolismus
+
+Adrenogenitales Syndrom (AGS) Def:	Überbegriff für verschiedene Krankheiten, bei denen die Biosynthese der Steroidhormone gestört ist und infolgedessen mehr Androgene in der Nebennierenrinde gebildet werden <br>Meist genetisch bedingt"		Hormone Metabolismus
+Adrenogenitales Syndrom (AGS) Diag:	"Blutlabor: Testosteron erhöht, ACTH erhöht, Cortisol erniedrigt"		Hormone Metabolismus
+
+Nebennierenrindeninsuffizienz (NNI) - Hypokortisolismus Def.	1. Primär: Addison genannt akut o. chronish<br> 2. ACTH Ausfall 		Hormone Metabolismus
+Addisn Sympt.	"Aldosteron-Mangel: Hypotension, Hyponatriämie, Hyperkaliämie, Azidose, "Salzhunger"<br>Cortisol-Mangel: Schwächegefühl, Übelkeit, Gewichtsverlust, Hypoglykämie<br> gesteigerte ACTH: Hyperpigmentation der Haut, hervorgerufen durch Freisetzung von α-MSH bei der Spaltung von ACTH<br> Androgenmangel  (bei Frauen) Verlust der Schambehaarung<br> oft eine Anämie <br><b>Zusammenfassend ist am häufigsten ein Symptomkomplex bestehend aus Schwäche, Gewichtsverlust, Hyperpigmentation und Hypotension wegweisend zur Verdachtsdiagnose Morbus Addison.</b>"		Hormone Metabolismus
+Addison Krise Sympt.	Vigilanzstörung, Dehydratation, Schocksymptomatik, Fieber, Hypoglykämie, Pseudoperitonitis 		Hormone Metabolismus
+Sekundäre Nebenniereninsuffizienz(NNI) Sympt:	Hypotonie, Hypoglykämie, muskulärer Hypotonus, gastrointestinale Beschwerden und Gewichtsverlust, Blutbildveränderungen, Haut wirkt blass, pigmetlos (Durch die verminderte ACTH-Produktion ist auch das melanozytenstimulierende Hormon (MSH) erniedrigt.)		Hormone Metabolismus
+ddison Ätiologie	70% Immun, Hämorrhagischer Infarkt (Sepsis, Waterhouse-Friderichsen-Syndrom, arterielle Hypertonie), Tuberkulose, Tumor, Toxizität von Medikamenten, Amyloidose der Nebennieren 		Hormone Metabolismus
+
+Phäochromozytom Def:	Hormonell aktive Tumoren des Nebennierenmarks oder der sympathischen Paraganglien. 		Hormone Metabolismus
+Phäochromozytom Sympt.	"Katecholamin-induzierte Vasokonstriktion führt zu einer anfallsweisen oder dauerhaften Hypertoniey<br>am Herzen macht sich in Form von Tachykardie, Palpitationen und Herzrhythmusstörungen, hypertensive Krise (RR: > 220/120)<br>Stimulation der Glykogenolyse kommt es zu einem teilweise massiv gesteigerten Metabolismus mit Hyperglykämie und Glucosurie<br>Unspezifische Symptome sind Kopfschmerzen (60-90%), Schweißausbrüche (55-75%), Blässe (ca. 40%), Flush (ca. 10%), Unruhe, Gewichtsverlust, Müdigkeit und Leukozytose." 		Hormone Metabolismus
+Phäochromozytom Diag.	"Urinlabor: Nachweis von Vanillinmandelsäure im 24-Stunden-Urin<br>Blutlabor: eventuell Katecholaminnachweis im Serum		Hormone Metabolismus
+
+Hyperglykämisches Shock (Coma diabeticum)	Durch die Glukosurie kommt es zu einem starken Flüssigkeitsverlust mit Hypovolämie und Hypotonie		Hormone Metabolismus
+Hyperosmolares diabetisches Koma	"Zu hohe Blutzucker-Konzentrationen (> 600 mg/dL) , D.M.2 Eine noch bestehende Insulinausschüttung oder eine geringere Sekretion von kontrainsulinären Hormonen verhindert eine Ketose durch Inhibition der Lipolyse im Fettgewebe. Daher entsteht keine diabetische Ketoazidose. Auslöser sind meist interkurrente Infektionskrankheiten oder eine Behandlung mit Diuretika"		Hormone Metabolismus
+
+
+
+
+

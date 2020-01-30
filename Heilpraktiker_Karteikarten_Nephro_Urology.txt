@@ -43,29 +43,29 @@ Glomerulonephritis Zeichen 	Fieber <br>evtl. Flankenklopfschmerz (einseitig)<br>
 Glomerulonephritis Therapie 	Arztüberweisung, Nephrologe, Wenig trinken um die Nieren zu entlasten		Nieren Nephrologie
 Def.: Akute Niereninsufizienz, ANV, Akutes Nierenversagen	Funktionsabfall der Niere bei vorher gesunder Zustand mit versiegen der Harnausscheidung		Nieren Nephrologie
 Def.: Chronische Niereninsufizienz, CNI, chron. Nierenversagen 	langsam zunehmende Funktionsstörung aufgrung andere Erk. mit terminale Urämie (Harnvergiftung)		Nieren Nephrologie
-Ursachen der ANS prerenal	Durchblutungsstörungen, Schock oder Dehydration (Schockniere), Septischen Schock, Volumenmangel mit Blutdruckabfall		Nieren Nephrologie
-Ursachen der ANS rerenal	toxische Schädigung		Nieren Nephrologie
-Symptome der ANS	Oligurie, Anurie (bei 15% anfangs normal), Übelkeit, Somnolenz, Ermüdbarkeit		Nieren Nephrologie
-Komplikationen der ANS	Fehlender Salz und Wasser Ausscheidung -><br>Lungenödem/Luftnot,<br>Hirnödem/Krampfanfälle,<br>Hypertonie<br>, Hyperkaliämie<br>, Herzkreislauf überbelastung		Nieren Nephrologie
+Ursachen der ANV prerenal	Durchblutungsstörungen, Schock oder Dehydration (Schockniere), Septischen Schock, Volumenmangel mit Blutdruckabfall		Nieren Nephrologie
+Ursachen der ANV rerenal	toxische Schädigung		Nieren Nephrologie
+Symptome der ANV 	Oligurie, Anurie (bei 15% anfangs normal), Übelkeit, Somnolenz, Ermüdbarkeit		Nieren Nephrologie
+Komplikationen der ANV (akute Nierenversagen / Niereninsuffizienz)	1. Initialphase: asymptomatisch<br> 2. <b>manifeste Nierenversagen</b> GFR Retentionwerte↑ (Kreatin, UA), Durch die erhöhte Wasser- und Elektrolytretention besteht die Gefahr der Überwässerung (Hirnödem, Lungenödem, Herzinsuffizienz) sowie von Elektrolytstörungen (z.B. Hyperkaliämie). Dieses Stadium des akuten Nierenversagens kann bis zu mehreren Wochen andauern. -><br>Lungenödem/Luftnot,<br>Hirnödem/Krampfanfälle,<br>Hypertonie<br>, Hyperkaliämie<br>, Herzkreislauf überbelastung <br>3. <b>polyurische Phase</b>Wiederherstellung der Nierenfunktion Urin > 10L Tag Erlektrolytschwankungen höhe Mortalität  		Nieren Nephrologie
 Chronische Niereninsuffizienz (CNI) Ursachen	chron. GN, diabetische Nephropathie, chron. PN, Analgetika, Hypertonie, Zysternnieren		Nieren Nephrologie
-CNI Stadien und Sympt.	"I - normal Nierenfunktion evtl. Hypertonie<br> II - voll Kompensierte CNI<br> Krea-Clearance↓, Krea norm., evtl. Hypertonie<br> II - kompensierte CNI: Serum Krea und Harnstoff↑<br> III - dekompensierte: Hypertonie, Überwässerung, Perikarditis, Herzraststörungen, Lungenödem, Pleuritis, Mundgeruch, II⟺  III<br> IV - terminales: irreversibel, Serum Krea. > 10 mg/dl, Dialyse, Nierentransplantation"		Nieren Nephrologie
+CNI Stadien und Sympt.	"I - normal Nierenfunktion evtl. Hypertonie<br> II - voll Kompensierte CNI<br> Krea-Clearance↓, Krea norm., evtl. Hypertonie<br> II - kompensierte CNI: Serum Krea und Harnstoff↑<br> III - dekompensierte: Hypertonie, Überwässerung, Perikarditis, Herzraststörungen, Lungenödem, Pleuritis, Mundgeruch, II<=> III<br> IV - terminales: irreversibel, Serum Krea. > 10 mg/dl, Dialyse, Nierentransplantation"		Nieren Nephrologie
 Glomerulopathie Def und Typen	Glomeruli Erkr.<br> <ul> <li>entzündliche Erkrankungen Glomerulonephritis</li> <li>nicht-entzündliche Erkrankungen Glomerulosklerose</li> </ul> <br>Auch Klassifizierung als: <br> <ul> <li>Primär</li> <li>Secundär</li>  </ul>		Nieren Nephrologie
 Nephrotisches Syndrom <br>Def. Sympt.	Verschiedene Erkr. des Glomerulums (im Nierenkörperchen) - vermehrte Durchlässigkeit des Glomerulums<br><b> Sympt:</b> <br> 1.große Proteinurie <br>2.Hypoproteinämie <br>3.Hyperlipoproteinämie<br>4.Ödeme <br><b>Ursachen:</b> Membranöse GN, Minimal Change GN, Fokalsegmentale Glomeruloscrerose		Nieren Nephrologie
 Glomerulonephritis Def Sympt.	Beidseitige Entzündung der Nieren bezeichnet, erst - Nierenkörperchen (Glomerula) meist Allergische Typ III Reaktion gegen Antigen-Antikörperkomplex<br>Akut Postinfektiös GN, Rasch progrdierende GN, Chronish<br><b>Sympt.</b> Hämauturie, Proteinuria<3.5g/T, Entz, Oliguria, RR↑, Azotämie (Serum Urea↑), Ödeme	<img src="Glomerular_Membran.png">	Nieren Nephrologie
 Zystitis und Urethritis Def Sympt	Entz. der Harnblase und Harnröhren <br><b>Sympt</b> Pollakisurie, Disurie, Blasentenesmen; bei Urethritis Harhröhrensekret		Nieren Nephrologie
 Nephrolithiasis, Urolithiasis	Nierenleiden, Steinleiden. Konkrementbildung in der ableitenden Harnwegen, oft mit Nierenkolik. Ana: Familiengeschichte<br><b>Nierenkolik</b> - akuter Krapmpfanfall: starke , einseitige Schmerzen, die immer wellenförmig wiederkehren. Schmezausstrallung. Disurie, Makrohämaturie, Übelkeit, Subileus! <div style="background-color:silver"> (!) Urosepsis Gefahr [Hausarzt, Kliniküberweisung!]</div> 		Nieren Nephrologie
 Glomerulonepfritis Sympt	RR↑, Ödeme, Hämatourie (dismorphysch), Proteinurie <3,5g/Tag, Oligurie bis Anurie, Azotämie	<img src="Glomerular_Membran.png"	>
-Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (🗲 GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (🗲 GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (🗲 GN)		
+Nephrotisches Syndrom Sympt	<b>große Proteinurie > 3.5g/Tag (<~> GN) , Hypoproteinämie, Hyperlipoproteinämie (Lipaseverlust🡓) (<~> GN) , Ödeme</b><br>Andere: evtl. Leukos in Urin, evtl. Anämie (Transferritinverlust🡓), plural Effusion, Aszites, evtl. Hämaturia (<~> GN)		
 
 ######## Urologie Urin ##############
 Leukos in Urintest	Bakterielle Entz., CNI		Urologie Urintest
 Erys in Urinitest	Tumor, Steine, CNI		Urologie Urintest
 
 Wie bestimmt man GFR?	GFR ≈ Kreatinin Clearance<br> (Kreatininkonz. in Urin)/(Kreatitinin In Plasma) x (ml Urinvolumen)/min		Urologie Nieren
-Wie groß ist Nieren Filtrazion Rate?	80 ml/min <br>50 ml/min <br> 120 ml/min <br>180 l/St		Urologie Nieren
+Wie groß ist Nieren Filtrazion Rate?<br> 80 ml/min <br>50 ml/min <br> 120 ml/min <br>180 l/St	90~120ml/min		Urologie Nieren
 
-Wie viel ist Glomerulare Firtationsdruk am <b>Ende</b> der Glomerulusschlinge?	50 mmHg <br>0 mmHg <br> 20 mmHg		Urologie Nieren
-Wie viel ist Glomerulare Firtationsdruk am <b>Anfang</b> der Glomerulusschlinge?	50 mmHg <br>0 mmHg <br> 18 mmHg		Urologie Nieren
+Wie viel ist Glomerulare Firtationsdruk am <b>Ende</b> der Glomerulusschlinge? 50 mmHg <br>0 mmHg <br> 20 mmHg	0 mmHg		Urologie Nieren
+Wie viel ist Glomerulare Firtationsdruk am <b>Anfang</b> der Glomerulusschlinge? <br> 50 mmHg <br>0 mmHg <br> 18 mmHg	~18 mmHg		Urologie Nieren
 Komponente der Glomerulare Firtationsdruk und Formula:	Blutdruck ≈ 50mmHg <br>Koloidosmotischedruck Anf≈20 - Ende≈36mmHg <br>Hydrostatischedruck der Kapsel ≈ 12 mmHg <br> Am angang 50 - 20 - 12 = 18 mmHg		Urologie Nieren
 
 Mechanismen der Nirendurchblutung und Filtrazion (4):	Autoregulazion durch das glatte Muskulatur, Baylisefffekt <br>tubuloglomerulale Rückkoplung für Kochsalz<br> RAAS <br> ANP atriale natriuretische Peptid Filtrazionrate 🠙, Natriumausscheidung 🠙		Urologie Nieren

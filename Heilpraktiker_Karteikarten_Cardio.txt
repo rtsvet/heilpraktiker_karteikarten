@@ -83,3 +83,7 @@ Def Fallot Tetralogy	6–7 % der angeborenen Herzfehler; einer Pulmonalstenose,<
 Myokarinfarkt Diagnose	angine Pectoris oder Ishämische beschwerden >20min, EKG Änderungen, Serum Test: Troponin (T, I) nach 2-3 Std. höchst nach Tag bleiben hoch bis 2 Wochen, CK-MB;<br>Angiographie		Cardiology
 
 Mechanismen der lokales Durchblutungsregulation 	Myogene(Bayliss-Effekt) besonders Niere, Gehirn,<br> Reg. durch Stoffwechselprodukte O2🠛, CO2🠙, Milchsäure,<br> Hormonel und von Endothel und Thrombozyten vrg. Stoffe: Histamin, Bradikinin, Serotonin, Prostaglandine, Thromboxan, NO, Adenosin, Angiotensin II, Adiuretin, Adrenalin und Noradrenalin,<br> Regulation durhc Nervenimpulse (Sympatikus)		Cardiology Angiology 
+
+
+Frühkomplikationen Komplikationen nach einem Herzinfarkt	Herzrhythmusstörungen<br>, Linksherzinsuffizienz<br>, Myokardruptur mit Perikardtamponade<br>, Papillarmuskelabriss<br>, Sehnenfadenruptur<br>, Pericarditis epistenocardica (Frühperikarditis) 		Cardiology
+Spätkomplikationen nach einem Herzinfarkt	Herzwandaneurysma<br>, Spätperikarditis<br>, Mitralklappeninsuffizienz<br>, Perimyokarditis		Cardiology
