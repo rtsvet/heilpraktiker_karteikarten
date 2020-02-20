@@ -1,0 +1,42 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2020  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+#######  Gastrology #####
+Sekretion des Magens	Huptzellen: Pepsinogen<br>Belegzellen: HCl, Intrinsic Faktor<br>Atrium G-Zellen: Gastrin<br>Nebenzellen alkalische Schleim		Gastroentherologie
+Sekretion des Duodenum	Brunersche Drüsen: Sekretin(Gegenspieler von Gastrin)		Gastroentherologie
+Sekretion des Pankreas	exokrine Zellen: Bicarbonat, Alpha-Amylase, Lipase, Tripsinogen, Chymotrypsinogen		Gastroentherologie
+Sekretion des Dündarm Jejunum, Ileum	Lieberkünsche Drüsen: Lipasen, Peptidasen, Glukosidasem (Maltasen, Saccherase, Laktase) 		Gastroentherologie
+Aufgaben der Magens Pepsinogen	Splatet Eiweise 		Gastroentherologie
+Aufgaben der Magens Salzsäure	aktiviert Pepsinogen zu Pepsin,<br> denaturiert die Eiweis (vorassetzung für Pepsin), Fe3 -> Fe2		Gastroentherologie
+Aufgaben der Magens Gastrin	Magenmotilität und die Magensaftsekretion fördert		Gastroentherologie
+Aufgaben der Magens Nebenzellen alkalischer Schleim	schützt die Magenwand vor Selbstandauung		Gastroentherologie
+Aufgaben der Duodenum's Sekretin	fördert die Produktion von alkalischem Schleim<br>hemmt die Bildung von HCl<br>setzt die Magenmotilität herab<br>regt die Gallenblase zur Ausschüttung der Galle an		Gastroentherologie
+Aufgaben der Duodenum's Entherokinase	fungiert als Aktivator. Wandert Tripsinogen und Chymotripsinogen))		Gastroentherologie
+Aufgaben der Duodenum's Cholezystokinin 	regt das Pankreas und die Gallenblase zur Ausschüttung an		Gastroentherologie
+Aufgaben der Pankreas's Bicarbonat	wird benötigt, da Enzyme nur im alkalischen Milieu wirken		Gastroentherologie
+Aufgaben der Pankreas's Alpha-Amilase	Enzym zur Kohlehydratspaltung (Disacharide in Monosacharide)		Gastroentherologie
+Aufgaben der Pankreas's Lipase	Fettspaltung		Gastroentherologie
+Aufgaben der Pankreas's Trypsinogen, Chymotrypsinogen	inaktive Vorstufe des Enzyms zur Eiweißspaltung		Gastroentherologie
+#
+
+Lage der Bauchorgane		<img src="bauch_organe.jpeg">	Gastroentherologie
+Lage der Verdaungstrakt anatomische Schichten		<img src="digestive_tisue_anatomy.jpeg">	Gastroentherologie
+Magenwand zellen und drüsen		<img src="Gastric_pits_and_gastric_glands.jpg">	Gastroentherologie

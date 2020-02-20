@@ -23,8 +23,8 @@
 ####              Cardiology                        ######
 ##########################################################
 
-Arterie Schichten?	Intima (Tunica interna), Tunica media, Advenititia (Tunica Externa)	<img src="Artery.jpg"	Cardiologie
-Herzwand Schichten?	Epicard, Myocard, Pericard <br> Seröse Höhle<br>Pericardschicht 	<img src="Herzschichten.jpg"	Cardiologie
+Arterie Schichten?	Intima (Tunica interna), Tunica media, Advenititia (Tunica Externa)	<img src="Artery.jpg">	Cardiologie
+Herzwand Schichten?	Epicard, Myocard, Pericard <br> Seröse Höhle<br>Pericardschicht 	<img src="Herzschichten.jpg">	Cardiologie
 
 ## Palpation, Auskultation
 Wo wird Herzspitzenstos palpiert?	5 ICR Medioclavicular		Cardiologie
