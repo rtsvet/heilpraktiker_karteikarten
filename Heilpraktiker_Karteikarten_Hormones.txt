@@ -57,8 +57,10 @@ Phäochromozytom Diag.	"Urinlabor: Nachweis von Vanillinmandelsäure im 24-Stund
 
 Hyperglykämisches Shock (Coma diabeticum)	Durch die Glukosurie kommt es zu einem starken Flüssigkeitsverlust mit Hypovolämie und Hypotonie		Hormone Metabolismus
 Hyperosmolares diabetisches Koma	"Zu hohe Blutzucker-Konzentrationen (> 600 mg/dL) , D.M.2 Eine noch bestehende Insulinausschüttung oder eine geringere Sekretion von kontrainsulinären Hormonen verhindert eine Ketose durch Inhibition der Lipolyse im Fettgewebe. Daher entsteht keine diabetische Ketoazidose. Auslöser sind meist interkurrente Infektionskrankheiten oder eine Behandlung mit Diuretika"		Hormone Metabolismus
-
-
-
+#
+Hyperosmolares Koma	hohe Blutzucker-Konzentrationen (> 600 mg/dL) Komplikation des Diabetes mellitus Typ 2<br> Eine noch bestehende Insulinausschüttung oder eine geringere Sekretion von kontrainsulinären Hormonen verhindert eine Ketose durch Inhibition der Lipolyse im Fettgewebe. Daher entsteht keine diabetische Ketoazidose<br><b>Auslösende Faktoren</b>Infektionskrankheiten oder eine Behandlung mit Diuretika, stark zuckerhaltiger Nahrung		Hormone Metabolismus
+Hyperosmolares Koma Sympt	Glukosurie, die eine progrediente Dehydratation mit Elektrolytstörungen, Bewusstseinsstörungen bis hin zum Koma, Volumenmangelschock und akutes Nierenversagen auslösen kann.		Hormone Metabolismus
+Diabetische Ketoazidose 	Insulinmangel -> Der Körper deckt dann seinen Energiebedarf über den Abbau von Fetten ->  Ketonämie, Hyperlipoproteinämie und Hypercholesterinämie. <br>Durch die Hyperglykämie werden verstärkt Wasser und damit Elektrolyte ausgeschieden, da ab einem Glukosespiegel von ca. 180 mg/dl die Nierenschwelle der maximalen Rückresorption von Glukose überschritten ist. Folge dieser Veränderungen sind eine Exsikkose und ausgeprägte Elektrolytentgleisungen.		Hormone Metabolismus
+Diabetische Ketoazidose Sympt	Durst, Polyurie, Trockene Mundscheimhaut, Müdigkeit, Benommenheit, Bauchschmerzen, Nausea, Kußmaul-Atmung, Acetongeruch		Hormone Metabolismus
 
 
