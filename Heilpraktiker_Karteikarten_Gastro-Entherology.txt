@@ -36,7 +36,15 @@ Aufgaben der Pankreas's Alpha-Amilase	Enzym zur Kohlehydratspaltung (Disacharide
 Aufgaben der Pankreas's Lipase	Fettspaltung		Gastroentherologie
 Aufgaben der Pankreas's Trypsinogen, Chymotrypsinogen	inaktive Vorstufe des Enzyms zur Eiweißspaltung		Gastroentherologie
 #
+Lage der Bauchorgane		<img src='bauch_organe.jpeg'>	Gastroentherologie
+Lage der Verdaungstrakt anatomische Schichten		<img src=""digestive_tisue_anatomy.jpeg"">	Gastroentherologie
+Magenwand zellen und drüsen		<img src="Gastric_pits_and_gastric_glands.jpg"> 	Gastroentherologie
+#
+Diferenzialdiagnose Disphagie	Ösophagitis, Ösophaguskarzinom, Ö-divertikel, Ö-strikturen, Malloy-Weiss Syndron, Ö-abszess, verschlückte Fremdkörper, Achalasie, Ö-spasmen, Eisenmangelanämie, Vit-B12-Mangel-Anämie, Struma, Schildrüsenkarzinom, Aortenaneurisma, allgemein mediastinale Prozesse		Gastroentherologie Hormone Hämatologie
+#
+Barret-Syndrom Def	Krankhafte Gewebeveränderung, die als Krebsvorstufe angesehen wird. ~> Reflux Krankheit 		Gastroentherologie
+Präkarzinosen Gastroenthereologie	Achalasie, Refluxösophagitis, Stenosen bei Ö-verlätzungen, Ulcus Verntriculi, Darmpolypen, Magakolon, Colitis Ulcerosa		Gastroentherologie
+Diferenzialdiagnose: Blutungen des oberen Verdaungtrackts	Magenerosionen, Magen- Darmulcerationen, Mallory-Weiss Syndrom, Magenkarzinom		Gastroentherologie
+Achalasie Gastro-entherology	 Funktionsstörung der glatten Muskulatur von Hohlorganen in diesem Fall: Stenose des unteren Ösophagussphinkers. Augrungdessen verbleibt die Nahrung und dehnt den Ö.		Gastroentherologie
 
-Lage der Bauchorgane		<img src="bauch_organe.jpeg">	Gastroentherologie
-Lage der Verdaungstrakt anatomische Schichten		<img src="digestive_tisue_anatomy.jpeg">	Gastroentherologie
-Magenwand zellen und drüsen		<img src="Gastric_pits_and_gastric_glands.jpg">	Gastroentherologie
+

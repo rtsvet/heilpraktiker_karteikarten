@@ -63,4 +63,5 @@ Hyperosmolares Koma Sympt	Glukosurie, die eine progrediente Dehydratation mit El
 Diabetische Ketoazidose 	Insulinmangel -> Der Körper deckt dann seinen Energiebedarf über den Abbau von Fetten ->  Ketonämie, Hyperlipoproteinämie und Hypercholesterinämie. <br>Durch die Hyperglykämie werden verstärkt Wasser und damit Elektrolyte ausgeschieden, da ab einem Glukosespiegel von ca. 180 mg/dl die Nierenschwelle der maximalen Rückresorption von Glukose überschritten ist. Folge dieser Veränderungen sind eine Exsikkose und ausgeprägte Elektrolytentgleisungen.		Hormone Metabolismus
 Diabetische Ketoazidose Sympt	Durst, Polyurie, Trockene Mundscheimhaut, Müdigkeit, Benommenheit, Bauchschmerzen, Nausea, Kußmaul-Atmung, Acetongeruch		Hormone Metabolismus
 
+Horner-Syndrom Def	 Miosis (Verengung der Pupille), Ptosis(Herabhängen des oberen Augenlids) und Enophthalmus (genauer Pseudoenophthalmus) 	<img src="Horner_Syndrom.jpeg"> 	Hormone Metabolismus
 
