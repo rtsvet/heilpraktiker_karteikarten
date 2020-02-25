@@ -94,4 +94,15 @@ Erkr mit Mikrohämaturie 	Alle Ursachen der Makrohämaturie +<br> Pyelonephritis
 Proteinurie (PU) Arten  	benigne PU < 150mg/24Std (bis 3 gr) bei Fieber, Kälte, Physischeanstrengung,<br> prerenale PU: bei Plasmozytom,<br>relanle PU: GN, Nephritoschen Syndrom (CNI), Nierenkarzinom, Nierentuberkulose,< br>methabolische PU: Diabetes Miell., Schilddrüse hypo- Hyperfunktion,<br> postrenale Pyelonephritis,  Zystitis, Urethritis   		Urologie Urintest
 Symptom Sxhmezen in Nierenlager 	Klopfschmerz oft bei Pyelonepfritis, dumpfer Dauerschmerz typisch für eine akute GN, krampfartige Schmerzenden (Kolik) oft strahlend und oft bei Verlegung bei Nierensteine		Urologie Urintest
 Was wird in Urintest gemessen?<br> Urobilinogen oder Urobilin?<br> 	Urobilin	<img src="heme-catabolism.jpg"	Urologie Urintest
+#
+Urämie Sympt	"<b>Nervensystem</b>: Somnolenz Amnesie Desorientierung Myoklonien Singultus Hirnödem Polyneuropathie
+<br><b>Gastrointestinaltrakt</b>: Anorexie, Übelkeit, Erbrechen Aszites urämische Gastritis, Kolitis erhöhte Inzidenz des Ulcus ventriculi
+<br><b>Endokrin</b>: sekundärer Hyperparathyreoidismus Wachstumsstörungen bei betroffenen Kindern Amenorrhoe Impotenz
+<br><b>Blut:</b> Anämie Fehlfunktion der Thrombozyten (hämorrhagische Diathese) 
+Immundefizienz durch verminderte Funktion der Leukozyten
+<br><b>Herz-Kreislauf-System</b>: Perikarditis Kardiomyopathie Hypertonie 
+<br><b>Lunge</b>: Lungenödem Kussmaul-Atmung (Symptom der Azidose durch Elektrolytverschiebung) Pleuritis
+<br><b>Haut</b>: Pruritus Pigmentationsstörungen Verkalkungen graugelbliche Verfärbung der Haut (Café-au-lait-Flecken)
+<br><b>Knochen</b>: renale Osteodystrophie (pathologische Frakturen)
+<br><b>Sonstige</b>: Foetor uraemicus"		Urologie Urintest
 
