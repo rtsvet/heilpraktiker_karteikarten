@@ -80,3 +80,6 @@ Morbus Crohn Sympt Extraintestinal	Gelenke: entheropatische Arthritis<br>Augen: 
 Coliti Ulcerosa Sympt	Blutige, schleimige Durchfälle, evtl. Bauchschmerzen LLQ (Meist der Sigma, Colon descendens), Tenesmen (schmerzhafter Stuhldrang), Fieber<br> Extraintestinal: Leber: sklerosierende Cholangitis Gelenke: Arthritis, Spondylitis akylosan Hautveränderungen: erythema nodisum... Augen: Iritis, Episkleritis, Uveitis		Gastroentherologie
 Enteritis, Gastroenteritis Def. Sympt. Urs.	Dündarmentzündung, Magen-Darmentzündung<br>Infektiös: Bakterien, Viren Allergisch: Nahrungsmittelallergene Toxisch: Bakterientoxine, Giftstoffe<br>Inkubationszeit > 6, Wässrige, übel riehende Durchfall - Wegen der Werstärkte Gewebewasserabsonderung		Gastroentherologie
 Akute Gastritis Def. Sympt. Urs.	Ak. Magenschleimhautentzündung<br>Schmerzen im Epigastrium Erbrechen (bei Blutbeimengung Hämatemesis), Teerstuhl, Normozytäre Anäme, Übelkeit, Völlegefühl (insbesondere postprandial), Aufstoßen, Blähungen 		Gastroentherologie
+Analabzess Sympt	Ständige Schmerzen bei Stuhlgang und Sitzen, Fieber, Schütelfrost, Rötung, schmezhafter Tumor		Gastroentherologie
+Analfistel Sympt	eitrige Sekretion, Juckreiz, Selten Schmerzen bei Stuhlgang		Gastroentherologie
+DD Analabzess, Analfistel	Analkarzinom, Morbus Crohn, Analfissur	<img src="Anal_fistula_fisure_abzess.jpg">	Gastroentherologie
