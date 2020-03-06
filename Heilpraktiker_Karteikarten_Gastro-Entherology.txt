@@ -83,3 +83,5 @@ Akute Gastritis Def. Sympt. Urs.	Ak. Magenschleimhautentzündung<br>Schmerzen im
 Analabzess Sympt	Ständige Schmerzen bei Stuhlgang und Sitzen, Fieber, Schütelfrost, Rötung, schmezhafter Tumor		Gastroentherologie
 Analfistel Sympt	eitrige Sekretion, Juckreiz, Selten Schmerzen bei Stuhlgang		Gastroentherologie
 DD Analabzess, Analfistel	Analkarzinom, Morbus Crohn, Analfissur	<img src="Anal_fistula_fisure_abzess.jpg">	Gastroentherologie
+Welche Bluteiweiße produziert die Leber?	Albumine, <br>Gerinnungsfaktoren (Prothrombin, Fibrinogen), <br>Globuline (ohne gamma-Globulin), <br>Lipoproteine, Binding Proteins(Transferrin, IGFBP, Sex-hormone binding proteins,..), Peptid Hormone IGF-1, Thrombopoetin, <br>Prohormone - Angiotensinogen, <br>CRP		Gastroentherologie
+Häm Ammbau	Häm -> Biliverdin -> Indirektes Bilirubin -> Direktes Bilirubin -> Sterkobilinogen -> Sterkobilin -> Urobilinogen	<img src="Hem_Abbau_Zyklus.png"><br>	Gastroentherologie Hepatologie$
