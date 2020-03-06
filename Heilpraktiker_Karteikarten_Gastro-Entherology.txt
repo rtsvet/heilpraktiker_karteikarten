@@ -1,0 +1,87 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2020  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+#######  Gastrology #####
+Sekretion des Magens	Huptzellen: Pepsinogen<br>Belegzellen: HCl, Intrinsic Faktor<br>Atrium G-Zellen: Gastrin<br>Nebenzellen alkalische Schleim		Gastroentherologie
+Sekretion des Duodenum	Brunersche Drüsen: Sekretin(Gegenspieler von Gastrin)		Gastroentherologie
+Sekretion des Pankreas	exokrine Zellen: Bicarbonat, Alpha-Amylase, Lipase, Tripsinogen, Chymotrypsinogen		Gastroentherologie
+Sekretion des Dündarm Jejunum, Ileum	Lieberkünsche Drüsen: Lipasen, Peptidasen, Glukosidasem (Maltasen, Saccherase, Laktase) 		Gastroentherologie
+Aufgaben der Magens Pepsinogen	Splatet Eiweise 		Gastroentherologie
+Aufgaben der Magens Salzsäure	aktiviert Pepsinogen zu Pepsin,<br> denaturiert die Eiweis (vorassetzung für Pepsin), Fe3 -> Fe2		Gastroentherologie
+Aufgaben der Magens Gastrin	Magenmotilität und die Magensaftsekretion fördert		Gastroentherologie
+Aufgaben der Magens Nebenzellen alkalischer Schleim	schützt die Magenwand vor Selbstandauung		Gastroentherologie
+Aufgaben der Duodenum's Sekretin	fördert die Produktion von alkalischem Schleim<br>hemmt die Bildung von HCl<br>setzt die Magenmotilität herab<br>regt die Gallenblase zur Ausschüttung der Galle an		Gastroentherologie
+Aufgaben der Duodenum's Entherokinase	fungiert als Aktivator. Wandert Tripsinogen und Chymotripsinogen))		Gastroentherologie
+Aufgaben der Duodenum's Cholezystokinin 	regt das Pankreas und die Gallenblase zur Ausschüttung an		Gastroentherologie
+Aufgaben der Pankreas's Bicarbonat	wird benötigt, da Enzyme nur im alkalischen Milieu wirken		Gastroentherologie
+Aufgaben der Pankreas's Alpha-Amilase	Enzym zur Kohlehydratspaltung (Disacharide in Monosacharide)		Gastroentherologie
+Aufgaben der Pankreas's Lipase	Fettspaltung		Gastroentherologie
+Aufgaben der Pankreas's Trypsinogen, Chymotrypsinogen	inaktive Vorstufe des Enzyms zur Eiweißspaltung		Gastroentherologie
+#
+Lage der Bauchorgane		<img src='bauch_organe.jpeg'>	Gastroentherologie
+Lage der Verdaungstrakt anatomische Schichten		<img src=""digestive_tisue_anatomy.jpeg"">	Gastroentherologie
+Magenwand zellen und drüsen		<img src="Gastric_pits_and_gastric_glands.jpg"> 	Gastroentherologie
+#
+Diferenzialdiagnose Disphagie	Ösophagitis, Ösophaguskarzinom, Ö-divertikel, Ö-strikturen, Malloy-Weiss Syndron, Ö-abszess, verschlückte Fremdkörper, Achalasie, Ö-spasmen, Eisenmangelanämie, Vit-B12-Mangel-Anämie, Struma, Schildrüsenkarzinom, Aortenaneurisma, allgemein mediastinale Prozesse		Gastroentherologie Hormone Hämatologie
+#
+Barret-Syndrom Def	Krankhafte Gewebeveränderung, die als Krebsvorstufe angesehen wird. ~> Reflux Krankheit 		Gastroentherologie
+Präkarzinosen Gastroenthereologie	Achalasie, Refluxösophagitis, Stenosen bei Ö-verlätzungen, Ulcus Verntriculi, Darmpolypen, Magakolon, Colitis Ulcerosa		Gastroentherologie
+Diferenzialdiagnose: Blutungen des oberen Verdaungtrackts	Magenerosionen, Magen- Darmulcerationen, Mallory-Weiss Syndrom, Magenkarzinom		Gastroentherologie
+Achalasie Gastro-entherology	 Funktionsstörung der glatten Muskulatur von Hohlorganen in diesem Fall: Stenose des unteren Ösophagussphinkers. Augrungdessen verbleibt die Nahrung und dehnt den Ö.		Gastroentherologie
+Sympt der Malabsorbtion 	Vit D Mangel - Osteomalalazie,<br>Elektrolyt mangel - evtl Hetzrhytmusstörungen,<br> Vit-K Mangel - evtl. Gerinungsstörungen, Eisenmangel - evtl. Anämie		Gastroentherologie
+Diagnoseverfahren: Magen	Gastroskopie, <br>MDP (Magen-Darm-Pasage),<br> CT, <br>Helocobakter pylori Untersuchungen (4),<br>Sonographie, <br>Röntgen		Gastroentherologie
+Leitsymptome des Magens?	Appetitlosigkeit, Übelkeit, Erbrechen, Schmerzen (Nüchternschmerz, nahrungsabhängiger Schmerz, Abendschmerz, ständiger Schmerz, links- oder rechtsausstrahlender Schmerz), Blutungen (Melaena (Teerstuhl), Hämateesis (Bluterbrechen)		Gastroentherologie
+#
+Diferenzialdiagnose positiven HLA B27	HLA-B27 ist eine genetisch determinierte Antigenvariante des Human Leukocyte Antigen-B (HLA-B).<br>Colitis ulcerosa, Morbus Bechterew, Morbus Reiter<br> Eröht: Psoriasis-Arthritis, Rheumatoide Arthritis u.a. 		Gastroentherologie
+Mukoviszidose Def:	Die Mukoviszidose ist eine Erbkrankheit aus der Gruppe der Stoffwechselstörungen. Sie verursacht die Produktion eines zähen Sekrets durch die exokrinen Drüsen. 		Gastroentherologie
+Mukoviszidose Sympt:	chronischen Bronchitis und die Glandulae intestinales mit Malabsorptionserscheinungen (unter anderem Steatorrhö und Vitaminmangel).		Gastroentherologie
+Mallory-Weiss-Syndrom Def:	longitudinale Schleimhauteinrisse im Grenzgebiet zwischen Magen und Ösophagus bezeichnet. Das Mallory-Weiss-Syndrom tritt gehäuft bei Alkoholikern mit vorgeschädigter Schleimhaut und im Rahmen einer chronischen Refluxösophagitis auf. Die Auslösesituation umfasst insbesondere den Zeitraum nach einem Alkoholexzess mit Erbrechen und damit verbundener Druckerhöhung im Magen und Ösophagus. Sympt: Hämatemesis, Schmerzen in Epigastrium 		Gastroentherologie
+#
+Bauchschmerzen im Epigastrum	<b>Ulcus ventriculi:</b> nahrungsabhängiger Schmerz, schneidender, stechender, ziehender, bohrender Charakter, Punktschmerz: zwischen Processus xiphoideus und dem Bauchnabel mittig.<br><b>Gastritis:</b> Druckschmerz<br><b>Magenkarzinom</b><br><b>Reizmagen</b><br><b>Pankreatitis</b>: Schmerz strahlt gürtelförmig in den Rücken aus<br><b>Pankreaskarzinom</b>	<img src="GI_location_abdominal_pain_de.png"><br>	Gastroentherologie
+Bauchschmerzen im Epigastrum	<b>Ulcus duodeni:</b> nächtlicher Nüchternschmerz, Punktschmerz mittig zwischen Processus xiphoideus und rechtem Rippenbogen<br>Kolonkarzinom<br><b>Cholezystitis:</b> kolikartiger Schmerz, zieht auch in den Rücken und in die rechte Schulter<br>Cholelithiasis: kolikartiger Schmerz, zieht auch in den Rücken und in die rechte Schulter<br>Gallenblasenkarzinom<br>Hepatitiden: Druckschmerzen, Druckgefühl<br>Leberzellkarzinom	<img src="GI_location_abdominal_pain_de.png"><br>	Gastroentherologie
+Bauchschmerzen im rechten Oberbauch 		<img src="GI_location_abdominal_pain_de.png"><br>	Gastroentherologie
+Bauchschmerzen im linken Oberbauch	Kolonkarzinom Milzruptur Milzschwellung, -stauung Herzinfarkt Perikarditis	<img src="GI_location_abdominal_pain_de.png"><br>	Gastroentherologie
+Bauchschmerzen im rechten Unterbauch	Morbus Crohn: kolikartiger Schmerz Appendizitis: Dauerschmerz, beim Gehen Verschlimmerung, beginnend mit suggerierten Magenschmerzen Kolonkarzinom 	<img src="GI_location_abdominal_pain_de.png"><br>	Gastroentherologie
+Bauchschmerzen im linken Unterbauch	Divertikulitis: kolikartiger Schmerz Morbus Crohn: kolikartiger Schmerz Kolonkarzinom	<img src="GI_location_abdominal_pain_de.png"><br>	Gastroentherologie
+#
+Die typischen Beschwerden beim Reizmagen	Druck- und Völlegefühl im Oberbauch, Schmerzen, Reflux, Unverträglichkeit gegenüber bestimmten Speisen		Gastroentherologie
+Dürfen Sie als Heilpraktiker(in) eine akute Gastritis behandeln?	Bei einer infektiösen Gastritis dürfen Sie als Heilpraktiker(in) gemäß Infektionsschutzgesetz <b>nicht</b> behandeln. Sofern die Gastritis jedoch beispielsweise aufgrund von Stress oder Alkoholabusus entstanden ist, dürfen Sie behandeln. Sofern es zu Blutungen des Magens kommt, muss der Patient umgehend an einen Arzt verwiesen werden.		Gastroentherologie
+Symptom Disphagie Diferenzialdiag.(o.a.)	Refluxösophagitis, Ösophaguskarzinom, Achalasie, eventuell retrosternale Struma 		Gastroentherologie
+Wie unterscheidet sich differenzialdiagnostisch der Schmerz des Magengeschwürs von dem des Dünndarmgeschwürs?	 <br>Ulcus ventriculi: Schmerzen im Epigastrum, nahrungsabhängiger Schmerz, schneidender, stechender, ziehender, bohrender Charakter, Punktschmerz: zwischen Processus xiphoideus und dem Bauchnabel mittig<br><b>Ulcus duodeni:</b> Schmerzen im rechten Oberbauch, nächtlicher Nüchternschmerz, Punktschmerz mittig zwischen Processus xiphoideus und rechtem Rippenbogen		Gastroentherologie
+Volvulus Def	die angeborene oder erworbene Verdrehung eines Organs, besonders die Verdrehung von Darmabschnitten 		Gastroentherologie
+Paralytischer Ileus Ursachen	"<b>Peritonitis:&nbsp;</b>bei Magen-, Darm- oder Gallenblasenperforation; im Rahmen einer akuten Pankreatitis; nach Bauch-OP (postoperativer paralytischer Ileus); Durchwanderungsperitonitis&nbsp;<div>Divertikulitis;&nbsp;</div><div><b>Vergiftungen</b>
+Urämie
+Opiatintoxikation&nbsp;</div><div><b>Darmischämie</b> (z.B. bei Mesenterialinfarkt)&nbsp;</div><div><b>Nierenkolik</b> (reflektorischer Ileus)</div>"		Gastroentherologie
+Mechanischer Ileus Strangulation Ursachen:	Briden,Verklebungen (Adhäsionsileus), Inkarzeration einer Hernie, Darminvagination, Volvulus"		Gastroentherologie
+Appendizitis Sympt	Unspezifischer Begin:Übelkeit, diffusen Oberbauchbeschwerden, Bauchnabel (wegen der Viscerale Peritoneum)<br>Danach 4–24Std. Akutes Abdomen: Loslassschmerzen, evtl. Druckschmerzen, Abwehrspannung, Leukozytose, genaue re-unt. Quadrant somatische Schmerzen (Blumberg) 		Gastroentherologie
+Appendizitis Diag	Nach Palpation + Score-System: Fiebermessung (axillär-rektaler Temperaturunterschied > 1 Grad); Labor: Blutbild, CRP, BSG; Normale Laborparameter schließen eine Appendizitis nicht aus.; Sonografie des Abdomens (vergrößerter Appendixdurchmesser > 6 mm, Wandverdickung, zirkuläre Flüssigkeitsansammlung;  Farbdoppler-Sonografie MRT, CT 		Gastroentherologie
+Appendizitis Schmerzpunkte	Blumberg's sign: rebound tenderness caused upon suddenly ceasing deep palpation of the RLQ<br>McBurney point tenderness: an area one-third of the distance from the right anterior superior iliac spine to the umbilicus (in the RLQ)<br>Rovsing's sign: deep palpation of the LLQ causes RLQ referred pain<br>Psoas sign: RLQ pain with extension of the right leg against resistance (secondary to inflammation of a retrocecal appendix)<br>Obturator sign: RLQ pain with flexion and internal rotation of the right leg	<img src="Appendizitis_Schmerzpunkten.jpg">	Gastroentherologie
+#
+Morbus Crohn Sympt Intestinal	Typisch <b>nich blutig</b> chronische Diarhö, abdominal Schmerz typisch re-un, Malabsobzion (Gewichtsverlust, Anemia (Fe, Chron, B12), Komplikationen der Absobzion und distribution der Galensäuren (Gallen Diarhö, Steatorhö, Galensteine, Nierensteine, defizit Fettlöslische Vit.),  abdominale Masse ofr RLQ, Fistula, <b>Abzess</b> 50% der fälle - <br>(!) <b>Perianale Fistula undAbzess sind oft ein Zeichen der Morbus Crohn 		Gastroentherologie 
+Morbus Crohn Sympt Extraintestinal	Gelenke: entheropatische Arthritis<br>Augen: Iritis, Uvelitis<br>Leber: cholangitis<br>Dermatilogisch Erythrema Nodosum, Pyoderma gangrenosum<br> orale Aphten		Gastroentherologie 
+Coliti Ulcerosa Sympt	Blutige, schleimige Durchfälle, evtl. Bauchschmerzen LLQ (Meist der Sigma, Colon descendens), Tenesmen (schmerzhafter Stuhldrang), Fieber<br> Extraintestinal: Leber: sklerosierende Cholangitis Gelenke: Arthritis, Spondylitis akylosan Hautveränderungen: erythema nodisum... Augen: Iritis, Episkleritis, Uveitis		Gastroentherologie
+Enteritis, Gastroenteritis Def. Sympt. Urs.	Dündarmentzündung, Magen-Darmentzündung<br>Infektiös: Bakterien, Viren Allergisch: Nahrungsmittelallergene Toxisch: Bakterientoxine, Giftstoffe<br>Inkubationszeit > 6, Wässrige, übel riehende Durchfall - Wegen der Werstärkte Gewebewasserabsonderung		Gastroentherologie
+Akute Gastritis Def. Sympt. Urs.	Ak. Magenschleimhautentzündung<br>Schmerzen im Epigastrium Erbrechen (bei Blutbeimengung Hämatemesis), Teerstuhl, Normozytäre Anäme, Übelkeit, Völlegefühl (insbesondere postprandial), Aufstoßen, Blähungen 		Gastroentherologie
+Analabzess Sympt	Ständige Schmerzen bei Stuhlgang und Sitzen, Fieber, Schütelfrost, Rötung, schmezhafter Tumor		Gastroentherologie
+Analfistel Sympt	eitrige Sekretion, Juckreiz, Selten Schmerzen bei Stuhlgang		Gastroentherologie
+DD Analabzess, Analfistel	Analkarzinom, Morbus Crohn, Analfissur	<img src="Anal_fistula_fisure_abzess.jpg">	Gastroentherologie
+Welche Bluteiweiße produziert die Leber?	Albumine, <br>Gerinnungsfaktoren (Prothrombin, Fibrinogen), <br>Globuline (ohne gamma-Globulin), <br>Lipoproteine, Binding Proteins(Transferrin, IGFBP, Sex-hormone binding proteins,..), Peptid Hormone IGF-1, Thrombopoetin, <br>Prohormone - Angiotensinogen, <br>CRP		Gastroentherologie
+Häm Ammbau	Häm -> Biliverdin -> Indirektes Bilirubin -> Direktes Bilirubin -> Sterkobilinogen -> Sterkobilin -> Urobilinogen	<img src="Hem_Abbau_Zyklus.png"><br>	Gastroentherologie Hepatologie$
