@@ -1,5 +1,5 @@
 # <Heilpraktiker Karteikarten>
-#  Copyright (C) 2019  
+#  Copyright (C) 2020  
 #  Authors and Contributors: Radoslav Tsvetkov
 #
 #    This information is free; you can redistribute it and/or modify it
