@@ -85,3 +85,20 @@ Analfistel Sympt	eitrige Sekretion, Juckreiz, Selten Schmerzen bei Stuhlgang		Ga
 DD Analabzess, Analfistel	Analkarzinom, Morbus Crohn, Analfissur	<img src="Anal_fistula_fisure_abzess.jpg">	Gastroentherologie
 Welche Bluteiweiße produziert die Leber?	Albumine, <br>Gerinnungsfaktoren (Prothrombin, Fibrinogen), <br>Globuline (ohne gamma-Globulin), <br>Lipoproteine, Binding Proteins(Transferrin, IGFBP, Sex-hormone binding proteins,..), Peptid Hormone IGF-1, Thrombopoetin, <br>Prohormone - Angiotensinogen, <br>CRP		Gastroentherologie
 Häm Ammbau	Häm -> Biliverdin -> Indirektes Bilirubin -> Direktes Bilirubin -> Sterkobilinogen -> Sterkobilin -> Urobilinogen	<img src="Hem_Abbau_Zyklus.png"><br>	Gastroentherologie Hepatologie$
+Uterschied mechanischen und paralytischen Ileus 	"<table border=1>
+<thead><tr><th>Mechanischer Ileus</th>
+<th>Paralytischer Ileus</th>
+</tr></thead>
+<tbody><tr>
+<td>krampfartige Schmerzen durch verstärkte Peristaltik (Hyperperistaltik)</td>
+<td>meist nur Druckgefühl</td>
+</tr>
+<tr>
+<td>Stuhl-/Windverhalt bei Dickdarm- und tiefem Dünndarmileus</td>
+<td>Stuhl-/Windverhalt</td>
+</tr>
+<tr>
+<td>bei AuskultationStenoseperistaltik(Darmmuskulatur kämpft gegen die Stenose an): „metallische“, „spritzende“, „hochgestellte“ oder „klingende“ Darmgeräusche <br>nach Stunden bis Tagen Fehlen von Darmgeräuschen (Ermüdung der Darmmuskulatur)</td>
+<td>bei Auskultation Fehlen von Darmgeräuschen („Totenstille im Abdomen“)</td>
+</tr>
+</tbody></table>"		Gastroentherologie 

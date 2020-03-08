@@ -64,4 +64,75 @@ Diabetische Ketoazidose 	Insulinmangel -> Der Körper deckt dann seinen Energieb
 Diabetische Ketoazidose Sympt	Durst, Polyurie, Trockene Mundscheimhaut, Müdigkeit, Benommenheit, Bauchschmerzen, Nausea, Kußmaul-Atmung, Acetongeruch		Hormone Metabolismus
 
 Horner-Syndrom Def	 Miosis (Verengung der Pupille), Ptosis(Herabhängen des oberen Augenlids) und Enophthalmus (genauer Pseudoenophthalmus) 	<img src="Horner_Syndrom.jpeg"> 	Hormone Metabolismus
+DD zwischen hyperglykämischem Koma und hypoglykämischem Schock.	"<table>
+<thead><tr><th></th>
+<th>Hyperglykämisches Koma</th>
+<th>Hypoglykämischer Schock</th>
+</tr></thead>
+<tbody><tr>
+<td>Beginn</td>
+<td>langsam über Tage</td>
+<td>rasch (Min.)</td>
+</tr>
+<tr>
+<td>Bedürfnis</td>
+<td>starker Durst</td>
+<td>Heißhunger</td>
+</tr>
+<tr>
+<td>Muskulatur</td>
+<td>hypoton</td>
+<td>hyperton, Tremor</td>
+</tr>
+<tr>
+<td>Haut</td>
+<td>trocken, stehende Hautfalten</td>
+<td>feucht-kalt</td>
+</tr>
+<tr>
+<td>Atmung</td>
+<td>vertieft bei Ketoazidose</td>
+<td>normal</td>
+</tr>
+<tr>
+<td>Atemluft</td>
+<td>Acetongeruch</td>
+<td>normal</td>
+</tr>
+<tr>
+<td>Blutzucker</td>
+<td>massiv erhöht</td>
+<td>massiv vermindert</td>
+</tr>
+<tr>
+<td>Augäpfel</td>
+<td>weich, eingefallen</td>
+<td>normal</td>
+</tr>
+<tr>
+<td>Reflexe</td>
+<td>verlangsamt</td>
+<td>übersteigert</td>
+</tr>
+<tr>
+<td>Puls/Blutdruck</td>
+<td>weicher, schneller Puls, RR ↓</td>
+<td>uncharakteristisch, evtl. Tachykardie</td>
+</tr>
+<tr>
+<td>Symptome</td>
+<td>Fieber, Bauchschmerz</td>
+<td>zerebrale Krampfanfälle</td>
+</tr>
+<tr>
+<td>Verlauf</td>
+<td>führt zum Koma, mitunter Schock-</td>
+<td>Schock, kann zum Koma führen</td>
+</tr>
+<tr>
+<td> </td>
+<td>symptomatik</td>
+<td> </td>
+</tr>
+</tbody></table>"		Hormone Metabolismus
 
