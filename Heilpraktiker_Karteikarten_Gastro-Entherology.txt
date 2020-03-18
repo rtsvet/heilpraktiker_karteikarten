@@ -101,4 +101,76 @@ Uterschied mechanischen und paralytischen Ileus 	"<table border=1>
 <td>bei AuskultationStenoseperistaltik(Darmmuskulatur kämpft gegen die Stenose an): „metallische“, „spritzende“, „hochgestellte“ oder „klingende“ Darmgeräusche <br>nach Stunden bis Tagen Fehlen von Darmgeräuschen (Ermüdung der Darmmuskulatur)</td>
 <td>bei Auskultation Fehlen von Darmgeräuschen („Totenstille im Abdomen“)</td>
 </tr>
-</tbody></table>"		Gastroentherologie 
+</tbody></table>"		Gastroentherologie
+DD Diarhö	infektiös, medikamentös(Laxanzien, Antibiotika, Herzglykoside), Nahrungsmittelunverträglichkeit Toxine, psychisch, Colon irritabile, Morbus Crohn/Colitis ulcerosa, Malabsorptions, hormonel - Hyperthyreose, Tumoren		Gastroentherologie
+Erkrankungen der Verdauungsorgane Sympt	"<table border=1>
+<thead><tr><th Erkrankungen der Verdauungsorgane</th>
+<th>Begleitsymptome</th>
+</tr></thead>
+<tbody><tr>
+<td>Entzündung oder Tumor in Mund, Rachen,Speiseröhre</td>
+<td>Schluckbeschwerden </td>
+</tr>
+<tr>
+<td>Magen-/Zwölffingerdarmgeschwür </td>
+<td>„Sofortschmerz“ nach Nahrungszufuhr bei Magen-,„Nüchternschmerz“ bei Zwölffingerdarmgeschwür</td>
+</tr>
+<tr>
+<td>Tumoren</td>
+<td>evtl. Blutbeimengung im Stuhl, Symptome je nach Lokalisation unterschiedlich</td>
+</tr>
+<tr>
+<td>Morbus Crohn/Colitis ulcerosa, Infektionen, z. B. Cholera, Enteritis<br/>infectiosa, Paratyphus, Shigellenruhr, Typhusabdominalis, Hepatitis , Parasiten</td>
+<td>Durchfälle, evtl. mit Blut, Schleim, Fieber, krampfartige Bauchschmerzen</td>
+</tr>
+<tr>
+<td>Chronische Pankreatitis</td>
+<td>Fettstühle, oft gürtelförmige Oberbauchschmerzen, Zeichen endokriner und exokriner Pankreasinsuffizienz</td>
+</tr>
+<tr>
+<td>Malassimilations-Syndrom</td>
+<td>voluminöse, fettglänzende Stühle, Blähungen, Zeichen<br/>von Eiweiß- und Vitaminmangel</td>
+</tr>
+<tr>
+<td>Leberzirrhose</td>
+<td>Leberhautzeichen, Pfortaderstau, derbe Leber, typische<br/>Veränderung der Blutwerte, z. B. Transaminasen alle, ggf. Aszites </td>
+</tr>
+<tr>
+<td>sonstige Ursachen</td>
+<td> </td>
+</tr>
+<tr>
+<td>endokrine Störungen</td>
+<td>z. B. Hyperthyreose, Diabetes mellitus Typ 1, Phäochromozytom</td>
+</tr>
+<tr>
+<td>psychische Störungen</td>
+<td>z. B. Magersucht, Depressionen ,Schizophrenie , Medikamenten- und Drogenabhängigkeit </td>
+</tr>
+<tr>
+<td>Infektionskrankheiten<br/>(außerhalb des Verdauungstrakts)</td>
+<td>z. B. Tuberkulose , Endokarditis ,Aids , Brucellose </td>
+</tr>
+<tr>
+<td>andere Erkrankungen</td>
+<td>z. B. bösartige Tumoren in fortgeschrittenen Stadien,<br/>Leukämie , malignes Lyphom, gelegentlich bei Kollagenosen </td>
+</tr>
+</tbody></table>"		Gastroentherologie
+Akute Hepatitis Sympt. der Prodromstadium	2 Wochen<br>Müdigkeit, Wechsel Diarrhö/Obstipation, Ekel gegen Fett, Alkohol, allg. Krankheitsgefühl (Kopfschmerzen, Gliederschmerzen), subfebril, Druckschmerzen unter Rechteripenbögen, flüchtige Exantheme (großflächiges gleichförmiges Hautausschlag), Arthriiten (besonders bei Hep. B und C)		Infentionskrankheiten Gastroentherologie
+Akute Hepatitis Sympt. der Hepatische Phase	2 - 8 Wochen<br> Ikterus, Pruritus (Juckreiz), Palmarerythem, Leber und Milzvergrössesrung		Infentionskrankheiten Gastroentherologie
+Akute Hepatitis Sympt. der Rekonvaleszenz	2 - mehrere Wochen<br> Ikterus klingt ab, Leber und Milzvergrössesrung gehen zurück, Laborwerte normalisieren sich		Infentionskrankheiten Gastroentherologie
+Hepatitis Def	infektiose, toxische, immunologische oderander bedingte Entzündung derBindegewebes, Blutgefässystem und später der Leberparenchzms		Infentionskrankheiten Gastroentherologie
+Leberzyrrose Sympt	Allgemein: Müdigkeit, Appetitlosigkeit<br>Synthesestörung: Aszites, Hemorrhalgische Diathese, Osteomalazie (wenig akt Vit. D), Ikterus<br>Abbauverlust: Gynekomastie, Amenorrhöe, Bauchglätze, Hodenatthropie<br>Poertale Hypertesnion: Aszites, Ösophagusvarizen, Caput Medusae, Hämmorhoiden, SPlenomegalie, <b>Haut</b>Spider naevi, Palmarerythrem, Lackzunge, erweiterte Kapilargefäße		Gastroentherologie
+Leberzyrrose Def	 chronische Erkr. norm. langsam vortschreitend, (Cirrhosis is the scarring of the liver. Kann von Hep. aber auch von Hemochromatosis u.A entstehen) irrewersibel oft wird das letzte Stadium der Hepatitis , entzündliche Fibrose Zerstörung der Läppchen- und Gefäßarchitektur durch eine entzündliche Fibrose<br>Leberinsuffizienz und portale Hypertension		Gastroentherologie
+Leberzyrrhose Kompl	1. Hepatische Enzelopatie: flapping tremor, Somnolenz, Verwirrheit, Sopor, Coma hepaticum (40% sterben dafon), Foetor hepaticus<br>2. Leberkarzinom<br>3. Ösophagusvarizenblutung 		Gastroentherologie
+Leberzirrhose Therapie	kein Alcohol (Noxen), Betablocker, Diuretika, <br>Eiweisarme Diät wenig salz,<br> Lactulose<flussigkeitzufuhr senken(max 1 Liter), Evtl. Lebertransplantation		Gastroentherologie
+Ösophagusvarizenblutung Sympt	Symptome der Leberzyrrhose (Notfal)		Gastroentherologie
+Fetleber Def, Sympt und Komplikationen	Einlagerung der Triglizeriden in den Hepatozyten, wenn mehr als 50%.<br> Oft symptomslos, Schmerz im rechten oberbauch<br>KomplikationenHepatitis, Leberzirrhose		Gastroentherologie
+Unterschiede zwischen Hepatitis und Zyrrhose	Reversibility, Blood tests (AST and ALT) are often very elevated with hepatitis, especially acute hepatitis, Conditions other than hepatitis can lead to cirrhosis, Treatments, Symptoms - Portal hypertension (see above) leading to esophageal varices, an enlarged spleen, a low platelet count, and a low protein level in the blood (leading to other problems) are more common with cirrhosis than with hepatitis 		Gastroentherologie
+Blutwert AST (GOT) Krankheitsverdacht 	Leberzellschaden, Myokardschaden (Herzinfarkt)		Gastroentherologie
+Blutwert ALT (GPT) Krankheitsverdacht	Leberschaden (Leberzellzytoplasma)		Gastroentherologie
+Blutwert AP 	Cholestase, Knochen tumoren/metastase, Knochanabbau, Schwangerschaft, wachstum bei Jugentlichen 		Gastroentherologie
+Blutwert GT (GGT)	Alkoholabus		Gastroentherologie
+Blutwert GLDH	vorkommmt in der Lebermitochondrien - erhöht bei Schwehrleberschaden		Gastroentherologie
+Blutlabor bei Leber Untersuchung	AST, ALT, AP, GGT, GLDH, LDL, HDL, Bilirubin		Gastroentherologie
+

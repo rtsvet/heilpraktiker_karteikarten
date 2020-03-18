@@ -18,9 +18,8 @@
 # Front	Back	Picture	Tag
 #
 #
-
 #######  Alergien #####
-Schilddrüsenkarzinom Sympt	derbe schnelwachsende Struma<br>regionale Lympfknotenschwellung<br>Fixierung der Haut an der Struma<br>Dyspaghie<br>Hals- ,Ohrenschmerzen<br>Horner-Trias (!Diff. D. - Hodgin, Bronchialkarzinom)		Hormone Schilddrüse
+Schilddrüsenkarzinom Sympt	derbe schnelwachsende Struma<br>regionale Lympfknotenschwellung<br>Fixierung der Haut an der Struma<br>Dyspaghie<br>Hals- ,Ohrenschmerzen<br>Horner-Trias -  Miosis, Ptosis und Enophthalmus (!Diff. D. - Hodgin, Bronchialkarzinom)		Hormone Schilddrüse
 Subakute Thyreoiditis (de Quervain) Sympt	Lokale stralende Schmerzen die oft die Seite wächseln, druckschmerzhafte Schilddrüse, fieber, abgeschlagenheit, Leistungsschwäche		Hormone Schilddrüse
 Akute Thyreoiditis Sympt	akuter begin mit Fieber und lokalen Schmerzen, Rötung und Schwellung in bereich der Schilddrüse, regionale Lympfknotenschwellung		Hormone Schilddrüse
 Hypothyreose <br>klinsche Sympt 	Energiehaushalt↓, Muskulatur/Reflexe↓, Nervensystem↓,Katecholamin-Emphindlichkeit↓, <br><b>(!)Komplikation</b> Myxödema Notfall(!)		Hormone Schilddrüse
@@ -50,7 +49,7 @@ Addisn Sympt.	"Aldosteron-Mangel: Hypotension, Hyponatriämie, Hyperkaliämie, A
 Addison Krise Sympt.	Vigilanzstörung, Dehydratation, Schocksymptomatik, Fieber, Hypoglykämie, Pseudoperitonitis 		Hormone Metabolismus
 Sekundäre Nebenniereninsuffizienz(NNI) Sympt:	Hypotonie, Hypoglykämie, muskulärer Hypotonus, gastrointestinale Beschwerden und Gewichtsverlust, Blutbildveränderungen, Haut wirkt blass, pigmetlos (Durch die verminderte ACTH-Produktion ist auch das melanozytenstimulierende Hormon (MSH) erniedrigt.)		Hormone Metabolismus
 ddison Ätiologie	70% Immun, Hämorrhagischer Infarkt (Sepsis, Waterhouse-Friderichsen-Syndrom, arterielle Hypertonie), Tuberkulose, Tumor, Toxizität von Medikamenten, Amyloidose der Nebennieren 		Hormone Metabolismus
-
+#
 Phäochromozytom Def:	Hormonell aktive Tumoren des Nebennierenmarks oder der sympathischen Paraganglien. 		Hormone Metabolismus
 Phäochromozytom Sympt.	"Katecholamin-induzierte Vasokonstriktion führt zu einer anfallsweisen oder dauerhaften Hypertoniey<br>am Herzen macht sich in Form von Tachykardie, Palpitationen und Herzrhythmusstörungen, hypertensive Krise (RR: > 220/120)<br>Stimulation der Glykogenolyse kommt es zu einem teilweise massiv gesteigerten Metabolismus mit Hyperglykämie und Glucosurie<br>Unspezifische Symptome sind Kopfschmerzen (60-90%), Schweißausbrüche (55-75%), Blässe (ca. 40%), Flush (ca. 10%), Unruhe, Gewichtsverlust, Müdigkeit und Leukozytose." 		Hormone Metabolismus
 Phäochromozytom Diag.	"Urinlabor: Nachweis von Vanillinmandelsäure im 24-Stunden-Urin<br>Blutlabor: eventuell Katecholaminnachweis im Serum		Hormone Metabolismus
@@ -64,7 +63,7 @@ Diabetische Ketoazidose 	Insulinmangel -> Der Körper deckt dann seinen Energieb
 Diabetische Ketoazidose Sympt	Durst, Polyurie, Trockene Mundscheimhaut, Müdigkeit, Benommenheit, Bauchschmerzen, Nausea, Kußmaul-Atmung, Acetongeruch		Hormone Metabolismus
 
 Horner-Syndrom Def	 Miosis (Verengung der Pupille), Ptosis(Herabhängen des oberen Augenlids) und Enophthalmus (genauer Pseudoenophthalmus) 	<img src="Horner_Syndrom.jpeg"> 	Hormone Metabolismus
-DD zwischen hyperglykämischem Koma und hypoglykämischem Schock.	"<table>
+DD zwischen hyperglykämischem Koma und hypoglykämischem Schock. 	"<table>
 <thead><tr><th></th>
 <th>Hyperglykämisches Koma</th>
 <th>Hypoglykämischer Schock</th>
