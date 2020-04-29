@@ -1,0 +1,98 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+##############################################################
+####              Infektionschutzgesetzt                ######
+##############################################################
+
+Meldephlichtige Krankheiten V,E,T	"Botulismus
+Cholera
+Diphtherie
+humane spongiforme Enzephalopathie (HSE), außer familiär-hereditärer Formen. Siehe Creutzfeldt-Jakob-Krankheit und andere Formen von Transmissible spongiforme Enzephalopathie
+akute Virus­hepatitis
+enteropathisches hämolytisch-urämisches Syndrom (HUS)
+virusbedingtes hämorrhagisches Fieber
+Keuchhusten (Pertussis)
+Masern
+Meningokokken-Meningitis oder -Sepsis
+Milzbrand
+Mumps
+Paratyphus
+Pest
+Poliomyelitis (der frühere Klammerzusatz ist entfallen)[4]
+Röteln
+Tollwut
+Typhus abdominalis
+Windpocken
+zoonotische Influenza"		Infektionen
+########### E, T #############
+Meldephlichtige Krankheiten E,T 	"behandlungsbedürftige Tuberkulose, auch wenn ein bakteriologischer Nachweis nicht vorliegt,
+Clostridioides-difficile-Infektion mit klinisch schwerem Verlauf,
+an einer subakuten sklerosierenden Panenzephalitis (SSPE) infolge einer Masern­infektion. "		Infektionen
+########### V, T #############
+Meldephlichtige Krankheiten V,T 	"mikrobiell bedingte Lebensmittelvergiftung oder akute infektiöse Gastroenteritis, wenn eine Person betroffen ist, die eine Tätigkeit in lebensmittelverarbeitenden
+zwei oder mehr gleichartige Erkrankungen auftreten, bei denen ein epidemischer Zusammenhang"		Infektionen
+########### V #################
+Meldephlichtige Krankheiten V	über das übliche Ausmaß einer Impfreaktion 		Infektionen
+########## §6 Abs 1 1 #######################
+Krankheiten mit Behandlungsverbot nach §6 Abs. 1 (1) Meldephlicht V, E, T	Botulismus, Cholera, Diphterie, HSE, Akute Virushepatitis, enteropathisches hämolytisch-urämisches Syndrom HUS, Virusbedingtes Hemorrhagische Fieber, Masern (Morbilli), Meningitis-Enzephalitis, Milzbrand (Antrax), Poliomyelitis, Röteln (Rubeolla), Tollwut, Typhus, Windpocken		Infektionen
+#
+# Erkrankungen nach Erreger #################
+
+################ Haut erkrankungen #################
+Impedigo contagiosa	Tropf Infektion: β-häm.Strep. Staph. Auries  betrift nur Epidermis <b>kleinblasig</b>, kleine, oberflächliche Bläschen, die evtl zu Pusteln werden. Nach deren latzen entste­ hen typische honiggelbe bis braune Krusten auf gerötetem Grund<br>, Staph. aureus - großblasig Impetigo bullosa Juckreiz, Blasen sind stabiler und gröser, evtl. Lyphknotenschwellung, <br>		Infektionen
+Erysipel Sympt	Zu Beginn kann der Patient hohes Fieber (evtl. Schüttelfrost) mit Kopfschmerzen und Erbrechen bekommen. Der betroffene Hautbezirk – meist Gesicht oder Unter­ schenkel – ist flammend gerötet, geschwol­ len, schmerzt und bildet evtl. zungenförmige Ausläufer. Die regionalen Lymphknoten sind geschwollen. Typisch, aber nicht immer vorhanden ist die scharfe Begrenzung der Rötung. Evtl. ist die Haut blasig verändert. Der Befall des Gesichts be­ ginnt meist einseitig und wird dann nach ein bis zwei Tagen symmetrisch (schmetterlingsförmig).		Infektionen
+Impetigo contagiosa Klinik Sympt. Ther	"<b>Klinik</b>: Exanthem: Roteflecken -> Pusteln mit gelben Rand -> Krusten Lokalisation: Gesicht Mund, Nasenbereich Kopfhaut, <br> Lympfknoten schwellung, Milyschwellung, leichte Hep.  Kompl: Phlegmone(Cellulitis), Sepsis, Pyellonepfritis, Osteomyelitis Ther: Penicilin, Mupirocin "		Infektionen
+	
+Nononucleosis Klinik Diff.	Fiber, algemeine Krankgefühl Müdigkeit, Tonsilitis, Pharingitis, Leukoplakia, hepato-splenomegalie, Cervikale Lypmphopathy (Grau-Weise Plake) <br> Diff: Strep A. infektion (Strep-Throat)		Infektionen
+#
+Gasbrand Sympt	Erreger: Clostridium Infektion. <br>In einer Wunde (meist OP-Wunde) bildet sich eine sog. Gasbrandphlegmone mit schmerzhafter Schwellung durch die Ödem- und Gasentwicklung. Aus einem Hautemphysem mit charakteristischem Knistern (Krepitus) und braun-dunkelvio­ letter Verfärbung bildet sich eine Gangrän (brandiger Gewebszerfall). Der Patient ist durch die Toxämie (Auftreten von Bakteriengiften im Blut), Hämolyse (Zerfall der roten Blutkörperchen) und einen drohen­ den Schock stark beeinträchtigt.  <b>Komplikation:</b> Sepsis.		Infektionen
+#
+Milzbrand	Bacillus anthracis<br>Hautmilzbrand: An der Eintrittspfortebildet sich über eine schmerzlose, rote Papel eine blutgefüllte Pustel, das Milz­ brandkarbunkel mit einem ödematösen Rand, aus dem sich später ein Ulkus mit einer schwarzen, harten, schmerzlosen Kruste entwickelt.  Der Patient hat Fieber und geschwollene regionäre LymphknotenLungenmilzbrand: plötzlicher Beginn mit hohem Fieber und Bronchopneumonie. Es kommt zur Dyspnoe und schau­ mig-blutigem Sputum, das sehr erreger­ haltig ist. Sie verläuft meist tödlich.  Darmmilzbrand: Es entwickelt sich eine schwere Gastroenteritis mit blutig-serösem Erbrechen und blutigen Durchfällen mit der Gefahr des Kreislaufversagens.  Bei systemischen Verläufen kann zu­ sätzlich eine Meningitis mit Krämpfen und Bewusstseinsverlust auftreten		Infektionen
+
+
+###################### §7 Lab. Nachweiss Behandlungsverbot #############################
+Leptospirose Def Path.	Zoonotische bakterielle Erkr. (Hunde, Pherde, Ratten) aerobisch, <u>keine</u> Sporen Leptospira wochtn in warmes, susses  Wasser (Reisfelder, Plantagen, Schwimen in Süsswasser) - Infektion durch Wunde Fekal-Oral (Urin), Konjuktiva (Auge)<br> klebt zu Epithelium, Monozyten-Macrophagen ; Produciert Toxin der zerstört RBC und Kapilaren -> Hemmorhagen 		Infektionen
+Leptospirose Symptome	"1-2 Wochen Inkubation 1. Stadium Bakterämia - plötsliches höhes Feber evtl. mit Schüttelfrost, Muskel- u. Gelenkschmerzen, Kophschmerzen, Müdigkeit<br>
+2 Organschaden-Stadium: Feber, Lymphknoten, Leber- Milzschwelung, Blutungneigung, Nasenblutungen, Petechen, Darmblutungen<br>Leber - Ikterus<br>Lungen - Alveolarschaden - Blütungen - Husten, Dipnoe, Hemophtysis, Nieren - Nephritis - Ödem, Tubular Nekrosis<br>Zerstören der BBB - Meningitis - Kophschmerzen, Steifesnachen, Feber "		Infektionen
+Leptospirose Diag, Therapie	Elisa (Antigen), Darkfield Macroscope von Blut<br>Therapie: Peniciline G, Doxycicline; Unterschtützende Therapie in 2 Organstadium - IV Fluid, Beatmung, Bluttransf.		Infektionen
+#
+Listeriose Def.  Epi. Path.	grammpositives, catalase(+) Bakteria, produziert beta-Heolysin (zerstört RBC) toleriert Salziges und Kaltes! Rohwurstprodukten, Räucherfisch und nicht pasteurisierten Milchprodukte.		Infektionen
+Lysteriose Sympt	Starkvariabel Inkubationszeit.<br>unspezifische, grippeartige Beschwerden (Feber, Muskel-Gelenkschmerzen) oder auch Magen-Darm-Beschwerden. <br>Kritisch für Schwangere - Abbruch, Meningitis, Enzephalitis, septische granulomatose		Infetionen
+Listeriose Therapise	Antibiotika - Ampiciline		Infektionen
+#
+Lepra Def. Path..	intrazellulär lebendes säurefestes Stäbchenbakterium, wenig Virulent<br> granulomatöse Entzündung -> Makrophagen und Schwann’sche Zellen		Infektionen
+Lepra Sympt Klinik	"Inkubationszeit beträgt Monate bis Jahre<br>Tuberkuloide Lepra: fast nicht ansteckend: Nervenverdickungen, periphere Sensibilitätsstörungen und Lähmungen, Facies antonina: Maskengesicht durch Fazialisausfall, Pigmentationsänderungen - Flecken der Hypopygmentation, asymetrisch<br>Lepromatöse Lepra: typische Hautknoten (Leprome) an Rumpf und Gesicht, Facies leonina, Verlust der Wimpern Verlust der Augenbrauen von lateral  Haarausfall rauhe Stimme Nervenschädigungen; Lymphknotenbefal, Nieren, Hoden, Nebenhoden"		Infektionen
+Lepra Therapie	intibiotika		Infektionen
+#
+Trichinose	Trichinella spiralis Wurm infektion, Fuchse, Schweine, Wildschweine<br>Ingesting nicht gut gekochtes Fleich<br>1Pfase Nausia, diarrhoe, Kramps, Feber 1-2 Tage 2Phase Muskeln-Invasion Muskelschmerzen, Gesichtschwelung besonders um die Augen, Herzprobleme, Schwäche, Feber<br> Eosinophyle erhöht, Entzündung<br>ABENDAZOLE 		Infektionen
+Toxoplasmose	Toxoplasma Gondii, <br>Ungekochtes Fleich, Katzenkot, Beef, Lam, Schwein und auch direkt - Gardengemüse<br>Sympt: no-sympt, Feber, Lymphknotenschwelung am Nacken, Kopfschmerzen, Muskelschmerzen<br>Komplikationen: enzephalitis, Lungenentzündung - husten, atemlossigkeit; Augeninfektionen<br>Therapie: heilt von allein bei Kompl. Pyrimethamine/Sulfadoxine		Infektionen 
+Giardiasis, Gastroenteritis, Lambliasis 	Giardia Lambia parasite(2 formen aktive und Zyste)<br>Komt von in Hunden, Katzen und Domestiziert Tiere (Kühe, Shäfe), Essen, Wasser und verbleibt für lange Zeit<br>wasserige Diarrhö, Magenkramps, Bloating, Nausea, Flatulence, Gewichtsverlust, Milchintoleranz, niedrige Fieber, Keinappetite, Disintery - Durchfall mit Mukus und Blut<br> Therapie: meist ohne Med. bei Kompl: Metronidazole, Nizonide		Infektionen
+Krätze (Scabies)	Sarcoptes scabies		Infektionen
+
+
+##### Questions
+Was ist ein direkter, was ein indirekter Nachweis von Krankheitserregern?	"Bei einem direkten Nachweis wird der Erreger mikroskopisch, kulturell oder molekularbiologisch nachgewiesen, bei einem indirekten Nachweis werden spezifische Antikörper im Blut festgestellt."		Infektionen
+#Welche beiden wesentlichen Arten von Bakteriengiften werden unterschieden?			Infektionen
+#Bei einer zyklischen Infektionskrankheit kommt es zu einer Inkubationszeit, der Generalisation und anschließend zur Organmanifestation. 		Infektionen
+
+ 
+
