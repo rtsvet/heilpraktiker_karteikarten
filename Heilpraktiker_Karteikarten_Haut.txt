@@ -1,0 +1,21 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+Haut Schichten	"<b>Epidermis</b> - mehrschichtiges verhornendes Plattenepithel - Stachelzellschicht und Basalzellschicht bilden zusammen die Keimschicht (Stratum germinativum)<div>&nbsp;</div><div><b>Dermis</b> (Lederhaut) - besteht vorwiegend aus Bindegewebsfasern und dient der Ernährung und Verankerung der Epidermis. Hier versorgt das fein kapillarisierte Blutgefäßsystem die Grenzzone zur Epidermis. Die untere Lederhaut enthält die für die Temperaturregelung wichtige glatte Muskulatur und Blutgefäße</div><div><br></div><div><b>Subcutis</b> - enthält die größeren Blutgefäße und Nerven für die oberen Hautschichten sowie das subkutane Fett und lockeres Bindegewebe. In der Unterhaut liegen Sinneszellen für starke Druckreize</div>"	<img src="Haut.jpg">	Haut
+#
