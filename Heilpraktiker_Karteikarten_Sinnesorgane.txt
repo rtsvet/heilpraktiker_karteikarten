@@ -1,0 +1,42 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+#
+##########################################################
+####              Sinnesorgane                      ######
+##########################################################
+#
+Veränderungen der Augenlider<br>Lidödeme:	bei Hypothyreose, Glomerulonephritis		Sinnesorgane
+Veränderungen der Augenlider<br>Lidläsionen:	bei Lidabszess, Gerstenkorn		Sinnesorgane
+Veränderungen der Augenlider<br>Ptosis (herabhängendes Augenlid)	 beim Horner-Syndrom 		Sinnesorgane
+Veränderungen der Augenlider<br>fehlender Lidschluss (Lagophthalmus)	 bei der Fazialisparese 		Sinnesorgane
+Veränderungen der Augenlider<br>seltener Lidschlag (Stellwag-Zeichen)	beim Morbus Basedow 		Sinnesorgane
+#
+Veränderungen der Skleren<br>Blässe: 	 Leukämie, Anämie 		Sinnesorgane
+Veränderungen der Skleren<br>Gelbfärbung: 	 Hepatitis, Leberzirrhose, Cholestase 		Sinnesorgane
+Veränderungen der Skleren<br>Rotfärbung: 	 Allergien, Entzündungen, Fremdkörpern im Auge, Verbrennungen, Verätzungen, grippalen Infekten 		Sinnesorgane
+#
+Veränderungen der Pupillen<br>Miosis: 	 Lichtreiz, Iritis, mit Altern,  Drogen: Heroin und Morphiumabusus, Nikotin, Antypsychotische; Hyperglykämie, Horner-Syndrom; Cluster Kphfschmerzen mit Ptosis 		Sinnesorgane
+Veränderungen der Pupillen<br>Mydriasis: 	 Angstzuständen, Schmerzen, Hypoglykämie, Bewusstlosigkeit, Schock, Glaukomanfall, Epilepsie, Migräneanfall Drogen:  amphetamines, cocaine, MDMA; Anticholinergics; Serotonergics such as LSD, psilocybin mushrooms, mescaline; Dissociatives; Certain GABAergic; Adrenic agonists; cognitive tasks requiring memory and attention 		Sinnesorgane
+Veränderungen der Pupillen<br> Anisokorie (seitendifferente Weite der Pupille): 	 Stauungspapille, Hirnblutungen, intrakraniellen raumfordernden Prozesse, Horner-Syndrom, physiologisch bei ca. 4 % aller Menschen		Sinnesorgane
+Veränderungen der Pupillen<br> Pupillenstarre: 	 Diabetes mellitus, Lues		Sinnesorgane
+#
+Veränderungen der Augenbulbi Exophthalmus: 	 Morbus Basedow, intrakraniellen Tumoren, Entzündungen		Sinnesorgane
+Veränderungen der Augenbulbi Enophthalmus: 	 Fettgewebsschwund, Exsikkose, Horner-Syndrom		Sinnesorgane

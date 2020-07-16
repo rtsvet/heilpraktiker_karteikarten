@@ -1,0 +1,86 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2020  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+Haut Schichten	"<b>Epidermis</b> - mehrschichtiges verhornendes Plattenepithel - Stachelzellschicht und Basalzellschicht bilden zusammen die Keimschicht (Stratum germinativum)<div>&nbsp;</div><div><b>Dermis</b> (Lederhaut) - besteht vorwiegend aus Bindegewebsfasern und dient der Ernährung und Verankerung der Epidermis. Hier versorgt das fein kapillarisierte Blutgefäßsystem die Grenzzone zur Epidermis. Die untere Lederhaut enthält die für die Temperaturregelung wichtige glatte Muskulatur und Blutgefäße</div><div><br></div><div><b>Subcutis</b> - enthält die größeren Blutgefäße und Nerven für die oberen Hautschichten sowie das subkutane Fett und lockeres Bindegewebe. In der Unterhaut liegen Sinneszellen für starke Druckreize</div>"	<img src="Haut.jpg">	Haut
+#
+Erythema nodosum DEf 	"häufig schmerzhafte entzündliche Hautveränderung  mit rötlichen Papeln. Granulomatöse Entzündung der Subkutis. Granulome bestehen aus Gruppen von neutrophilen Granulozyten. EN  auftriff vorzugsweise über der Vorderseite der Tibia. Oft beu Sarkoidose, Morbus Crohn oder Colitis ulcerosa. Darüber hinaus sieht man das Erythema nodosum auch bei verschiedenen viralen oder bakteriellen Infektionen (Streptokokken, Meningokokken, Mykobakterien, Yersinien, Campylobacter jejuni)"		Haut. 
+Erythema nodosum Sympt	"Form flacher, knotiger Infiltrate von roter bis blauroter Farbe. Mit der Zeit können sie sich bräunlich verfärben und dann an Hämatome erinnern. Die Effloreszenzen sind schmerzhaft und sehr berührungsempfindlich. Schon das Gewicht der Bettdecke kann Schmerzen verursachen."		Haut
+Urtikaria Def	Gruppe von Hauterkrankungen mit charakteristischer Hautreaktion in Form von Quaddeln und/oder Angioödemen		Haut
+Urtikaria Pathophysiologie	"Quaddelreaktion durch vasoaktive Mediatoren hervorgerufen durch  Histamin, Kallikrein und Eikosanoide;  Degranulierung von Mastzellen und z.T. von basophilen Granulozyten. Die Mastzellen können durch unterschiedene Reize stimuliet werden: IgE (allergie Typ I), IgG,Komplementspaltprodukte,  weitere Faktoren: Neuropeptide, Kinine, Phospholipase A2, Chymotrypsin, Acetylcholin"		Haut
+Primäreffloreszenzen?	"– Macula (Fleck)
+– Papula (Knötchen)
+– Urtica (Quaddel)
+– Nodus (Knoten, ca. erbsengroß)
+– Vesicula, Bulla (Bläschen, Blase)
+– Pustula (Eiterbläschen)" 		Haut
+Sekundäreffloreszenzen?	"– Squama (Schuppe)
+– Crusta (Kruste)
+– Erosio (oberflächlicher Epidermisverlust)
+– Ulcus (Geschwür)
+– Rhagade, Fissuren (Haut-, Schleimhauteinrisse)
+– Cicatrix (Narbe)"		Haut
+Erkr mit Generalisiertes Exanthem ?	"• Masern
+• Scharlach
+• Röteln
+• Windpocken
+• Typhus
+• Mononukleose
+• Toxoplasmose
+• Fleckfieber
+• Pocken
+• Lepra
+• Rückfallfieber
+• Meningokokken-Meningitis"		Haut
+Erkr mit Lokalisiertes Exanthem?	"• Erysipel
+• Milzbrand
+• Impetigo contagiosa
+• Herpes simplex
+• Herpes Zoster"		Haut
+Exanthem Def	entzündliche oder nervös-vasomotorische Hautveränderung auf großen Bereichen der äußeren Haut mit einem bestimmten zeitlichen Ablauf		Haut
+Erythem Def	entzündliche Rötung der Haut, die durch eine Hyperämie bedingt		Haut
+Unterschieliche Erytheme	"1. Erythema nodosum: Sarkoidose, Tuberkulose, Morbus Crohn, Colitus ulcerosa,
+rheumatisches Fieber
+2. Erythema anulare rheumaticum: rheumatisches Fieber
+3. Erythema migrans: Lyme-Borreliose
+4. Erythema palmare/plantare: Leberzirrhose
+5. Schmetterlingserythem: Lupus erythematodes"		Haut
+Enanthem:	 entzündliche Veränderung im Schleimhautbereich.		Haut
+Ekzem:	 flächenhafte entzündliche Hautveränderung mit Pruritus		Haut
+Abszess:	 Eiteransammlung in einer nicht vorgebildeten Höhle		Haut
+Empyem:	 Eiteransammlung in einer vorgebildeten Höhle		Haut
+Fistel:	 röhrenförmige Verbindung zwischen Hohlorganen untereinander oder der Körperoberfläche		Haut
+Zyste:	 eine abgekapselte, mit Flüssigkeit gefüllte Geschwulst		Haut
+Phlegmone: 	eitrige Entzündung des Zellgewebes, die sich flächenhaft entlang von Faszien, Sehnen und Muskulatur ausbreitet		Haut
+Furunkel: 	akute eitrige Entzündung von Haarfollikeln		Haut
+Karbunkel:	 mehrere zusammenfließende Furunkel bilden ein Karbunkel		Haut
+Erkr mit Hautfarbe Blässe	"Anämie, Leukämie, Phäochromozytom, Morbus Addison, Schock, Hypotonie, Durchblutungsstörungen, Albinismus"		Haut
+Erkr mit Hautfarbe Zyanotisch	Aufenthalt in Höhenlagen, Herz- und Lungenerkrankungen, Phlebothrombose, Angst, Kälte		Haut
+Erkr mit  Gelbes Hautkolorit	Hämolyse, Hepatitis, Leberzirrhose, Cholestase		Haut
+Erkr mit Rotes Hautkolorit	Fieber, Überhitzung, Durchblutungssteigerung, Polyglobulie		Haut
+Erkr mit Braunes Hautkolorit	Morbus Addison, genetische Veranlagung, Sonnenlicht 		Haut
+Erkr mit Café-au-lait-Hautkolorit 	Niereninsuffizienz, Vitamin-B12-Mangel-Anämie		Haut
+Erkr mit übermäßig feuchtes Haut 	Aufregung/Angst, Hyperthyreose, Schock		Haut
+Erkr mit übermäßig trockenes Haut 	Hyperglykämie, Zustand der Exsikkose, Eisenmangelanämie, Hypothyreose, Diarrhöe, schwere Allgemeinerkrankungen		Haut
+Erkr mit Hautverdickung?	Myxödem, Sklerodermie		Haut
+Psoriasis vulgaris Sympt	"Ein scharf begrenztes, gerötetes (erythematös) Fleck, überzogen mit weißen bis silberfarbenen Schuppen Andere Zeichen: Morgige Steifheit Lokalisation Ellenbogen, Knie – Streckseiten, das Kreuzbein und der behaarte Kopf (Psoriasis capitis) Handflächen und Fußsohlen (Psoriasis palmoplantaris), Nagelveränderungen, Pruritus Kompl: Psoriasis-Arthritis, Spondyloarthritis"		Haut
+Neurodermitis	"Dominierende Symptome sind Juckreiz (Pruritus) und Ekzem 
+Sebostase und trockene Haut.
+erythemato-squamöse (Rötung mit Schuppen) Hauteffloreszenzen (Ausschlag), Papeln und stark reizbaren und trockenen Haut (Lichenifikation).
+s.g. “White dermographism” – durch lokale Vasokonstriktion
+Urtikarieller Dermographismus – Urtikaria auf eine mechanisch leicht gedruckte Stelle Kompl: Sekundäre Infektionen: Staph und Strep Infektionen der Haut Viral: Herpes Ekzemen (auch konkomitante Zoster ausbruch wird begünstigt) Pilzinfektionen"		Haut

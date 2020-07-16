@@ -1,0 +1,57 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2020  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+#
+##########################################################
+####              Nevrologie                      ######
+##########################################################
+#
+Beschreiben Sie kurz den Weber-Test.	Mit Hilfe des Weber-Tests wird das Hörvermögen für die Knochenleitung beider Ohren verglichen.Bei einseitiger Mittelohrerkrankung (Schallleitungsstörung) wird der Ton im kranken Ohr stärker gehört, weil keine Umgebungsgeräusche wahrgenommen werden. Im Falle eines Innenohrschadens wird der Ton auf dem gesun  den Ohr gehört.		Nevrologie
+Tremor Dif. Diag.	Ruhetremor: Parkinson-Tremor <br>Pillendrehertremor: Parkinson-Syndrom <br>Haltungstremor: Hyperthyreose, Angst, Übermüdung, genetisch bedingt <br>Intentionstremor: multiple Sklerose <br>Flapping-Tremor: Niereninsuffizienz, Leberzirrhose, Morbus Wilson, respiratorische Insuffizienz   		Nevrologie
+Faszikulation Def. Ursahen	Übermüdung <br>Schädigung des 2. motorischen Neurons 		Nevrologie
+Lokalisierte Atrophien Ursahen	Lähmungen		Nevrologie
+Trophische Störungen der Haut Ursahen	Polyneuropathie - Polyneuropathie systemisch bedingte Schädigung von peripheren Nerven sensibel oder motorisch. Die entzündliche Schädigung mehrerer Nerven nennt man Polyneuritis		Nevrologie
+Polyneuropathie Def.	- Polyneuropathie ist systemisch bedingte Schädigung von peripheren Nerven sensibel oder motorisch. Diabetische Polyneuropathie; Alkoholische Polyneuropathie, genetische, toxische u.s.w. 		Nevrologie
+Polyneuritis Def	 Die entzündliche Schädigung mehrerer Nerven		Nevrologie
+Nystagmus Dif Diag	Menière-Krankheit; Intoxikationen; idiopathisch; angeboren; Erkrankungen des Hirnstamms; Augenmuskellähmung; Epilepsie		Nevrologie
+#
+##### Sprachstörungen ##########
+#
+Aphasie/Dysphasie mögliche Ursache 	Gestörte Wortbildung oder gestörtes Ausdrucksvermögen. <br><b>Befund:</b> Schädigung des kortikalen Sprachzentrums <br> Wernicke-Aphasie: Verwirrendes Kauderwelsch ; Broca-Aphasie: Sprechen im Telegrammstil ; Amnestische Aphasie: Suche nach Worten		Nevrologie
+Aphonie/Dysphonie  mögliche Ursache 	Gestörte Qualität, Lautstärke und Tonhöhe der Stimme.<br><b>Befund:</b>  Kehlkopferkrankungen ; Nervus-recurrens-Erkrankungen		Nevrologie
+Nasale Sprache   mögliche Ursache 	Befund: Gaumensegellähmung bei Läsionen des Nervus vagus 		Nevrologie
+Monotone, langsame Stimme mit Auseinanderziehen der Wörter  mögliche Ursache 	Befund: Parkinsonismus		Nevrologie
+#
+##### Gangstörungen #####
+#
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+		Nevrologie
+
