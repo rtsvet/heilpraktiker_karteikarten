@@ -41,11 +41,15 @@ Monotone, langsame Stimme mit Auseinanderziehen der Wörter  mögliche Ursache 	
 #
 ##### Gangstörungen #####
 #
+Steppergang (Storchengang) Def. Vorkommen	Der Patient kann die Fußspitze nicht anziehen und hebt deshalb das ganze Bein an, um ein Schleifen der Zehen zu verhindern.<br>Mögliche Befunde: <br>Nervus-peroneus-Lähmung<br>Poliomyelitis<br>Schwermetallvergiftung 		Nevrologie
+Gangataxie Def. Vorkommen	Die Bewegungen sind unkoordiniert, ungerichtet und unzweckmäßig.<br>Mögliche Befunde: <br>Polyneuropathie (diabetische, Alkocholabus		Nevrologie
+Watschelgang Def. Vorkommen	Das Standbein wird mit durchgestreckten Knien aufgesetzt. Der Patient kann garnicht oder nur schwer Treppen steigen.<br>Mögliche Befunde: <br>Myopathie (Schwäche der Beckengürtel- oder Oberschenkelmuskulatur)		Nevrologie
+Ataktischer Gang  Def. Vorkommen	Der Bewegungsablauf ist nicht exakt dosiert. Es zeigt sich eine große Unsicherheit mit Fallneigung.<br>Mögliche Befunde: <br>Kleinhirnerkrankungen		Nevrologie
+Wernicke-Mann-Gang  Def. Vorkommen	Das Bein ist gestreckt und der Fuß plantar gestreckt. Entweder wird das Bein kreisförmig doziert oder beim Gehen nachgezogen. Ein Arm wird nah am Körper gehalten, Ellenbogen- und Handgelenk sind gebeugt. Die Hand hängt schlaff herunter.<br>Mögliche Befunde: <br>Apoplex oder spastische Hemiparese		Nevrologie
 		Nevrologie
 		Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
+#
+Parkinson Symptome	TRAP: Tremor, Rigor, Akinesie, Posturale Instabilität	<img src="parkinson_sympt.jpg"> 	Nevrologie
 		Nevrologie
 		Nevrologie
 		Nevrologie
