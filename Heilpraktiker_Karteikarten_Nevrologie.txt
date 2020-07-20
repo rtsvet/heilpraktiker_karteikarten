@@ -46,16 +46,11 @@ Gangataxie Def. Vorkommen	Die Bewegungen sind unkoordiniert, ungerichtet und unz
 Watschelgang Def. Vorkommen	Das Standbein wird mit durchgestreckten Knien aufgesetzt. Der Patient kann garnicht oder nur schwer Treppen steigen.<br>Mögliche Befunde: <br>Myopathie (Schwäche der Beckengürtel- oder Oberschenkelmuskulatur)		Nevrologie
 Ataktischer Gang  Def. Vorkommen	Der Bewegungsablauf ist nicht exakt dosiert. Es zeigt sich eine große Unsicherheit mit Fallneigung.<br>Mögliche Befunde: <br>Kleinhirnerkrankungen		Nevrologie
 Wernicke-Mann-Gang  Def. Vorkommen	Das Bein ist gestreckt und der Fuß plantar gestreckt. Entweder wird das Bein kreisförmig doziert oder beim Gehen nachgezogen. Ein Arm wird nah am Körper gehalten, Ellenbogen- und Handgelenk sind gebeugt. Die Hand hängt schlaff herunter.<br>Mögliche Befunde: <br>Apoplex oder spastische Hemiparese		Nevrologie
-		Nevrologie
-		Nevrologie
+Scherengang (Robotergang)  Def. Vorkommen 	Der Gang ist steif und kurzschrittig, beide Beine werden nur langsam nach vorne gebracht.<br>Mögliche Befunde: <br>multiple Sklerose<br>beidseitige spastische Parese der Beine<br>Rückenmarkskompression		Nevrologie
+Parkinsonsche Gangstörung  Def. Vorkommen	Der Gang ist schlurfend, kleinschrittig und unsicher. Der Oberkörper ist vorgebeugt, Knie und Hüfte sind leicht gebeugt. Die Mitbewegung der Arme ist aufgehoben bis fehlend. Das Umdrehen auf der Stelle erscheint steif.<br>Mögliche Befunde: <br> Morbus Parkinson 		Nevrologie
 #
 Parkinson Symptome	TRAP: Tremor, Rigor, Akinesie, Posturale Instabilität	<img src="parkinson_sympt.jpg"> 	Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
-		Nevrologie
-
+#
+Eigenreflexe Def.	Bei einem Eigenreflex sind Rezeptor und Erfolgsorgan identisch, das heißt, Reizaufnahme und Reizantwort erfolgen an demselben Muskel. Sie besitzen einen monosynaptischen Reflexbogen und durchlaufen nur zwei Nervenzellen. Sie sind nicht ermüdbar und können immer wieder ausgelöst werden. Der Reflex wird durch eine kurze Dehnung eines Muskels erzeugt.		Nevrologie
+Fremdreflexe Def.	Ein Fremdreflex, auch polysynaptischer Reflex genannt, ist ein Reflex, bei dem die Reflexantwort nicht im reizwahrnehmenden Organ erfolgt. Der Reflexbogen erfolgt hierbei über mehrere Synapsen, woher auch der Name polysynaptischer Reflex kommt. Es werden physiologische und pathologische Fremdreflexe unterschieden.		Nevrologie
+#		Nevrologie
