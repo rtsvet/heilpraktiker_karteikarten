@@ -1,0 +1,22 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2020  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+#######  Notfaele #####
+Preäklampsie Sympt	Hypertonie &gt; 140/90 mmHg,Proteinurie; 0,3 g/d</div><div>Ödeme <br><b>Typishes Bild:</b></div><div>Erstschwangerschaft , Alter &lt;18 oder &gt;35, Mehrlingsschwangerschaft, Diabete, Adiposita, Hypertoni Gefäserkr</div>	<img src="preeclampsie.jpeg">	Notfall
