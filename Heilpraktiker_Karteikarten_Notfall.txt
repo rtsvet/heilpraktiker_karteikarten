@@ -20,3 +20,56 @@
 #
 #######  Notfaele #####
 Preäklampsie Sympt	Hypertonie &gt; 140/90 mmHg,Proteinurie; 0,3 g/d</div><div>Ödeme <br><b>Typishes Bild:</b></div><div>Erstschwangerschaft , Alter &lt;18 oder &gt;35, Mehrlingsschwangerschaft, Diabete, Adiposita, Hypertoni Gefäserkr</div>	<img src="preeclampsie.jpeg">	Notfall
+#
+# Schock
+#
+Hypovolämischer Schock Sympt	"Unruhe, Blässe, Kaltschweißigkeit, im fortgeschrittenen Stadium Zyanose<br>Bewusstseinsstörung<br>Tachypnoe<br>kollabierte Halsvenen, verminderte Venenfüllung (was die Punktion erschwert), Nagelbettprobe verlangsamt (> 2 Sekunden)<br>Oligurie"		Notfall
+Hypovolämischer Schock Massnahmen	evtl Blutung, <br>Flachlagerung, Beine hoch, bei Bewusstlosigkeit stabile Seitenlage, Achtung: nicht bei schwerem Schädel-Hirn-Trauma und nicht bei herzinsuffizienten Patienten!<br>venösen Zugang legen (großlumig): 20 bis 40 ml/kg Kochsalzlösung<br>ständige Kontrolle von Bewusstsein, Atmung, Puls<br>warm halten, beruhigen,		Notfall
+Kardiogener Schock Urs	akuter Myokardinfarkt (wenn mehr als 40 % des Herzmuskelgewebes des linken Ventrikels „ausfallen“, besteht ein kardiogener Schock mit einer Letalität von ca. 90 %) – dekompensierte Herzinsuffizienz, Kardiomyopathie – Tachy- und bradykarde Herzrhythmusstörungen – Herzklappenfehler – Myokarditis – Überdosierung herzkraftsenkender Medikamente, z. B. Betablocker – akute Behinder		Notfall
+#
+Grundversorgung in Notfall	Platz und Mensch sichern - bei Unfall, <br>, B-A-P-Regel,<br>Notarzt verständigen,<br>korrekte Grundversorgung des Patienten bis zum Eintreffen des Notarztes.		Notfall
+#
+# Notfälle des Respirationstraktes
+#
+Pseudokrupp Sympt	 Heiserkeit, trockener, bellender Husten, Leise kloßige Stimme, inspiratorischer Stridor, mäßiges Fiebe		Notfall
+Pseudokrupp Versorgung	für ein feucht-kaltes Luftklima sorgen (z. B. Dusche anstellen),Sauerstoffgabe, Kind aufrecht sitzen lassen, Bei starken anhaltenden Beschwerden  Verständigung des Notarztes, keine Racheninspektion		Notfall
+Epiglottitis Sympt	starke Dyspnoe, starke Halsschmerzen, Dysphargie, Hypersalivation, hohes Fiebe		Notfall
+Epiglottitis Versorgung 	Notarzt verständigen, Oberkörper hochlagern, Sauerstoffgabe, i.V. Zugang, keine Racheninspektion , Glukokortikoiden (Zäphen), Inspiratorisches Adrenalin Spray 		Notfall
+Asthma bronchiale Sympt 	Dyspnoe bei forcierter Expiration, Giemen, Pfeifen, Brummen, sichtbarer Einsatz der Atemhilfsmuskulatur, Blässe bis Zyanose		Notfall
+Asthma bronchiale Versorgung	Oberkörper hochlagern, Asthmaspray, Sauerstoffgabe, wenn der Patient zyanotisch wird, sofort den Notarzt 		Notfall
+Pneumothorax Sympt	akute Dyspnoe, atemabhängige stechende Schmerzen, nachschleppende Thoraxhälfte bei der Atembewegung 		Notfall
+Spannungspneumothorax Sympt	immer stärker werdende Dyspnoe, akute Schmerzen, gestaute Halsvenen, Zyanose		Notfall
+Lungenödem Sympt	akute starke Dyspnoe, Angst, Kaltschweißigkeit, evtl. rötlich schaumiges Sputum, „Brodeln“ über der Brust (ohne Stethoskop hörbar)		Notfall
+Lungenödem Versorgung	Oberkörper hochlagern, unblutiger Aderlass (wenn möglich), Sauerstoffgabe		Notfall
+Lungenembolie Sympt	akute starke Dyspnoe, starke Thoraxschmerzen, sichtbar gestaute Halsvenen, evtl. rötlich schaumiges Sputum		Notfall
+#
+# Notfälle des Herz-Kreislaufsystems
+#
+Angina pectoris Sympt	akute Thoraxschmerzen (evtl. ausstrahlend), Angst, Übelkeit, Erbrechen		Notfall
+Angina pectoris Versorgung	Oberkörper hoch, warm halten, , Sauerstoffgabe, ASS, systolischen Blutdruck > 100 mmHg 2-3 Hübe Nitrolingual sublingual CAVE: Nur bei bestehendem laufender i.V. Zugang 		Notfall
+Myokardinfarkt Sympt	akute Thoraxschmerzen (evtl. ausstrahlend), Todesangst, evtl. Schocksymptomatik		Notfall
+Akute Herzinsuffizienz Sympt	starke Dyspnoe, Orthopnoe, Angst, Rechtsherzinsuffizienz: Stauungszeichen, Linksherzinsuffizienz: schaumig-rötliches Sputum, Zyanose		Notfall
+Akute Phlebothrombose Sympt	Zyanose, Schwellung, Überwärmung der betroffenen Extremität, <br>Schwere- oder Spannungsgefühl, Homans-, Meyer- und Payr-Zeichen		Notfall
+Akuter peripherer arterieller Verschluss Sympt	akute sehr starke Schmerzen in der betroffenen Extremität, blasse, später glänzende zyanotische Hautmarmorierung, Pulse distal des Verschlusses nicht mehr tastbar	<img src="phlebotrombose.gif">	Notfall
+Akuter peripherer arterieller Verschluss Versorgung	betroffene Extremität tief lagern, nicht mehr bewegen, Extremität in Watte packen (um die Temperatur möglichst aufrecht zu erhalten), i.V. Zugang legen: offen halten mit Ringer-Lösung		Notfall
+Hypertensive Krise Sympt	Übelkeit, Erbrechen, Kopfschmerzen, Schwindel, Sehstörungen, Bewusstseinsstörungen, neurologische Ausfälle		Notfall
+Hypertensive Krise Versorgung	Oberkörper hochlagern, ständige Kontrolle der Vitalzeichen, Sauerstoffgabe		Notfall
+#
+# Notfälle des harnableitenden Systems
+# 
+Nieren-, Harnleiterkoliken Symtp	akute, kolikartige starke Schmerzen, welche in den Rücken, die Flanken, den Unterbauch bis in die Oberschenkel und den Genitalbereich strahlen, Übelkeit, blutiger Urin, angespannte Bauchdecke (!) Gefahr eines paralytischen Ileus		Notfall
+#		Notfall
+#		Notfall
+#		Notfall
+#		Notfall
+#		Notfall
+#		Notfall
+#		Notfall
+		Notfall
+		Notfall
+		Notfall
+		Notfall
+		Notfall
+		Notfall
+
+
