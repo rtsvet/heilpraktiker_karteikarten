@@ -19,20 +19,34 @@
 #
 #
 #######  Notfaele #####
-Preäklampsie Sympt	Hypertonie &gt; 140/90 mmHg,Proteinurie; 0,3 g/d</div><div>Ödeme <br><b>Typishes Bild:</b></div><div>Erstschwangerschaft , Alter &lt;18 oder &gt;35, Mehrlingsschwangerschaft, Diabete, Adiposita, Hypertoni Gefäserkr</div>	<img src="preeclampsie.jpeg">	Notfall
 #
-# Schock
+# Algemeine 
 #
+Die Vitalzeichen, die Sie in einem Notfall kontrollieren müssen?	Bewusstsein, Atmung, Puls, Blutdruck, Pupillenstatus		Notfall
+Ab welchen Wert spricht man von einer hypertensiven Krise?	> 230/120 mmHg		Notfall
+Welche Formen der Intoxikation werden unterschieden?	Bakterielle Vergiftung, atopische Vergiftung, akute erworbene Vergiftung, chronische Vergiftung.		Notfall
+Komplikationen einer akuten Appendizitis	Perforation mit anschließender Peritonitis, paralytischer Ileus, Fistelbildung, Abszessbildung. 		Notfall
+Mydriasis, Nüchternerbrechen, halbseitige neurologische Ausfälle, Bradykardie?	Krankheitsbilder mit zerebralen Blutungen. 		Notfall
+Was bedeuten in der Notfallversorgung die Ausdrücke „Phone fast“ und „First phone“?	"Bei Kindern bis 8 Jahre sollten bei primär respiratorischem Notfall zuerst Sofortmaßnahmen ergriffen werden und der Notruf schnellstmöglich erfolgen („Phone fast“). Bei bewusstlosen Kindern, die älter als 8 Jahre sind, sollte zuerst der Rettungsdienst alarmiert werden und danach mit weiteren Maßnahmen begonnen werden („First phone“) 		Notfall
+Grundversorgung in Notfall	Platz und Mensch sichern - bei Unfall, <br>, B-A-P-Regel,<br>Notarzt verständigen,<br>korrekte Grundversorgung des Patienten bis zum Eintreffen des Notarztes.		Notfall
+Was besagt der „Schock-Index“ für Erwachsene?	Pulsfrequenz/Minute : systolischer Blutdruck ≥ 1,0 = beginnender Schock 		Notfall
+Bis zu welcher Grenze kann ein Flüssigkeitsverlust vom Körper kompensiert	Bis zu 12 % des Körpergewichts kann der Körper kompensieren		Notfall
+Ursachen einer Unterkühlung	Extreme Kälteexposition, Hirnschäden, endokrinologische Erkrankungen wie Morbus Addison, Hypothyreose		Notfall
+#
+############################
+#    Schock                 #
+############################
 Hypovolämischer Schock Sympt	"Unruhe, Blässe, Kaltschweißigkeit, im fortgeschrittenen Stadium Zyanose<br>Bewusstseinsstörung<br>Tachypnoe<br>kollabierte Halsvenen, verminderte Venenfüllung (was die Punktion erschwert), Nagelbettprobe verlangsamt (> 2 Sekunden)<br>Oligurie"		Notfall
 Hypovolämischer Schock Massnahmen	evtl Blutung, <br>Flachlagerung, Beine hoch, bei Bewusstlosigkeit stabile Seitenlage, Achtung: nicht bei schwerem Schädel-Hirn-Trauma und nicht bei herzinsuffizienten Patienten!<br>venösen Zugang legen (großlumig): 20 bis 40 ml/kg Kochsalzlösung<br>ständige Kontrolle von Bewusstsein, Atmung, Puls<br>warm halten, beruhigen,		Notfall
 Kardiogener Schock Urs	akuter Myokardinfarkt (wenn mehr als 40 % des Herzmuskelgewebes des linken Ventrikels „ausfallen“, besteht ein kardiogener Schock mit einer Letalität von ca. 90 %) – dekompensierte Herzinsuffizienz, Kardiomyopathie – Tachy- und bradykarde Herzrhythmusstörungen – Herzklappenfehler – Myokarditis – Überdosierung herzkraftsenkender Medikamente, z. B. Betablocker – akute Behinder		Notfall
+Anaphylaktischer Schock Sofortmaßnahmen 	Allergenzufuhr stoppen, Lagerung: Flachlagerung: Beine hoch, bei Bewusstlosigkeit stabile Seitenlage, Sauerstoffgabe: 4 bis 6 l/min, i.V Zugang 20 bis 40 ml/kg Kochsalzlösung i.v. „im Schuss“, Adrenalin zur Injektion, Bei akuter Atemnot: ein Beta-Sympathomimetikum in Sprayform, Ein Antihistaminikum, das die allergische Reaktion bekämpft, Bei Spätreaktionen: Cortison		Notfall
+
 #
-Grundversorgung in Notfall	Platz und Mensch sichern - bei Unfall, <br>, B-A-P-Regel,<br>Notarzt verständigen,<br>korrekte Grundversorgung des Patienten bis zum Eintreffen des Notarztes.		Notfall
-#
+##########################################
 # Notfälle des Respirationstraktes
 #
 Pseudokrupp Sympt	 Heiserkeit, trockener, bellender Husten, Leise kloßige Stimme, inspiratorischer Stridor, mäßiges Fiebe		Notfall
-Pseudokrupp Versorgung	für ein feucht-kaltes Luftklima sorgen (z. B. Dusche anstellen),Sauerstoffgabe, Kind aufrecht sitzen lassen, Bei starken anhaltenden Beschwerden  Verständigung des Notarztes, keine Racheninspektion		Notfall
+Pseudokrupp Versorgung	für ein feucht-kaltes Luftklima sorgen (z. B. Dusche anstellen),Sauerstoffgabe, Kind aufrecht sitzen lassen, Bei starken anhaltenden Beschwerden  Verständigung des Notarztes, keine Racheninspektion,  Glukokortikoiden (Zäphen)		Notfall
 Epiglottitis Sympt	starke Dyspnoe, starke Halsschmerzen, Dysphargie, Hypersalivation, hohes Fiebe		Notfall
 Epiglottitis Versorgung 	Notarzt verständigen, Oberkörper hochlagern, Sauerstoffgabe, i.V. Zugang, keine Racheninspektion , Glukokortikoiden (Zäphen), Inspiratorisches Adrenalin Spray 		Notfall
 Asthma bronchiale Sympt 	Dyspnoe bei forcierter Expiration, Giemen, Pfeifen, Brummen, sichtbarer Einsatz der Atemhilfsmuskulatur, Blässe bis Zyanose		Notfall
@@ -58,18 +72,42 @@ Hypertensive Krise Versorgung	Oberkörper hochlagern, ständige Kontrolle der Vi
 # Notfälle des harnableitenden Systems
 # 
 Nieren-, Harnleiterkoliken Symtp	akute, kolikartige starke Schmerzen, welche in den Rücken, die Flanken, den Unterbauch bis in die Oberschenkel und den Genitalbereich strahlen, Übelkeit, blutiger Urin, angespannte Bauchdecke (!) Gefahr eines paralytischen Ileus		Notfall
-#		Notfall
-#		Notfall
-#		Notfall
-#		Notfall
-#		Notfall
-#		Notfall
-#		Notfall
-		Notfall
-		Notfall
-		Notfall
-		Notfall
-		Notfall
-		Notfall
+#
+# Intoxicationen
+#########################################
+Digitalisintoxikation Sympt	Übelkeit, Erbrechen, Diarrhoe, Sehstörungen: Farbensehen, Wölkchensehen, Flimmern , Tachykardie oder Bradykardie, Somnolenz		Notfall
+CO-Intoxikation Sympt	Zeichen des Sauerstoffmangels, starke Blutdruckschwankungen		Notfall
+##################################
+# Notfälle des Verdauungssystems
+##################################
+Ösophagusvarizenblutung Sympt	schwallartiges Erbrechen von kaffeesatzartigem, später rotem Blut; evtl. sichtbare Leberzeichen am Körper		Notfall
+Ulkusperforation Sympt	heftige Schmerzen, die plötzlich beginnen und bei U. ventriculi nach dem Essen in die linke Schulter und bei U. duodeni nüchtern in den rechten Unterbauch ausstrahlen; nach den Schmerzen oft schmerzfreies Intervall; akutes Abdomen;  Schocksymptomatik; Appetitlosigkeit; Gewichtsabnahme		Notfall
+Akute Appendizitis Sympt	Schmerzen, welche im Abdomen beginnen und später in den rechten Unterbauch strahlen; evtl. Fieber (Fieber Unterschied renal-axial); Übelkeit, Erbrechen; positive Untersuchungszeichen: McBurney-, Lanz-, Blumberg-, Rovsing-, Psoaszeichen	<img src="apendizitis.jpg">	Notfall
+Paralytischer Ileus Sympt	Wind- und Stuhlverhalt, Meteorismus, Übelkeit, Erbrechen, oft keine Schmerzen, Auskultationsbefund: „Totenstille über dem Abdomen“		Notfall
+Mechanischer Ileus Sympt	kolikartige Schmerzen, Wind- und Stuhlverhalt, Meteorismus, Übelkeit, Erbrechen, Koterbrechen, Auskultationsbefund: metallisch klingende Darmgeräusche, Hyperperistaltik		Notfall
+Gallenkolik Sympt	akute wellenförmig Schmerzen, stralen unter der rechte Schulterblatt, Übelkeit, Erbrechen 		Notfall
+Akute Pankreatitis Sympt	stärkste Oberbauchschmerzen, welche gürtelförmig in den Rücken ausstrahlen, Übelkeit, Erbrechen, evtl. Flush (Gesichtsrötung)  		Notfall
+####################################
+#  Notfälle des Bewegungsapparates  # 
+####################################
+Cauda-equina-Syndrom Sympt	schleichend oder akut beginnende Rückenschmerzen, welche meist einseitig ins Bein ausstrahlen; Taubheits- und Kribbelgefühl; Paresen; evtl. Blasen- und Darmentleerungsstörungen		Notfall
+##############################################
+#     Notfälle der Augen und der Ohren       #
+##############################################
+Akutes Glaukom Sympt	anfallsartige Sehverschlechterung, halbseitige Kopfschmerzen, gerötetes Auge, steinharter Bulbus, entrundete Pupille		Notfall
+Morbus Menière Sympt	meist einseitiger, akuter, anfallsartiger Drehschwindel, Tinnitus, Hörstörungen, Übelkeit, Erbrechen		Notfall
+###########################################
+#   Notfälle der Fortpflanzungsorgane     #
+########################################### 
+Preäklampsie Sympt	Hypertonie &gt; 140/90 mmHg,Proteinurie; 0,3 g/d</div><div>Ödeme <br><b>Typishes Bild:</b></div><div>Erstschwangerschaft , Alter &lt;18 oder &gt;35, Mehrlingsschwangerschaft, Diabete, Adiposita, Hypertoni Gefäserkr</div>	<img src="preeclampsie.jpeg">	Notfall
+Hodentorsion Sympt	akute, in die Leiste ziehende Schmerzen, welche beim Bewegen bzw. Anheben des Hodens zunehmen, Kinder äußern häufig Bauchschmerzen, welche kolikartig auftreten, eine Hodenseiten steht höher als die andere, stark gerötete Skrotalhaut		Notfall
+Epididymitis Sympt	zunehmende Hodenschmerzen, welche sich durch Anheben des Hodens bessern, Tachykardie, Fieber, stark gerötete Skrotalhaut		Notfall
+Paraphimose Sympt	zurückgestreifte und eingerollte geschwollene Vorhaut, blauverfärbte Glans penis, starke Schmerzen		Notfall
+Frühgeburt Massnahmen	linksseitige Beckenhochlagerung, Sauerstoffgabe, venösen Zugang legen: offen halten mit Ringer-Lösung		Notfall
+Vena-cava-Kompressionssyndrom Sympt	Meist Schwangere; Schwindel, Schwächegefühl, Übelkeit, Kaltschweißigkeit, Blässe, evtl. Zyanose, evtl. Bewusstlosigkei		Notfall
+#############################################
+#  Notfälle des Nervensystems
+############################################
+Apoplektischer Insult Sympt	Lähmungen von Armen und Beinen, herabhängender Mundwinkel<br>einseitige Sehstörungen<br>Schwindel; Sprach- und Koordinationsstörungen; „Herdblick“: der Patient sieht in Richtung seines Ischämieherdes; Somnolenz, Koma		Notfall
 
 
