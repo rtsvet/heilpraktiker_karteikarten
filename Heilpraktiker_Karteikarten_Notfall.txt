@@ -33,6 +33,7 @@ Was besagt der „Schock-Index“ für Erwachsene?	Pulsfrequenz/Minute : systoli
 Bis zu welcher Grenze kann ein Flüssigkeitsverlust vom Körper kompensiert	Bis zu 12 % des Körpergewichts kann der Körper kompensieren		Notfall
 Ursachen einer Unterkühlung	Extreme Kälteexposition, Hirnschäden, endokrinologische Erkrankungen wie Morbus Addison, Hypothyreose		Notfall
 #
+#
 ############################
 #    Schock                 #
 ############################
@@ -72,11 +73,12 @@ Hypertensive Krise Versorgung	Oberkörper hochlagern, ständige Kontrolle der Vi
 # Notfälle des harnableitenden Systems
 # 
 Nieren-, Harnleiterkoliken Symtp	akute, kolikartige starke Schmerzen, welche in den Rücken, die Flanken, den Unterbauch bis in die Oberschenkel und den Genitalbereich strahlen, Übelkeit, blutiger Urin, angespannte Bauchdecke (!) Gefahr eines paralytischen Ileus		Notfall
-#
+#################################
 # Intoxicationen
 #########################################
 Digitalisintoxikation Sympt	Übelkeit, Erbrechen, Diarrhoe, Sehstörungen: Farbensehen, Wölkchensehen, Flimmern , Tachykardie oder Bradykardie, Somnolenz		Notfall
 CO-Intoxikation Sympt	Zeichen des Sauerstoffmangels, starke Blutdruckschwankungen		Notfall
+Im welche Fälle der Intoxikation darf man kein Erbrechen herforrufen?	beim Einnahme ätzende Substanzen; schaumbildende S.; Aufhahme Organische Lösungsmittel oder Mineralöl (Lungenschädigung); Bewustlösigkeit		Notfall 
 ##################################
 # Notfälle des Verdauungssystems
 ##################################
@@ -108,6 +110,10 @@ Vena-cava-Kompressionssyndrom Sympt	Meist Schwangere; Schwindel, Schwächegefüh
 #############################################
 #  Notfälle des Nervensystems
 ############################################
-Apoplektischer Insult Sympt	Lähmungen von Armen und Beinen, herabhängender Mundwinkel<br>einseitige Sehstörungen<br>Schwindel; Sprach- und Koordinationsstörungen; „Herdblick“: der Patient sieht in Richtung seines Ischämieherdes; Somnolenz, Koma		Notfall
+Apoplektischer Insult Sympt	Lähmungen von Armen und Beinen, herabhängender Mundwinkel<br>einseitige Sehstörungen<br>Schwindel; Sprach- und Koordinationsstörungen; „Herdblick“: der Patient sieht in Richtung seines Ischämieherdes; Somnolenz, Koma	<img src="stroke-signs.jpg"><br>	Notfall
+Zerebrale Blutungen Sympt	Kopfschmerzen, Schwindel; Mydriasis; Nüchternerbrechen; halbseitige neurologische Ausfälle; Bradykardie; psychische Veränderungen; Somnolenz		Notfall
+Epilepsie Sympt	Patient stürzt hin; Initialschrei; tonisch-klonische Krämpfe (tonisch = einzelner Muskelgruppen oder des ganzen Körpers,klonisch = ruckartig);<br> Apnoe mit Zyanose; evtl. rötlicher Schaum vor dem Mund		Notfall
+Meningitis Sympt	akute Kopfschmerzen mit Nackensteifigkeit; Lichempfindlichkeit; Gelenkschmerzen; Fieber zwischen 39° - 40°C; Bewusstseinsstörungen; eurologische Untersuchungszeichen positiv: Lasège, Brudzinski; evtl. Petechien	<img src="menigitis_signs.jpg"><br>	Notfall
+
 
 

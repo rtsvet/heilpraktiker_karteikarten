@@ -1,0 +1,37 @@
+# <Heilpraktiker Karteikarten>
+#  Copyright (C) 2019  
+#  Authors and Contributors: Radoslav Tsvetkov
+#
+#    This information is free; you can redistribute it and/or modify it
+#    under the terms of the Creative Commons Attribution-NonCommercial 4.0 International  
+#
+#    This work is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#    See the
+#    Creative Commons Attribution-NonCommercial 4.0 International Public License
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+#    https://creativecommons.org/licenses/by-nc/4.0/legalcode.de
+#
+# Use <Tab> as field separator
+# Currently the fields are: 
+# Front	Back	Picture	Tag
+#
+#
+
+##########################################################
+####              Pediatrie                        ######
+##########################################################
+
+#    Endokrinologische Erkrankungen
+###########################################################
+Hyperinsulinismus Klinik:	Zittrigkeit, Schwitzen, Krampfanfälle und Zyanoseanfälle, Heißhungerattacken, Verwirrtheit, Müdigkeit, Sprachstörungen		Pediatrie
+Angeborene Hyperthyreose  Klinik: 	Hyperexzitabilität, Tachykardie, Fehlende Gewichtszunahme, Erhöhung der Körpertemperatur.		Pediatrie
+Hypothyreose Klinik: 	Anhaltend niedrige Körpertemperatur, Bradykardie, Obstipation, Trinkschwäche, Bewegungsarmut, Hypotonie der Muskulatur, Verlängerter Neugeborenenikterus, Im späteren Verlauf geistige Retardierung, Im späteren Verlauf Kleinwuchs .		Pediatrie
+Diabetes mellitus Typ 1 Klinik: 	Polydipsie, Polyurie, Leistungsabfall, Gewichtsabnahme. Komplikation: Diabetische Ketoazidose, Ketonurie 		Pediatrie
+
+Leitsymptom Bauchschmerzen	Obstipation, Gastroenteritits, Appendizitis, Invagination, Gastritis, Harnwegsinfekt, Scharlach, Pneumonie<br> Wenn chronisch: Obstipation, Gastritis, Chronisch entzündliche Darmerkrankungen, Chronische Appendizitis 		Pediatrie
+#Klinik: 	.		Pediatrie
+#Klinik: 	.		Pediatrie
+#Klinik: 	.		Pediatrie
+#Klinik: 	.		Pediatrie
